@@ -109,6 +109,9 @@ async function handleQuestion(request: Request, env: Env): Promise<Response> {
     if (/quota|neurons|rate.?limit|429/i.test(message)) {
       return json({ error: "free_quota_exhausted", message: MODEL_LIMIT_MESSAGE }, 503);
     }
+    if (/abort|timeout/i.test(message)) {
+      return json({ error: "model_timeout", stage, message: "Gemma 4 antwortet momentan nicht rechtzeitig. Das Wiki bleibt lesbar; bitte später erneut versuchen." }, 503);
+    }
     console.error(message);
     return json({ error: "agent_failed", stage, message: "Der Wiki-Agent konnte die Anfrage nicht verarbeiten." }, 502);
   }
@@ -157,16 +160,20 @@ async function answerAndMaintain(
 }
 
 async function runModel(env: Env, prompt: string, maxTokens: number): Promise<string> {
-  const response = (await env.AI.run(env.GEMMA_MODEL as keyof AiModels, {
-    messages: [
-      { role: "system", content: "Gib valides JSON ohne Markdown-Codeblock aus." },
-      { role: "user", content: prompt }
-    ],
-    max_tokens: maxTokens,
-    temperature: 0.2,
-    response_format: { type: "json_object" },
-    chat_template_kwargs: { enable_thinking: false }
-  })) as {
+  const response = (await env.AI.run(
+    env.GEMMA_MODEL as keyof AiModels,
+    {
+      messages: [
+        { role: "system", content: "Gib valides JSON ohne Markdown-Codeblock aus." },
+        { role: "user", content: prompt }
+      ],
+      max_tokens: maxTokens,
+      temperature: 0.2,
+      response_format: { type: "json_object" },
+      chat_template_kwargs: { enable_thinking: false }
+    },
+    { signal: AbortSignal.timeout(45_000) }
+  )) as {
     response?: string;
     choices?: Array<{ message?: { content?: string | null } }>;
   };
