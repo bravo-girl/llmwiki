@@ -8,6 +8,7 @@ const button = form.querySelector("button");
 const maintenanceWarning = document.querySelector("#maintenance-warning");
 const ingestForm = document.querySelector("#ingest-form");
 const adminKey = document.querySelector("#admin-key");
+const sourceId = document.querySelector("#source-id");
 const sourceFile = document.querySelector("#source-file");
 const ingestResult = document.querySelector("#ingest-result");
 
@@ -56,15 +57,16 @@ ingestForm.addEventListener("submit", async (event) => {
     const response = await fetch("/api/admin/ingest", {
       method: "POST",
       headers: { "content-type": "application/json", "x-admin-key": adminKey.value },
-      body: JSON.stringify({ filename: file.name, content })
+      body: JSON.stringify({ filename: file.name, content, sourceId: sourceId.value })
     });
     const data = await response.json();
     if (!response.ok) {
       const stored = data.sourceStored ? ` Die Originalquelle liegt bereits unter ${data.rawPath}.` : "";
       throw new Error((data.message || "Der Ingest ist fehlgeschlagen.") + stored);
     }
-    ingestResult.textContent = `${data.rawCreated ? "Gespeichert" : "Erneut verarbeitet"}: ${data.rawPath}. ${data.summary} Aktualisiert: ${data.updated.join(", ") || "keine Synthese"}.`;
+    ingestResult.textContent = `${data.rawCreated ? "Gespeichert" : "Erneut verarbeitet"}: ${data.rawPath} (${data.sourceKey}). ${data.summary} Aktualisiert: ${data.updated.join(", ") || "keine Synthese"}.`;
     sourceFile.value = "";
+    sourceId.value = "";
   } catch (error) {
     ingestResult.textContent = error.message;
   } finally {

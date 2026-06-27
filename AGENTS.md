@@ -4,6 +4,7 @@
 
 - `llm-wiki.md` ist die unveränderliche lokale Referenz des Karpathy-Grundprinzips. Niemals verändern.
 - `raw/` enthält unveränderliche Originalquellen. Niemals verändern.
+- Neue Dateien unter `raw/` tragen den aus ihrer eindeutigen Quellen-ID abgeleiteten Schlüssel im Namen: `<titel>--src-<sha256-kurz>.md`.
 - `wiki/` enthält ausschließlich vom LLM gepflegte Synthesen.
 - `index.md` ist der inhaltliche Einstieg und wird bei Wiki-Änderungen aktualisiert.
 - `log.md` protokolliert Ingests, wertvolle Queries und Lint-Läufe chronologisch.
@@ -23,3 +24,4 @@
 - Bewahre bestehende belegte Aussagen, sofern neue Evidenz sie nicht widerlegt.
 - Aktualisiere bei Änderungen `index.md` und ergänze `log.md`.
 - Verändere weder `llm-wiki.md` noch Dateien unter `raw/`.
+- Verarbeite eine in `log.md` als `Status: completed` protokollierte `Source-Key` niemals erneut.

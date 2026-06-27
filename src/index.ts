@@ -157,25 +157,43 @@ async function handleIngest(request: Request, env: Env): Promise<Response> {
 
   let filename = "";
   let content = "";
+  let sourceId = "";
   try {
-    const body = (await request.json()) as { filename?: unknown; content?: unknown };
+    const body = (await request.json()) as { filename?: unknown; content?: unknown; sourceId?: unknown };
     filename = typeof body.filename === "string" ? body.filename.trim() : "";
     content = typeof body.content === "string" ? body.content : "";
+    sourceId = typeof body.sourceId === "string" ? normalizeSourceId(body.sourceId) : "";
   } catch {
     return json({ error: "invalid_json" }, 400);
   }
 
-  if (!isSafeMarkdownFilename(filename)) {
-    return json({ error: "invalid_filename", message: "Erlaubt sind einfache .md-Dateinamen mit Buchstaben, Zahlen, Punkt, Minus und Unterstrich." }, 400);
+  if (!/\.md$/i.test(filename) || filename.length > 200) {
+    return json({ error: "invalid_filename", message: "Bitte eine Markdown-Datei mit der Endung .md auswählen." }, 400);
+  }
+  if (sourceId.length < 3 || sourceId.length > 1000) {
+    return json({ error: "invalid_source_id", message: "Bitte eine eindeutige Quellen-ID oder URL mit 3 bis 1000 Zeichen angeben." }, 400);
   }
   if (!content.trim() || content.length > MAX_SOURCE_CHARS) {
     return json({ error: "invalid_source", message: `Die Markdown-Quelle muss 1 bis ${MAX_SOURCE_CHARS.toLocaleString("de-DE")} Zeichen enthalten.` }, 400);
   }
 
-  const rawPath = `raw/${filename}`;
-  let stage = "store_raw";
+  const sourceKey = await sourceKeyFor(sourceId);
+  const rawFilename = buildRawFilename(filename, sourceKey);
+  const rawPath = `raw/${rawFilename}`;
+  let stage = "check_history";
   let rawCreated = false;
   try {
+    const history = await readGitFile(env, "log.md");
+    if (hasCompletedIngest(history.content, sourceKey)) {
+      return json({
+        error: "already_ingested",
+        sourceId,
+        sourceKey,
+        message: `Diese Quelle wurde bereits erfolgreich eingearbeitet (${sourceKey}).`
+      }, 409);
+    }
+
+    stage = "store_raw";
     try {
       const existing = await readGitFile(env, rawPath);
       if (existing.content !== content) {
@@ -183,7 +201,7 @@ async function handleIngest(request: Request, env: Env): Promise<Response> {
       }
     } catch (error) {
       if (!/404/.test(String(error))) throw error;
-      await createGitFile(env, rawPath, content, `llm-wiki: add source ${filename}`);
+      await createGitFile(env, rawPath, content, `llm-wiki: add source ${sourceKey}`);
       rawCreated = true;
     }
 
@@ -208,15 +226,15 @@ async function handleIngest(request: Request, env: Env): Promise<Response> {
     if (env.AUTO_WRITE === "true") {
       stage = "write_wiki";
       for (const edit of edits) {
-        await writeGitFile(env, edit.path, edit.content, `llm-wiki: ingest ${filename}`);
+        await writeGitFile(env, edit.path, edit.content, `llm-wiki: ingest ${sourceKey}`);
         committed.push(edit.path);
       }
       stage = "write_log";
-      await appendIngestLog(env, rawPath, result.summary, committed);
+      await appendIngestLog(env, rawPath, sourceId, sourceKey, result.summary, committed);
       committed.push("log.md");
     }
 
-    return json({ rawPath, rawCreated, summary: result.summary, updated: committed });
+    return json({ rawPath, rawCreated, sourceId, sourceKey, summary: result.summary, updated: committed });
   } catch (error) {
     return agentError(error, stage, rawCreated ? rawPath : undefined);
   }
@@ -237,12 +255,23 @@ async function appendQueryLog(env: Env, question: string, citations: string[], u
   await writeGitFile(env, "log.md", content, "llm-wiki: log query");
 }
 
-async function appendIngestLog(env: Env, rawPath: string, summary: string, updated: string[]): Promise<void> {
+async function appendIngestLog(
+  env: Env,
+  rawPath: string,
+  sourceId: string,
+  sourceKey: string,
+  summary: string,
+  updated: string[]
+): Promise<void> {
   const log = await readGitFile(env, "log.md");
   const date = new Date().toISOString().slice(0, 10);
   const compactSummary = summary.replace(/\s+/g, " ").slice(0, 700);
   const entry = [
     `## [${date}] ingest | ${rawPath}`,
+    "",
+    `Source-ID: \`${sourceId.replace(/`/g, "'")}\``,
+    `Source-Key: \`${sourceKey}\``,
+    "Status: `completed`",
     "",
     compactSummary || "Quelle eingelesen.",
     updated.length ? `Integriert in: ${updated.map((path) => `\`${path}\``).join(", ")}.` : "Keine neue Synthese erforderlich.",
@@ -396,8 +425,40 @@ function isWritableSynthesisPath(path: string): boolean {
   return isReadableWikiPath(path) || path === "index.md";
 }
 
-function isSafeMarkdownFilename(filename: string): boolean {
-  return filename.length <= 100 && /^[a-zA-Z0-9][a-zA-Z0-9._-]*\.md$/.test(filename) && !filename.includes("..");
+function normalizeSourceId(value: string): string {
+  const trimmed = value.trim();
+  try {
+    const url = new URL(trimmed);
+    if (url.protocol !== "http:" && url.protocol !== "https:") return trimmed;
+    url.hash = "";
+    url.hostname = url.hostname.toLowerCase();
+    if ((url.protocol === "https:" && url.port === "443") || (url.protocol === "http:" && url.port === "80")) url.port = "";
+    if (url.pathname === "/") url.pathname = "";
+    return url.toString();
+  } catch {
+    return trimmed.replace(/\s+/g, " ");
+  }
+}
+
+async function sourceKeyFor(sourceId: string): Promise<string> {
+  const digest = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(sourceId));
+  const hex = Array.from(new Uint8Array(digest), (byte) => byte.toString(16).padStart(2, "0")).join("");
+  return `src-${hex.slice(0, 20)}`;
+}
+
+function buildRawFilename(originalFilename: string, sourceKey: string): string {
+  const stem = originalFilename.replace(/\.md$/i, "")
+    .normalize("NFKD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "")
+    .slice(0, 60) || "quelle";
+  return `${stem}--${sourceKey}.md`;
+}
+
+function hasCompletedIngest(log: string, sourceKey: string): boolean {
+  return log.split(/\r?\n/).some((line) => line.trim() === `Source-Key: \`${sourceKey}\``);
 }
 
 function encodeGitPath(path: string): string {

@@ -23,10 +23,11 @@ Der Free-Tarif stoppt nach Ausschöpfung des täglichen Workers-AI-Kontingents. 
 ## Markdown-Quellen einarbeiten
 
 1. In der PWA „Markdown-Quelle hinzufügen“ öffnen.
-2. Den als Cloudflare-Secret `ADMIN_KEY` gesetzten Schlüssel und eine `.md`-Datei angeben.
-3. Die Quelle wird zuerst unveränderlich unter `raw/` committed. Gemma integriert daraus Synthesen in `wiki/`, aktualisiert `index.md` und protokolliert den Ingest in `log.md`.
+2. Den als Cloudflare-Secret `ADMIN_KEY` gesetzten Schlüssel, eine eindeutige Quellen-ID (vorzugsweise die kanonische URL) und eine `.md`-Datei angeben.
+3. Aus der Quellen-ID wird ein stabiler SHA-256-Kurzschlüssel erzeugt. Die Quelle wird als `<titel>--src-<schlüssel>.md` unveränderlich unter `raw/` committed.
+4. Gemma integriert daraus Synthesen in `wiki/`, aktualisiert `index.md` und protokolliert Quellen-ID, Schlüssel und Abschlussstatus in `log.md`.
 
-Bei ausgeschöpftem AI-Kontingent bleibt die Originalquelle erhalten. Dieselbe Datei kann später erneut hochgeladen werden; anderer Inhalt unter demselben Dateinamen wird zum Schutz von `raw/` abgewiesen. Pro Quelle sind höchstens 60.000 Zeichen erlaubt.
+Vor jedem Ingest wird `log.md` geprüft. Eine erfolgreich abgeschlossene Quellen-ID wird nicht erneut verarbeitet. Bei ausgeschöpftem AI-Kontingent bleibt die Originalquelle erhalten und darf mit derselben Quellen-ID später erneut versucht werden. Pro Quelle sind höchstens 60.000 Zeichen erlaubt.
 
 ## GitHub-Token erneuern
 

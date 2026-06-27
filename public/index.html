@@ -40,10 +40,12 @@
 
       <details class="admin-panel">
         <summary>Markdown-Quelle hinzufügen</summary>
-        <p>Nur für den Admin: Die Originaldatei wird unveränderlich unter <code>raw/</code> gespeichert und anschließend in das Wiki eingearbeitet.</p>
+        <p>Nur für den Admin: Aus der Quellen-ID entsteht ein stabiler Schlüssel im Dateinamen. Bereits erfolgreich eingearbeitete Quellen werden abgewiesen.</p>
         <form id="ingest-form">
           <label for="admin-key">Admin-Schlüssel</label>
           <input id="admin-key" name="admin-key" type="password" autocomplete="current-password" required />
+          <label for="source-id">Eindeutige Quellen-ID oder URL</label>
+          <input id="source-id" name="source-id" type="text" inputmode="url" maxlength="1000" required placeholder="https://example.org/dokument" />
           <label for="source-file">Markdown-Datei</label>
           <input id="source-file" name="source-file" type="file" accept=".md,text/markdown,text/plain" required />
           <button type="submit">Quelle einarbeiten</button>
