@@ -88,6 +88,9 @@ async function handleQuestion(request: Request, env: Env): Promise<Response> {
         await writeGitFile(env, edit.path, edit.content, `llm-wiki: integrate question`);
         committed.push(edit.path);
       }
+
+      await appendQueryLog(env, question, result.citations, committed);
+      if (!committed.includes("log.md")) committed.push("log.md");
     }
 
     return json({
@@ -103,6 +106,21 @@ async function handleQuestion(request: Request, env: Env): Promise<Response> {
     console.error(message);
     return json({ error: "agent_failed", message: "Der Wiki-Agent konnte die Anfrage nicht verarbeiten." }, 502);
   }
+}
+
+async function appendQueryLog(env: Env, question: string, citations: string[], updated: string[]): Promise<void> {
+  const log = await readGitFile(env, "log.md");
+  const date = new Date().toISOString().slice(0, 10);
+  const compactQuestion = question.replace(/\s+/g, " ").slice(0, 500);
+  const entry = [
+    `## [${date}] query | ${compactQuestion}`,
+    "",
+    citations.length ? `Gelesen: ${citations.map((path) => `\`${path}\``).join(", ")}.` : "Keine vorhandene Wiki-Seite zitiert.",
+    updated.length ? `Integriert in: ${updated.map((path) => `\`${path}\``).join(", ")}.` : "Keine redundante Wissensseite erzeugt.",
+    ""
+  ].join("\n");
+  const content = `${log.content.trimEnd()}\n\n${entry}`;
+  await writeGitFile(env, "log.md", content, "llm-wiki: log query");
 }
 
 async function routeQuestion(env: Env, question: string, schema: string, index: string): Promise<RouteDecision> {
