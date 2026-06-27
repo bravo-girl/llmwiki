@@ -8,3 +8,8 @@ Dateibasierte Wissensbasis mit `raw/`, `wiki/`, `AGENTS.md`, `index.md` und `log
 
 Gelesen: `wiki/llm-wiki.md`.
 Keine redundante Wissensseite erzeugt.
+
+## [2026-06-27] query | erkläre riemannsche vermutung
+
+Keine vorhandene Wiki-Seite zitiert.
+Keine redundante Wissensseite erzeugt.
