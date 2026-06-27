@@ -26,6 +26,7 @@ button:disabled { opacity: .55; cursor: wait; }
 .status, .meta { color: #62746d; font-size: .82rem; }
 #answer { white-space: pre-wrap; line-height: 1.65; }
 .meta { margin-top: 20px; }
+.meta a { color: #315f50; font-weight: 700; text-underline-offset: 2px; }
 .admin-panel { margin-top: 48px; padding-top: 24px; border-top: 1px solid #cbd4cf; color: #587067; }
 .admin-panel summary { cursor: pointer; color: #17332b; font-weight: 750; }
 .admin-panel p { font-size: .88rem; line-height: 1.55; }

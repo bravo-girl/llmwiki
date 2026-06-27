@@ -31,10 +31,7 @@ form.addEventListener("submit", async (event) => {
 
     status.textContent = "Antwort aus dem LLM-Wiki";
     answer.textContent = data.answer;
-    const details = [];
-    if (data.citations?.length) details.push(`Gelesen: ${data.citations.join(", ")}`);
-    if (data.updated?.length) details.push(`Aktualisiert: ${data.updated.join(", ")}`);
-    meta.textContent = details.join(" · ");
+    renderMeta(data.citations || [], data.updated || []);
   } catch (error) {
     status.textContent = "Momentan nicht verfügbar";
     answer.textContent = error.message;
@@ -42,6 +39,31 @@ form.addEventListener("submit", async (event) => {
     button.disabled = false;
   }
 });
+
+function renderMeta(citations, updated) {
+  meta.replaceChildren();
+  if (citations.length) {
+    meta.append("Quellen: ");
+    citations.forEach((citation, index) => {
+      if (index) meta.append(", ");
+      const normalized = typeof citation === "string" ? { path: citation, label: citation } : citation;
+      if (normalized.url) {
+        const link = document.createElement("a");
+        link.href = normalized.url;
+        link.textContent = normalized.label || normalized.path;
+        link.target = "_blank";
+        link.rel = "noopener noreferrer";
+        meta.append(link);
+      } else {
+        meta.append(normalized.label || normalized.path);
+      }
+    });
+  }
+  if (updated.length) {
+    if (citations.length) meta.append(" · ");
+    meta.append(`Aktualisiert: ${updated.join(", ")}`);
+  }
+}
 
 ingestForm.addEventListener("submit", async (event) => {
   event.preventDefault();

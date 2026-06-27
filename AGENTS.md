@@ -21,6 +21,7 @@
 
 - Schreibe vollständige, eigenständig verständliche Markdown-Seiten.
 - Verwende relative Markdown-Links zwischen verwandten Seiten.
+- Bewahre vorhandene `Original-URL`-Links unverändert als anklickbare Markdown-Quellenangaben.
 - Bewahre bestehende belegte Aussagen, sofern neue Evidenz sie nicht widerlegt.
 - Aktualisiere bei Änderungen `index.md` und ergänze `log.md`.
 - Verändere weder `llm-wiki.md` noch Dateien unter `raw/`.

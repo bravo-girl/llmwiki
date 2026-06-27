@@ -20,6 +20,8 @@ npm run deploy
 
 Der Free-Tarif stoppt nach Ausschöpfung des täglichen Workers-AI-Kontingents. Es ist kein kostenpflichtiger Fallback konfiguriert.
 
+Original-URLs aus den Wiki-Seiten werden nur dann als anklickbare Quellen ausgegeben, wenn sie wörtlich in einer tatsächlich gelesenen Markdown-Seite vorkommen. Modellseitig erfundene oder veränderte URLs werden serverseitig verworfen.
+
 ## Markdown-Quellen einarbeiten
 
 1. In der PWA „Markdown-Quelle hinzufügen“ öffnen.
