@@ -139,11 +139,17 @@ async function runModel(env: Env, prompt: string, maxTokens: number): Promise<st
       { role: "user", content: prompt }
     ],
     max_tokens: maxTokens,
-    temperature: 0.2
-  })) as { response?: string };
+    temperature: 0.2,
+    response_format: { type: "json_object" },
+    chat_template_kwargs: { enable_thinking: false }
+  })) as {
+    response?: string;
+    choices?: Array<{ message?: { content?: string | null } }>;
+  };
 
-  if (!response?.response) throw new Error("Empty model response");
-  return response.response;
+  const content = response.response ?? response.choices?.[0]?.message?.content;
+  if (!content) throw new Error("Empty model response");
+  return content;
 }
 
 async function readGitFile(env: Env, path: string): Promise<GitFile> {
@@ -190,7 +196,10 @@ function githubFetch(env: Env, path: string, init: RequestInit = {}): Promise<Re
 
 function parseModelJson<T>(value: string): T {
   const cleaned = value.trim().replace(/^```json\s*/i, "").replace(/\s*```$/, "");
-  return JSON.parse(cleaned) as T;
+  const start = cleaned.indexOf("{");
+  const end = cleaned.lastIndexOf("}");
+  if (start < 0 || end < start) throw new Error("Model returned no JSON object");
+  return JSON.parse(cleaned.slice(start, end + 1)) as T;
 }
 
 function isReadableWikiPath(path: unknown): path is string {
@@ -220,4 +229,3 @@ function encodeBase64Utf8(value: string): string {
 function json(value: unknown, status = 200): Response {
   return new Response(JSON.stringify(value), { status, headers: JSON_HEADERS });
 }
-
