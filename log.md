@@ -13,3 +13,8 @@ Keine redundante Wissensseite erzeugt.
 
 Keine vorhandene Wiki-Seite zitiert.
 Keine redundante Wissensseite erzeugt.
+
+## [2026-06-27] ingest | raw/karpathy-llm-wiki.md
+
+Die Originalquelle 'karpathy-llm-wiki.md' wurde integriert. Es wurde eine neue Synthese-Seite 'wiki/karpathy-pattern.md' erstellt, die das Konzept des 'Persistent Compounding Artifact' beschreibt, die Architektur (Raw, Wiki, Schema) sowie die operativen Prozesse (Ingest, Query, Lint) erläutert. Der Wiki-Index wurde um diese neue Seite ergänzt.
+Integriert in: `wiki/karpathy-pattern.md`, `index.md`.
