@@ -1,6 +1,6 @@
 # Wiki-Index
 
-Die Wissensbasis ist noch leer. Neue Quellen kommen nach `raw/`; synthetisierte Seiten entstehen unter `wiki/`.
+Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen stehen unter `wiki/`.
 
 ## Konzepte
 
