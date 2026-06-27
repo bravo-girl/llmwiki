@@ -14,10 +14,19 @@ Dateibasiertes Karpathy-LLM-Wiki für Cloudflare Workers AI und GitHub.
 ```sh
 npx wrangler login
 npx wrangler secret put GITHUB_TOKEN
+npx wrangler secret put ADMIN_KEY
 npm run deploy
 ```
 
 Der Free-Tarif stoppt nach Ausschöpfung des täglichen Workers-AI-Kontingents. Es ist kein kostenpflichtiger Fallback konfiguriert.
+
+## Markdown-Quellen einarbeiten
+
+1. In der PWA „Markdown-Quelle hinzufügen“ öffnen.
+2. Den als Cloudflare-Secret `ADMIN_KEY` gesetzten Schlüssel und eine `.md`-Datei angeben.
+3. Die Quelle wird zuerst unveränderlich unter `raw/` committed. Gemma integriert daraus Synthesen in `wiki/`, aktualisiert `index.md` und protokolliert den Ingest in `log.md`.
+
+Bei ausgeschöpftem AI-Kontingent bleibt die Originalquelle erhalten. Dieselbe Datei kann später erneut hochgeladen werden; anderer Inhalt unter demselben Dateinamen wird zum Schutz von `raw/` abgewiesen. Pro Quelle sind höchstens 60.000 Zeichen erlaubt.
 
 ## GitHub-Token erneuern
 
