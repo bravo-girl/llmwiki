@@ -5,6 +5,7 @@ interface Env {
   GITHUB_OWNER: string;
   GITHUB_REPO: string;
   GITHUB_BRANCH: string;
+  GITHUB_TOKEN_EXPIRES_AT?: string;
   GEMMA_MODEL: string;
   AUTO_WRITE: string;
   GIT_PROVIDER: string;
@@ -39,7 +40,12 @@ export default {
     const url = new URL(request.url);
 
     if (url.pathname === "/api/health") {
-      return json({ ok: true, model: env.GEMMA_MODEL, storage: env.GIT_PROVIDER });
+      return json({
+        ok: true,
+        model: env.GEMMA_MODEL,
+        storage: env.GIT_PROVIDER,
+        githubToken: githubTokenStatus(env.GITHUB_TOKEN_EXPIRES_AT)
+      });
     }
 
     if (url.pathname === "/api/ask" && request.method === "POST") {
@@ -108,6 +114,13 @@ async function handleQuestion(request: Request, env: Env): Promise<Response> {
     const message = error instanceof Error ? error.message : String(error);
     if (/quota|neurons|rate.?limit|429/i.test(message)) {
       return json({ error: "free_quota_exhausted", message: MODEL_LIMIT_MESSAGE }, 503);
+    }
+    if (/GitHub.*(?:401|403)/i.test(message)) {
+      return json({
+        error: "github_token_expired",
+        stage,
+        message: "Der GitHub-Schreibzugriff muss erneuert werden. Bitte einen neuen Fine-grained Token als Cloudflare-Secret GITHUB_TOKEN hinterlegen."
+      }, 503);
     }
     if (/abort|timeout/i.test(message)) {
       return json({ error: "model_timeout", stage, message: "Gemma 4 antwortet momentan nicht rechtzeitig. Das Wiki bleibt lesbar; bitte später erneut versuchen." }, 503);
@@ -260,4 +273,18 @@ function encodeBase64Utf8(value: string): string {
 
 function json(value: unknown, status = 200): Response {
   return new Response(JSON.stringify(value), { status, headers: JSON_HEADERS });
+}
+
+function githubTokenStatus(expiresAt?: string): { expiresAt: string | null; daysRemaining: number | null; warning: string | null } {
+  if (!expiresAt) return { expiresAt: null, daysRemaining: null, warning: null };
+  const expiry = Date.parse(`${expiresAt}T00:00:00Z`);
+  if (!Number.isFinite(expiry)) return { expiresAt, daysRemaining: null, warning: "Das Ablaufdatum des GitHub-Tokens ist ungültig konfiguriert." };
+  const daysRemaining = Math.ceil((expiry - Date.now()) / 86_400_000);
+  if (daysRemaining < 0) {
+    return { expiresAt, daysRemaining, warning: "Der GitHub-Token ist abgelaufen. Der Wiki-Schreibzugriff muss erneuert werden." };
+  }
+  if (daysRemaining <= 14) {
+    return { expiresAt, daysRemaining, warning: `Der GitHub-Token läuft in ${daysRemaining} Tagen ab und muss erneuert werden.` };
+  }
+  return { expiresAt, daysRemaining, warning: null };
 }

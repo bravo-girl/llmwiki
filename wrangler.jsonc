@@ -18,6 +18,7 @@
     "GITHUB_OWNER": "bravo-girl",
     "GITHUB_REPO": "llmwiki",
     "GITHUB_BRANCH": "main",
+    "GITHUB_TOKEN_EXPIRES_AT": "2026-09-25",
     "GEMMA_MODEL": "@cf/google/gemma-4-26b-a4b-it",
     "AUTO_WRITE": "true"
   }

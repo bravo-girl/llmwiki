@@ -2,6 +2,7 @@
 
 ## Rollen
 
+- `llm-wiki.md` ist die unveränderliche lokale Referenz des Karpathy-Grundprinzips. Niemals verändern.
 - `raw/` enthält unveränderliche Originalquellen. Niemals verändern.
 - `wiki/` enthält ausschließlich vom LLM gepflegte Synthesen.
 - `index.md` ist der inhaltliche Einstieg und wird bei Wiki-Änderungen aktualisiert.
@@ -21,3 +22,4 @@
 - Verwende relative Markdown-Links zwischen verwandten Seiten.
 - Bewahre bestehende belegte Aussagen, sofern neue Evidenz sie nicht widerlegt.
 - Aktualisiere bei Änderungen `index.md` und ergänze `log.md`.
+- Verändere weder `llm-wiki.md` noch Dateien unter `raw/`.

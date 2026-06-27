@@ -5,6 +5,7 @@ const status = document.querySelector("#status");
 const answer = document.querySelector("#answer");
 const meta = document.querySelector("#meta");
 const button = form.querySelector("button");
+const maintenanceWarning = document.querySelector("#maintenance-warning");
 
 form.addEventListener("submit", async (event) => {
   event.preventDefault();
@@ -38,3 +39,12 @@ form.addEventListener("submit", async (event) => {
 });
 
 if ("serviceWorker" in navigator) navigator.serviceWorker.register("/sw.js");
+
+fetch("/api/health")
+  .then((response) => response.json())
+  .then((health) => {
+    if (!health.githubToken?.warning) return;
+    maintenanceWarning.textContent = health.githubToken.warning;
+    maintenanceWarning.hidden = false;
+  })
+  .catch(() => {});
