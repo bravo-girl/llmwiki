@@ -33,6 +33,8 @@ Vor jedem Ingest wird `log.md` geprüft. Eine erfolgreich abgeschlossene Quellen
 
 Bei HTML-Sammelseiten ist nicht die Top-URL die Ingest-Einheit. Jeder Fachabschnitt erhält eine eigene Quellen-ID mit `#llmwiki-section=<slug>` und wird separat gegen die Historie geprüft; verlinkte PDFs verwenden jeweils ihre eigene kanonische PDF-URL. Ein Seitenindex mit `Ingest: false` wird nicht verarbeitet.
 
+Nach einem vollständigen Lauf über alle Zeilen in `quellen/quellen.txt` erzeugt `npm run history:complete-ingest` einen Snapshot und ergänzt die Gesamtlauf-Historie um neue, geänderte, gelöschte und unveränderte Themen. Bei einer fehlenden oder nur teilweise aufbereiteten Manifestzeile bricht die Historienbildung ohne Schreibvorgang ab.
+
 ## GitHub-Token erneuern
 
 Der konfigurierte Fine-grained Token läuft am in `wrangler.jsonc` hinterlegten Datum `GITHUB_TOKEN_EXPIRES_AT` ab. Ab 14 Tagen vor diesem Datum zeigt die PWA eine Warnung.

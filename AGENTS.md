@@ -23,6 +23,9 @@
 - Verknüpfe lokal erzeugte Markdown- und PDF-Dateien mit `[[Wikilinks]]` und prüfe alle internen sowie externen Links.
 - Erzeuge pro Discovery-URL einen reinen Quellenindex mit Wikilinks auf alle Themen. Markiere ihn mit `Ingest: false`; er wird niemals als Wissensquelle ingestiert.
 - Ein „komplett ingest“ verarbeitet alle Manifestzeilen nach diesen Regeln und prüft vor der Verarbeitung jeden einzelnen Abschnitts- oder PDF-Schlüssel gegen die `Source-Key`-Einträge mit `Status: completed` in `log.md`. Überspringe nur bereits abgeschlossene Themen, niemals pauschal die gesamte Discovery-URL.
+- Erzeuge die Gesamtlauf-Historie erst nach erfolgreicher Aufbereitung aller Manifestzeilen mit `npm run history:complete-ingest`. Der Lauf muss abbrechen, sobald ein nummeriertes Quellenverzeichnis oder sein passender, mit `Ingest: false` gesperrter Quellenindex fehlt.
+- `quellen/komplett-ingest-snapshot.json` hält den letzten vollständigen Themenbestand samt Inhalts- und PDF-Hashes. `quellen/komplett-ingest-historie.txt` protokolliert je Lauf die Kategorien `NEU`, `GEÄNDERT`, `GELÖSCHT` und `UNVERÄNDERT` mit Quellen-ID, Schlüssel, Typ und Dateipfad.
+- Ein Thema gilt als unverändert, wenn Quellen-ID und Inhaltsfingerabdruck übereinstimmen. Eine PDF fließt zusätzlich binär in den Fingerabdruck ein. Gleiche ID mit neuem Fingerabdruck gilt als geändert und darf als neue Version erneut verarbeitet werden.
 - Die Aufbereitung unter `quellen/` allein überträgt noch nichts nach `raw/` oder `wiki/` und veröffentlicht nichts, sofern dies nicht zusätzlich verlangt wird.
 
 ## Query
