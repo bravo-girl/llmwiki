@@ -182,6 +182,17 @@ async function handleIngest(request: Request, env: Env): Promise<Response> {
   if (!content.trim() || content.length > MAX_SOURCE_CHARS) {
     return json({ error: "invalid_source", message: `Die Markdown-Quelle muss 1 bis ${MAX_SOURCE_CHARS.toLocaleString("de-DE")} Zeichen enthalten.` }, 400);
   }
+  if (/^\s*-\s*Ingest:\s*`false`\s*$/mi.test(content)) {
+    return json({ error: "not_ingestible", message: "Diese Markdown-Datei ist als nicht ingestierbarer Quellenindex markiert." }, 400);
+  }
+
+  const embeddedSourceId = extractMarkdownSourceId(content);
+  if (embeddedSourceId && normalizeSourceId(embeddedSourceId) !== sourceId) {
+    return json({
+      error: "source_id_mismatch",
+      message: "Die Quellen-ID im Markdown stimmt nicht mit der angegebenen Quellen-ID überein."
+    }, 400);
+  }
 
   const sourceKey = await sourceKeyFor(sourceId);
   const rawFilename = buildRawFilename(filename, sourceKey);
@@ -477,7 +488,6 @@ function normalizeSourceId(value: string): string {
   try {
     const url = new URL(trimmed);
     if (url.protocol !== "http:" && url.protocol !== "https:") return trimmed;
-    url.hash = "";
     url.hostname = url.hostname.toLowerCase();
     if ((url.protocol === "https:" && url.port === "443") || (url.protocol === "http:" && url.port === "80")) url.port = "";
     if (url.pathname === "/") url.pathname = "";
@@ -495,6 +505,7 @@ async function sourceKeyFor(sourceId: string): Promise<string> {
 
 function buildRawFilename(originalFilename: string, sourceKey: string): string {
   const stem = originalFilename.replace(/\.md$/i, "")
+    .replace(/--src-[0-9a-f]{20}$/i, "")
     .normalize("NFKD")
     .replace(/[\u0300-\u036f]/g, "")
     .toLowerCase()
@@ -502,6 +513,11 @@ function buildRawFilename(originalFilename: string, sourceKey: string): string {
     .replace(/^-+|-+$/g, "")
     .slice(0, 60) || "quelle";
   return `${stem}--${sourceKey}.md`;
+}
+
+function extractMarkdownSourceId(content: string): string | null {
+  const match = content.match(/^\s*-\s*Quellen-ID:\s*`([^`]+)`\s*$/m);
+  return match?.[1]?.trim() || null;
 }
 
 function hasCompletedIngest(log: string, sourceKey: string): boolean {

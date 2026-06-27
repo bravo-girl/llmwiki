@@ -9,6 +9,22 @@
 - `index.md` ist der inhaltliche Einstieg und wird bei Wiki-Änderungen aktualisiert.
 - `log.md` protokolliert Ingests, wertvolle Queries und Lint-Läufe chronologisch.
 
+## Komplett-Ingest aus `quellen/quellen.txt`
+
+- `quellen/quellen.txt` ist das Importmanifest und enthält pro nichtleerer Zeile genau eine kanonische HTTP- oder HTTPS-URL.
+- Die URL in Zeile `n` ist nur eine Discovery-URL und wird vollständig und reproduzierbar in `quellen/n/` aufbereitet; sie ist nicht selbst die einzige Ingest-Einheit.
+- Extrahiere alle fachlichen HTML-Abschnitte quellentreu und abschnittsweise; fasse sie nicht zusammen und paraphrasiere sie nicht.
+- Speichere jeden HTML-Fachabschnitt als eigene Markdown-Datei. Seine kanonische Quellen-ID lautet `<discovery-url>#llmwiki-section=<stabiler-abschnittsslug>` und erhält dadurch einen eigenen `Source-Key`.
+- Übernimm keine Navigation, Seitenrahmen, Kontakte, personenbezogenen Daten, Impressums-, Datenschutz- oder Social-Media-Inhalte.
+- Ermittle alle im fachlichen Artikelbereich direkt verlinkten PDFs, lade die unveränderten Originale herunter und erzeuge für jedes PDF eine vollständige, nach Seiten oder Tabellen strukturierte Markdown-Transkription.
+- Behandle jedes PDF anhand seiner kanonischen PDF-URL als eigenständiges Thema mit eigenem `Source-Key`.
+- Gib jeder erzeugten Quelldatei einen stabilen URL-basierten Schlüssel im Namen: `<titel>--src-<erste-20-hexzeichen-von-sha256-der-kanonischen-url>.<endung>`.
+- Jede Markdown-Quelle enthält `Quellen-ID`, `Quellen-Schlüssel`, Abrufdatum, einen anklickbaren `Original-URL`-Markdown-Link und bei PDFs zusätzlich einen `[[Wikilink]]` auf das lokale Original.
+- Verknüpfe lokal erzeugte Markdown- und PDF-Dateien mit `[[Wikilinks]]` und prüfe alle internen sowie externen Links.
+- Erzeuge pro Discovery-URL einen reinen Quellenindex mit Wikilinks auf alle Themen. Markiere ihn mit `Ingest: false`; er wird niemals als Wissensquelle ingestiert.
+- Ein „komplett ingest“ verarbeitet alle Manifestzeilen nach diesen Regeln und prüft vor der Verarbeitung jeden einzelnen Abschnitts- oder PDF-Schlüssel gegen die `Source-Key`-Einträge mit `Status: completed` in `log.md`. Überspringe nur bereits abgeschlossene Themen, niemals pauschal die gesamte Discovery-URL.
+- Die Aufbereitung unter `quellen/` allein überträgt noch nichts nach `raw/` oder `wiki/` und veröffentlicht nichts, sofern dies nicht zusätzlich verlangt wird.
+
 ## Query
 
 1. Lies zuerst `index.md`.

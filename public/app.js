@@ -12,6 +12,14 @@ const sourceId = document.querySelector("#source-id");
 const sourceFile = document.querySelector("#source-file");
 const ingestResult = document.querySelector("#ingest-result");
 
+sourceFile.addEventListener("change", async () => {
+  const file = sourceFile.files?.[0];
+  if (!file) return;
+  const content = await file.text();
+  const embedded = content.match(/^\s*-\s*Quellen-ID:\s*`([^`]+)`\s*$/m)?.[1];
+  if (embedded) sourceId.value = embedded;
+});
+
 form.addEventListener("submit", async (event) => {
   event.preventDefault();
   result.hidden = false;

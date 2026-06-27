@@ -31,6 +31,8 @@ Original-URLs aus den Wiki-Seiten werden nur dann als anklickbare Quellen ausgeg
 
 Vor jedem Ingest wird `log.md` geprüft. Eine erfolgreich abgeschlossene Quellen-ID wird nicht erneut verarbeitet. Bei ausgeschöpftem AI-Kontingent bleibt die Originalquelle erhalten und darf mit derselben Quellen-ID später erneut versucht werden. Pro Quelle sind höchstens 60.000 Zeichen erlaubt.
 
+Bei HTML-Sammelseiten ist nicht die Top-URL die Ingest-Einheit. Jeder Fachabschnitt erhält eine eigene Quellen-ID mit `#llmwiki-section=<slug>` und wird separat gegen die Historie geprüft; verlinkte PDFs verwenden jeweils ihre eigene kanonische PDF-URL. Ein Seitenindex mit `Ingest: false` wird nicht verarbeitet.
+
 ## GitHub-Token erneuern
 
 Der konfigurierte Fine-grained Token läuft am in `wrangler.jsonc` hinterlegten Datum `GITHUB_TOKEN_EXPIRES_AT` ab. Ab 14 Tagen vor diesem Datum zeigt die PWA eine Warnung.
