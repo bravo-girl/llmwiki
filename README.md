@@ -33,7 +33,9 @@ Vor jedem Ingest wird `log.md` geprüft. Eine erfolgreich abgeschlossene Quellen
 
 Bei HTML-Sammelseiten ist nicht die Top-URL die Ingest-Einheit. Jeder Fachabschnitt erhält eine eigene Quellen-ID mit `#llmwiki-section=<slug>` und wird separat gegen die Historie geprüft; verlinkte PDFs verwenden jeweils ihre eigene kanonische PDF-URL. Ein Seitenindex mit `Ingest: false` wird nicht verarbeitet.
 
-Nach einem vollständigen Lauf über alle Zeilen in `quellen/quellen.txt` erzeugt `npm run history:complete-ingest` einen Snapshot und ergänzt die Gesamtlauf-Historie um neue, geänderte, gelöschte und unveränderte Themen. Bei einer fehlenden oder nur teilweise aufbereiteten Manifestzeile bricht die Historienbildung ohne Schreibvorgang ab.
+Alle URLs aus `quellen/quellen.txt` werden in der einzigen gemeinsamen Quellenbasis `quellen/1/` aufbereitet. Nach einem vollständigen Lauf erzeugt `npm run history:complete-ingest` einen Snapshot und ergänzt die Gesamtlauf-Historie um neue, geänderte, gelöschte und unveränderte Themen. Fehlt für eine Manifest-URL genau ein passender Quellenindex, bricht die Historienbildung ohne Schreibvorgang ab.
+
+Der lokale Gesamtlauf erfolgt mit `npm run sources:complete-ingest` und danach `npm run history:complete-ingest`. Dafür werden Python 3, die Pakete aus `requirements-ingest.txt` und Poppler (`pdftoppm`, alternativ über `PDFTOPPM`) benötigt.
 
 ## GitHub-Token erneuern
 

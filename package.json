@@ -7,6 +7,7 @@
     "dev": "wrangler dev",
     "deploy": "wrangler deploy",
     "check": "tsc --noEmit",
+    "sources:complete-ingest": "python scripts/collect-complete-sources.py",
     "history:complete-ingest": "node scripts/record-complete-ingest-history.mjs",
     "test": "node --test"
   },
