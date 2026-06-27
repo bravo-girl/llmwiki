@@ -71,24 +71,30 @@ async function handleQuestion(request: Request, env: Env): Promise<Response> {
     return json({ error: "invalid_question", message: "Die Frage muss 1 bis 4000 Zeichen enthalten." }, 400);
   }
 
+  let stage = "read_wiki";
   try {
     const [schema, index] = await Promise.all([
       readGitFile(env, "AGENTS.md"),
       readGitFile(env, "index.md")
     ]);
 
+    stage = "route_question";
     const route = await routeQuestion(env, question, schema.content, index.content);
+    stage = "read_pages";
     const pages = await Promise.all(route.paths.slice(0, 8).map((path) => readGitFile(env, path)));
+    stage = "answer_question";
     const result = await answerAndMaintain(env, question, schema.content, index.content, pages);
 
     const committed: string[] = [];
     if (env.AUTO_WRITE === "true") {
+      stage = "write_wiki";
       for (const edit of result.edits.slice(0, 12)) {
         if (!isWritableWikiPath(edit.path)) continue;
         await writeGitFile(env, edit.path, edit.content, `llm-wiki: integrate question`);
         committed.push(edit.path);
       }
 
+      stage = "write_log";
       await appendQueryLog(env, question, result.citations, committed);
       if (!committed.includes("log.md")) committed.push("log.md");
     }
@@ -104,7 +110,7 @@ async function handleQuestion(request: Request, env: Env): Promise<Response> {
       return json({ error: "free_quota_exhausted", message: MODEL_LIMIT_MESSAGE }, 503);
     }
     console.error(message);
-    return json({ error: "agent_failed", message: "Der Wiki-Agent konnte die Anfrage nicht verarbeiten." }, 502);
+    return json({ error: "agent_failed", stage, message: "Der Wiki-Agent konnte die Anfrage nicht verarbeiten." }, 502);
   }
 }
 
@@ -139,7 +145,7 @@ async function answerAndMaintain(
 ): Promise<AgentResult> {
   const context = pages.map((page) => `--- ${page.path} ---\n${page.content}`).join("\n\n");
   const prompt = `Du bist der alleinige Maintainer eines Karpathy-LLM-Wikis. Befolge AGENTS.md. Beantworte die Frage aus dem Wiki und nenne die verwendeten Markdown-Pfade. Wenn die Frage zu dauerhaft wertvoller Synthese führt, liefere vollständige neue Inhalte für die betroffenen Wiki-Dateien sowie index.md und log.md. Verändere niemals raw/ oder AGENTS.md. Erfinde keine Quellen.\n\nAGENTS.md:\n${schema}\n\nindex.md:\n${index}\n\nRELEVANTE SEITEN:\n${context || "Keine vorhandenen Seiten gefunden."}\n\nFRAGE:\n${question}\n\nAntworte ausschließlich als JSON mit diesem Schema:\n{"answer":"...","citations":["wiki/...md"],"edits":[{"path":"wiki/...md","content":"vollständiger Dateiinhalt"}]}`;
-  const output = await runModel(env, prompt, 5000);
+  const output = await runModel(env, prompt, 2200);
   const parsed = parseModelJson<AgentResult>(output);
   return {
     answer: typeof parsed.answer === "string" ? parsed.answer : "Keine Antwort erzeugt.",
@@ -201,6 +207,7 @@ async function writeGitFile(env: Env, path: string, content: string, message: st
 function githubFetch(env: Env, path: string, init: RequestInit = {}): Promise<Response> {
   return fetch(`https://api.github.com/repos/${encodeURIComponent(env.GITHUB_OWNER)}/${encodeURIComponent(env.GITHUB_REPO)}${path}`, {
     ...init,
+    signal: init.signal ?? AbortSignal.timeout(15_000),
     headers: {
       accept: "application/vnd.github+json",
       authorization: `Bearer ${env.GITHUB_TOKEN}`,
