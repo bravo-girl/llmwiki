@@ -1,0 +1,9 @@
+{
+  "name": "LLM Wiki",
+  "short_name": "LLM Wiki",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f0e8",
+  "theme_color": "#132a24",
+  "icons": []
+}
