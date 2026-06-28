@@ -373,3 +373,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Ril 437 Zug- und Rangierfahrten im Signalisierten Zugleitbetrieb durchführen (SZB)](wiki/quellen/src-9a0b58e5f3bd27b833f2.md)
 
 - [402.0206](wiki/quellen/src-6e38b2dc36fa537e1fb5.md)
+
+- [483.0202A03](wiki/quellen/src-c9968cc05313ac6e8300.md)
