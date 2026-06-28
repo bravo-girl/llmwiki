@@ -288,3 +288,15 @@ Status: `completed`
 
 Erster Ingest der Richtlinie 124.0600V01 (Hinweise zur Bedienung rostgefeuerter Dampflokomotiven). Da der Inhalt der Quelle lediglich Metadaten und leere Seiten enthält, wurde eine neue Wiki-Seite angelegt, die auf die Originalquelle verweist.
 Integriert in: `wiki/ril-124-0600v01.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/481-0201a02--src-7b15f6d1984c031adaaa.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/resource/blob/13699566/1960637f3afcfd8cc57b801d2e640802/Ril-481-0201A02-INB-2027-data.pdf`
+Source-Key: `src-7b15f6d1984c031adaaa`
+Chunk: `1/1`
+Chunk-Key: `chunk-10b40e10ee809a780566`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Richtlinie 481.0201A02 (Streckenband für analogen Zugfunk) als neue Wiki-Seite und Aktualisierung des Index.
+Integriert in: `wiki/ril-481-0201a02.md`, `index.md`.
