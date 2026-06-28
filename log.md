@@ -336,3 +336,15 @@ Status: `completed`
 
 Integration des neuen Fachabschnitts 'Eine neue BauFplo – Die Änderungen auf einen Blick' in die Synthese zur digitalen Baufahrplananordnung und Aktualisierung des Wiki-Index.
 Integriert in: `wiki/digitale-baufahrplananordnung.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/402-0305a09--src-46f793f2ffbb52d9574d.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/resource/blob/13699822/9eb68417ddc346a481f8b3aa739e9fbb/Ril-402-0305A09-INB-2027-data.pdf`
+Source-Key: `src-46f793f2ffbb52d9574d`
+Chunk: `1/1`
+Chunk-Key: `chunk-68e94832afa40d79a1c4`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der neuen Quelle 402.0305A09 in die Synthese der Richtlinie 402.0305. Die neue Fahrplananordnung wird als Beispiel für das Trassenmanagement ergänzt.
+Integriert in: `wiki/richtline-402-0305-terminkalender-2026.md`, `index.md`.
