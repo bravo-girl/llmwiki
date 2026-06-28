@@ -453,3 +453,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 3.2.1.2.2: Netzzugangsrelevantes Regelwerk - Zusammenstellung](wiki/quellen/src-22d2433489203d40bc3e.md)
 
 - [3. Informationen für Schnittstellen-Nutzer (und die jeweiligen IT-Firmen)](wiki/quellen/src-8e1dd3ee22915d4d35aa.md)
+
+- [Anlage 5.1b: Liste der Metropolbahnhöfe](wiki/quellen/src-9ac1e2d42bb426c8d8bc.md)
