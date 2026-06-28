@@ -103,3 +103,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Aktuelles & Events - Einleitung](wiki/quellen/src-d2d5cc5025a36664b9e5.md)
 
 - [Abkürzungen](wiki/quellen/src-1d445f2af15c1a7dd326.md)
+
+- [Ril 302.2000v04 INB 2027](wiki/quellen/src-f92bf459cafab19573c2.md)
