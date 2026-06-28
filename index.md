@@ -503,3 +503,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [423.1101](wiki/quellen/src-ddb7048206fc5e242552.md)
 
 - [KOMBau](wiki/quellen/src-5c135f14188e5a2209a2.md)
+
+- [437.0000](wiki/quellen/src-3f1bbcddd4a7158be27f.md)
