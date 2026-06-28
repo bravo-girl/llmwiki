@@ -429,3 +429,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [TAF TAP TSI-Dialog – 9. März 2026 – Antworten und offene Punkte](wiki/quellen/src-6336f6118efccd2dfeba.md)
 
 - [4. Trassenanmeldung allgemein](wiki/quellen/src-1835ff193082657a6299.md)
+
+- [302.2205Z01](wiki/quellen/src-16eb42012f0431acaf71.md)
