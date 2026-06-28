@@ -20,6 +20,7 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 
 ## Regelwerke & Betrieb (Ril)
 
+- [Ril 406 (Baubetriebsplanung, Betra, La)](wiki/ril-406-baubetriebsplanung-betra-la.md) – Informationen zu Baubetriebsplanung, Betra und La.
 - [Ril 438 (Fahrdienstvorschrift; FV-NE)](wiki/ril-438-fahrdienstvorschrift-fv-ne.md) – Fahrdienstvorschrift FV-NE.
 - [Ril 481.0201A01 (Übersicht AEG)](wiki/ril-481-0201a01.md) – Übersicht über das analoge Zugfunksystem AEG.
 - [Ril 481.0201A02 (Streckenband analoger Zugfunk)](wiki/ril-481-0201a02.md) – Streckenband für analogen Zugfunk.
