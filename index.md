@@ -579,3 +579,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [402.0203A02](wiki/quellen/src-7979295d9b2414b533e8.md)
 
 - [TestfallSheet Onboarding](wiki/quellen/src-2eea221c5a5a0a5b82b4.md)
+
+- [402.0204](wiki/quellen/src-358eaa0be140562d5034.md)
