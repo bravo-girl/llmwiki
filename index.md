@@ -1005,3 +1005,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [302.4000](wiki/quellen/src-132b43edfde9647de11d.md)
 
 - [302.6000](wiki/quellen/src-3ca667fead872db916cf.md)
+
+- [Anlage 7.3.1.6.1b: Muster Sammelanmeldung](wiki/quellen/src-46ac42ac939e2be6b591.md)
