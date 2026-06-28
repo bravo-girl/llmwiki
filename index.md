@@ -241,3 +241,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Ril 302 Grenzüberschreitende Bahnstrecken - Grundsätze](wiki/quellen/src-e0ceeab70af6a3b94ee2.md)
 
 - [Was ändert sich für mich als Kund:in durch die Umsetzung des Annex VII?](wiki/quellen/src-12579aa1f13d6672f011.md)
+
+- [• Jahresüberblick Kalenderjahr 2026 mit Möglichkeiten zur Stellungnahme (SN) (1. Nachtrag)](wiki/quellen/src-3bf1a7d5adde8ed9946d.md)
