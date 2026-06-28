@@ -343,3 +343,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [402.0202V03](wiki/quellen/src-54f25f5d9892c7e55ad8.md)
 
 - [402.0211](wiki/quellen/src-a13d6aacd5b25095af89.md)
+
+- [BauFplo_99002_2026-08-13_V1-entwurf.](wiki/quellen/src-3a487c55b55afb41563a.md)
