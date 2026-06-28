@@ -6,6 +6,7 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 
 - [LLM-Wiki](wiki/llm-wiki.md) – Grundidee und Arbeitsweise dieser Wissensbasis.
 - [Karpathy-Pattern](wiki/karpathy-pattern.md) – Das Konzept des persistenten, kumulativen Wissensaufbaus durch LLMs.
+- [Baubedingte Kapazitätseinschränkung (BKE)](wiki/bke-definition.md) – Definition und Auswirkungen von BKE auf Konsultation und Netzfahrplan.
 
 ## Infrastruktur & Bauplanung
 
@@ -20,7 +21,7 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 
 ## Regelwerke & Betrieb (Ril)
 
-- [Ril 402.0305A11 (Baubedingte Fahrplanregelungen)](wiki/ril-402-0305a11.md) – Abstimmung und Kommunikation baubedingter Fahrplanregelungen.
+- [Ril 402.0305A11 (Baubedingte Fahrplanregelungen abstimmen und kommunizieren)](wiki/ril-402-0305a11.md) – Abstimmung und Kommunikation baubedingter Fahrplanregelungen.
 - [Ril 402.0202A05 (Trassenmanagement)](wiki/ril-402-0202a05.md) – Planungsprozedere und Trassenanmeldungen.
 - [Ril 406 (Baubetriebsplanung, Betra, La)](wiki/ril-406-baubetriebsplanung-betra-la.md) – Informationen zu Baubetriebsplanung, Betra und La.
 - [Ril 420 (Betriebsleitstellen)](wiki/ril-420-betriebsleitstellen.md) – Regelungen zu Betriebsleitstellen und Zusammenarbeit mit EVU.
