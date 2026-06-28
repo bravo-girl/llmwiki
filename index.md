@@ -121,3 +121,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [402.0305A05](wiki/quellen/src-5e99971da526d2258b29.md)
 
 - [Grenzüberschreitend eine Identifikation](wiki/quellen/src-719bcecb3b4522d5e35d.md)
+
+- [402.0305A01](wiki/quellen/src-2ed8fb0f3d1bc95e90eb.md)
