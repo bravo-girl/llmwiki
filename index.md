@@ -167,3 +167,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Ril 406 Baubetriebsplanung, Betra, La](wiki/quellen/src-295bd9308cec2b025912.md)
 
 - [Ril 420 Betriebsleitstellen](wiki/quellen/src-bb1fcc7dc5431e76a766.md)
+
+- [481.0204A01](wiki/quellen/src-f8b8d633210b288299af.md)
