@@ -117,3 +117,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Bessere betriebliche Durchführung](wiki/quellen/src-5712d0260327f84a00a4.md)
 
 - [Richtline 402.0305 – Terminkalender für 2026](wiki/quellen/src-0ad800e268637300fc0e.md)
+
+- [402.0305A05](wiki/quellen/src-5e99971da526d2258b29.md)
