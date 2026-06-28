@@ -707,3 +707,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 4.4: Muster Rahmenvertrag (inklusive Anhang A sowie Anlage 1 und 2)](wiki/quellen/src-d4f60b7a097fc05a2bd2.md)
 
 - [Kickoff: Ende-zu-Ende Kundentests TAF/TAP TSI mit Identifiern - 11. März - Terminunterlage](wiki/quellen/src-84eb8c48d5cb3c927693.md)
+
+- [TAF/TAP Technische Beschreibung zu Versand und Empfang von Fehlermeldungen _v2.4](wiki/quellen/src-391dbded02f83dc8f095.md)
