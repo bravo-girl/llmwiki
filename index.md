@@ -449,3 +449,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 3.4.3.1: Nutzungsbedingungen Infraportal](wiki/quellen/src-7f9cffaa2aa2b0443d9d.md)
 
 - [Umsetzungscheckliste TAF/TAP TSI für EVU](wiki/quellen/src-31ef22f7f38a67d6a172.md)
+
+- [Anlage 3.2.1.2.2: Netzzugangsrelevantes Regelwerk - Zusammenstellung](wiki/quellen/src-22d2433489203d40bc3e.md)
