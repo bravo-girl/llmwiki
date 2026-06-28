@@ -107,3 +107,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Ril 302.2000v04 INB 2027](wiki/quellen/src-f92bf459cafab19573c2.md)
 
 - [KiGbau: Individuelle Auswertung erleichtert die Abstimmung - Einleitung](wiki/quellen/src-81391fc3d7fb6f1e32de.md)
+
+- [492.0753V02](wiki/quellen/src-3e724273449bccfc13f2.md)
