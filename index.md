@@ -63,3 +63,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Informationen für Tests der Schnittstelle zu pathOS (für IT-Partner)](wiki/quellen/src-4fdddca3fb585dd6eb8f.md)
 
 - [Informationen zu Fahrplanbearbeitungsgrenzen (Planning Handovers)](wiki/quellen/src-4e923420796ffc94de4b.md)
+
+- [Unterstützung bei der Vorbereitung der Migration](wiki/quellen/src-5ec785e92210450de06f.md)
