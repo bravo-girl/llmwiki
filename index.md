@@ -22,6 +22,7 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 
 ## Regelwerke & Betrieb (Ril)
 
+- [Ril 465.0001A01 (Betrieb auf Steilstrecken)](wiki/ril-465-0001a01.md) – Besondere Vorschriften über das Bremsen auf der Steilstrecke Linz - Kahlenborn.
 - [Ril 402.0305A11 (Baubedingte Fahrplanregelungen abstimmen und kommunizieren)](wiki/ril-402-0305a11.md) – Abstimmung und Kommunikation baubedingter Fahrplanregelungen.
 - [Ril 402.0202A05 (Trassenmanagement)](wiki/ril-402-0202a05.md) – Planungsprozedere und Trassenanmeldungen.
 - [Ril 406 (Baubetriebsplanung, Betra, La)](wiki/ril-406-baubetriebsplanung-betra-la.md) – Informationen zu Baubetriebsplanung, Betra und La.
