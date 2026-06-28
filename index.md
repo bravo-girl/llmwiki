@@ -471,3 +471,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 7.3.1.6.1.5: Liste SE, Angebot NV nur für eine Netzfahrplanperiode](wiki/quellen/src-fe9b00b99a3bfd78b1bf.md)
 
 - [402.0305A07](wiki/quellen/src-e8e33f0167c503067a59.md)
+
+- [402.0202V02](wiki/quellen/src-d2cec840a0e91bf6c19a.md)
