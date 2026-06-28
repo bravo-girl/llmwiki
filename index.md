@@ -345,3 +345,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [402.0211](wiki/quellen/src-a13d6aacd5b25095af89.md)
 
 - [BauFplo_99002_2026-08-13_V1-entwurf.](wiki/quellen/src-3a487c55b55afb41563a.md)
+
+- [Antworten auf offene Punkte aus dem JF SST-Partner - Februar 2026](wiki/quellen/src-5cf7438dc5addafd2586.md)
