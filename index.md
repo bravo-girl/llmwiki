@@ -321,3 +321,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [2. Identifikatoren und Objekte](wiki/quellen/src-bfdaa0123f24538379f9.md)
 
 - [Einführung der BauFplo – Ein mehrstufiger Ansatz](wiki/quellen/src-d415057bfcaf32b5f73e.md)
+
+- [Betrieb: Meldungen DB InfraGO AG an EVU](wiki/quellen/src-60e4629a7816d8253554.md)
