@@ -1017,3 +1017,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Dokumentation der EVU-Schnittstelle (Hauptdokument)](wiki/quellen/src-00bb221a8c0f8d2e1bac.md)
 
 - [TNB 2027](wiki/quellen/src-2f9f072e315a9cb142bc.md)
+
+- [Handbuch pathOS Webportal (Version 1.01– Stand 13.03.2026)](wiki/quellen/src-726a6a6cad394fdc2fad.md)
