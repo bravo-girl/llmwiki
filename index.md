@@ -137,3 +137,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [124.0600V01](wiki/quellen/src-0157fee4bdb156191671.md)
 
 - [481.0201A02](wiki/quellen/src-7b15f6d1984c031adaaa.md)
+
+- [4. TAF/TAP in der Trassenanmeldung](wiki/quellen/src-eb1cc749a7dacf23238b.md)
