@@ -79,3 +79,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Ril 302.7000 Grenzüberschreitende Bahnstrecken mit Luxemburg](wiki/quellen/src-206d59e15c24e1d9dd8c.md)
 
 - [Infrastrukturnutzungsbedingungen der DB InfraGO AG (INB) 2027 - Einleitung](wiki/quellen/src-9bbe917af34716ba942a.md)
+
+- [Annex VII – Der neue Prozess zur Baukommunikation - Einleitung](wiki/quellen/src-52c370cf432df89e4c3f.md)
