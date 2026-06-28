@@ -216,3 +216,15 @@ Status: `completed`
 
 Integration der Richtlinie 402.0305A01 (Bauzuschlagskarte) in das Wiki. Die neue Quelle wird als Referenz für das Trassenmanagement/Bahnbetrieb ergänzt.
 Integriert in: `wiki/richtline-402-0305-terminkalender-2026.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/402-0305a02--src-be1a7892d21cab15032a.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/resource/blob/13699860/2d7ab93cdf2e865ae46874f00214fb38/Ril-402-0305A02-INB-2027-data.pdf`
+Source-Key: `src-be1a7892d21cab15032a`
+Chunk: `1/1`
+Chunk-Key: `chunk-12597debf147a40a127b`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Richtlinie 402.0305A02 (Musterschreiben Veranstaltungen) in die bestehende Synthese zur Richtlinie 402.0305.
+Integriert in: `wiki/richtline-402-0305-terminkalender-2026.md`, `index.md`.
