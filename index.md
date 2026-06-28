@@ -925,3 +925,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 4.4.1b: Strecken mit rahmenvertraglich gebundener Höchstkapazität bis zu 90 %](wiki/quellen/src-8b2d858db963b2528fc6.md)
 
 - [302.9001Z98](wiki/quellen/src-3d324a6cf998dd41b9b6.md)
+
+- [483.0102](wiki/quellen/src-fedac061f162bf05c133.md)
