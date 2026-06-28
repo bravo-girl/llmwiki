@@ -84,3 +84,15 @@ Status: `completed`
 
 Erstellung der Wiki-Seite 'Aktuelle Informationen und Veranstaltungen' basierend auf dem Ingest von Teil 1 der Quelle 'events-einleitung--src-d2d5cc5025a36664b9e5.md'. Der Index wurde um diese neue Kategorie erweitert.
 Integriert in: `wiki/aktuelle-infos-und-veranstaltungen.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/baufplo-abkurzungen--src-1d445f2af15c1a7dd326.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/fahren_und_bauen/BauFplo-13377708#llmwiki-section=abkurzungen`
+Source-Key: `src-1d445f2af15c1a7dd326`
+Chunk: `1/1`
+Chunk-Key: `chunk-f2b5d563cd6210f3e980`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Abkürzungen aus der Quelle 'baufplo-abkurzungen--src-1d445f2af15c1a7dd326.md' in eine neue Wiki-Seite 'wiki/baufplo-abkurzungen.md' und Aktualisierung des Index.
+Integriert in: `wiki/baufplo-abkurzungen.md`, `index.md`.
