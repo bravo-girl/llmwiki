@@ -683,3 +683,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [TAF TAP TSI-Dialog – April 2025 – Terminunterlage](wiki/quellen/src-1cf0540c0e7e09da1a47.md)
 
 - [Informationsveranstaltung „Vertiefung ujBau“ am 25. Juni 2026](wiki/quellen/src-5ffa18b0533c040aa2e1.md)
+
+- [Anlage 2.3.12: GSM-R AGB](wiki/quellen/src-5945f3be3ea927fdba43.md)
