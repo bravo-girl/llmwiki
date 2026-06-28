@@ -479,3 +479,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [482.8604](wiki/quellen/src-810d9fd1f0cfe72c4c7d.md)
 
 - [482.8602](wiki/quellen/src-203ae3f15845526f8e99.md)
+
+- [Ril 481 Bahnbetrieb; Telekommunikationsanlagen bedienen](wiki/quellen/src-c9cc6a492dab77978d8c.md)
