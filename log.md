@@ -780,3 +780,15 @@ Status: `completed`
 
 Integration der Richtlinie 408.4801Z21 (S-Bahn Hamburg Zusätze zur Ril 408.48) in das Regelwerk-Verzeichnis.
 Integriert in: `wiki/ril-408-4801z21.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/netzzugangsrelevantes-regelwerk-2027-ril-124-brandschutz--src-0d1958638c4ad3b87a59.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/regelwerke/regelwerke_netzzugangsrelevant/netzzugangsrelevantes_regelwerk-2027-13699882#llmwiki-section=ril-124-brandschutz`
+Source-Key: `src-0d1958638c4ad3b87a59`
+Chunk: `1/1`
+Chunk-Key: `chunk-ff0aae1d5298a18423fa`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der fachlichen Informationen aus der Ril 124 (Brandschutz) in das Wiki. Die neue Quelle wurde als Teil des Regelwerks erfasst, wobei die spezifischen Dokumente zur Bedienung rostgefeuerter Dampflokomotiven (124.0600 und 124.0600V01) mit ihren Metadaten und PDF-Referenzen aus dem HTML-Abschnitt übernommen wurden.
+Integriert in: `wiki/ril-124-0600v01.md`, `index.md`.
