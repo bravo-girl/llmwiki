@@ -91,3 +91,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [481.0101V01](wiki/quellen/src-750f8b3ebe76ebcbef34.md)
 
 - [423.8010Z99](wiki/quellen/src-702062919e323146414f.md)
+
+- [ETCS Level NTC PZB/LZB](wiki/quellen/src-8ccb26c33c5abeb79288.md)
