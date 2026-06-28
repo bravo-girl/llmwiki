@@ -551,3 +551,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 3.2.1.1: Grundsatz-INV](wiki/quellen/src-1e8b1487097848d8a583.md)
 
 - [492.0753](wiki/quellen/src-6413694eb827644cd05f.md)
+
+- [Anlage 6: Technische Funktionsbeschreibung - Stammdatenbereitstellung](wiki/quellen/src-a6f030827eb1ca9976c0.md)
