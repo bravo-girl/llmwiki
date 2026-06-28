@@ -827,3 +827,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 4.2.1.10: Entgelte zur Berechnung des Regelentgelts in der ersten Phase der Netzfahrplanerstellung](wiki/quellen/src-2ab19d926ca45a06b2fc.md)
 
 - [TAF/TAP Technische Beschreibung Zuglaufmeldungen_v8.3](wiki/quellen/src-fbd7d3b2cdfa32cb31d3.md)
+
+- [Booklet zur Vertiefungsveranstaltung TAF/TAP TSI: Bericht vom NCP, Update Betrieb – Juli 2024](wiki/quellen/src-8b816a2e1badbc7775de.md)
