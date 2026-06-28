@@ -636,3 +636,15 @@ Status: `completed`
 
 Integration der Ril 465.0001A05 (Steilstrecke Stützerbach - Schleusingen) in das Wiki. Da die Ril 465.0001A01 bereits existiert, wird eine neue Wiki-Seite für die A05 erstellt und der Index aktualisiert.
 Integriert in: `wiki/ril-465-0001a05.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/465-0001a04--src-105e9723d0d33f8c93f5.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/resource/blob/13699524/bff0a4c705ea14eec23bf49838a4ce3a/Ril-465-0001A04-INB-2027-data.pdf`
+Source-Key: `src-105e9723d0d33f8c93f5`
+Chunk: `1/1`
+Chunk-Key: `chunk-c18f0031ae241c195294`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Ril 465.0001A04 (Steilstrecke Baiersbronn - Freudenstadt Hbf) in das Wiki. Die neue Seite beschreibt die Regelungen für die nicht mehr von der DB Netz AG betriebene Steilstrecke.
+Integriert in: `wiki/ril-465-0001a04.md`, `index.md`.
