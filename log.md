@@ -696,3 +696,15 @@ Status: `completed`
 
 Integration der neuen Richtlinie 481.0204A02 (Verzeichnis der Ausleuchtung mit analogem Zugfunk der Bauform VZF 95 - Ausrüstungsstufe 1) in das Wiki und Aktualisierung des Index.
 Integriert in: `wiki/ril-481-0204a02.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/465-0001a07--src-34f874671a600176fd9e.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/resource/blob/13699516/1012f0585947c4358446d6469b4cae79/Ril-465-0001A07-INB-2027-data.pdf`
+Source-Key: `src-34f874671a600176fd9e`
+Chunk: `1/1`
+Chunk-Key: `chunk-67aa717e67c04e913366`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der neuen Richtlinie Ril 465.0001A07 (Steilstrecke Blankenburg - Rübeland) in das Wiki und Aktualisierung des Index.
+Integriert in: `wiki/ril-465-0001a07.md`, `index.md`.
