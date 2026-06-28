@@ -660,3 +660,15 @@ Status: `completed`
 
 Integration der Ril 465.0001A06 (Betrieb auf Steilstrecken: Suhl-Neundorf - Suhl-Friedberg) in das Wiki. Die neue Seite wurde erstellt und der Index unter 'Regelwerke & Betrieb (Ril)' ergänzt.
 Integriert in: `wiki/ril-465-0001a06.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/zvf-stafette-baumanahmenkorridore--src-d54c8abc191295d6b50e.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/fahren_und_bauen/zvf-stafette--11857486#llmwiki-section=baumanahmenkorridore`
+Source-Key: `src-d54c8abc191295d6b50e`
+Chunk: `1/1`
+Chunk-Key: `chunk-6b8137b1ab890f66375f`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Definition und des Status der Baumaßnahmenkorridore in die Wiki-Synthese unter 'Aktuelle Informationen und Veranstaltungen'.
+Integriert in: `wiki/aktuelle-infos-und-veranstaltungen.md`, `index.md`.
