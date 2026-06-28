@@ -48,3 +48,15 @@ Status: `completed`
 
 Erster Ingest der Quelle 'Digitale Baufahrplananordnung - Einleitung'. Da die Quelle keine fachlichen Definitionen oder Kennzahlen enthält, sondern lediglich die Metadaten des HTML-Abschnitts bereitstellt, wurde ein neuer Eintrag im Wiki-Index unter 'Infrastruktur & Bauplanung' erstellt, um die zukünftige Synthese vorzubereiten.
 Integriert in: `wiki/digitale-baufahrplananordnung.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/baufplo-faq--src-20e3aa60e533325e4654.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/fahren_und_bauen/BauFplo-13377708#llmwiki-section=faq`
+Source-Key: `src-20e3aa60e533325e4654`
+Chunk: `1/1`
+Chunk-Key: `chunk-2227cf092da85307dc04`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration des FAQ-Abschnitts zur digitalen Baufahrplananordnung (BauFplo) in das Wiki. Es wurde eine neue Wiki-Seite 'wiki/baufplo-faq.md' erstellt, die den Fragenkatalog als Thema einführt, sowie der Wiki-Index aktualisiert.
+Integriert in: `wiki/baufplo-faq.md`, `index.md`.
