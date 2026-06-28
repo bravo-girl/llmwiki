@@ -855,3 +855,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Booklet zur Vertiefungsveranstaltung TAF/TAP TSI im Betrieb – Oktober/November 2023](wiki/quellen/src-d6f3c7d12558a6b6b482.md)
 
 - [302.6203Z01](wiki/quellen/src-011006e15b514d9906e7.md)
+
+- [Benutzeranleitung für die „KiGbau im Internet“ (Gültig ab 01.01.2024)](wiki/quellen/src-5e4befb5a0047ced00da.md)
