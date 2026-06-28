@@ -924,3 +924,15 @@ Status: `completed`
 
 Einführung in die EU-Richtlinie 2012/34/EU und den Anhang VII (Annex VII) zur Standardisierung der Kommunikation von baubedingten Kapazitätseinschränkungen im europäischen Eisenbahnsektor.
 Integriert in: `wiki/quellen/src-52c370cf432df89e4c3f.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/481-0101v03--src-7fe964f50fc338f1f7c4.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/resource/blob/13699574/e7816b700ac558a033fa4cf38795f91d/Ril-481-0101V03-INB-2027-data.pdf`
+Source-Key: `src-7fe964f50fc338f1f7c4`
+Chunk: `1/1`
+Chunk-Key: `chunk-43c4b39a36578e1466c5`
+Chunk-Status: `completed`
+Status: `completed`
+
+Dokumentationsblatt der örtlichen Regelungen zur Konzernrichtlinie 481.0101 (Version V03) der DB Netz AG.
+Integriert in: `wiki/quellen/src-7fe964f50fc338f1f7c4.md`, `index.md`.
