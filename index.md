@@ -6,3 +6,7 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 
 - [LLM-Wiki](wiki/llm-wiki.md) – Grundidee und Arbeitsweise dieser Wissensbasis.
 - [Karpathy-Pattern](wiki/karpathy-pattern.md) – Das Konzept des persistenten, kumulativen Wissensaufbaus durch LLMs.
+
+## Infrastruktur & Bauplanung
+
+- [Digitale Baufahrplananordnung](wiki/digitale-baufahrplananordnung.md) – Einleitung zur digitalen Baufahrplananordnung (basierend auf ../raw/baufplo-einleitung--src-1be470143c7ef196d589.md).
