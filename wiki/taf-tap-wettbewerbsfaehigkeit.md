@@ -4,6 +4,8 @@
 
 Die weitere Digitalisierung und Harmonisierung im Datenaustausch ist ein entscheidender Faktor, um den Eisenbahnsektor in Europa wettbewerbsfähiger zu gestalten.
 
+Die Einführung von TAF/TAP TSI wird von der DB InfraGO AG intensiv begleitet. Die vollständige Umsetzung bei der DB InfraGO AG ist für das **Fahrplanjahr 2027** vorgesehen. Es wird erwartet, dass künftig ca. **1 Million Trassenanmeldungen pro Jahr** via TAF/TAP erfolgen. Das Projekt ist international breit aufgestellt; **28 Länder** beteiligen sich an TAF/TAP.
+
 ## TAF/TAP als Standard
 
 **TAF/TAP** fungiert als eine „gemeinsame Sprache“ innerhalb des Sektors. Dies wird durch eine standardisierte Meldungsstruktur erreicht, welche die Kommunikation verbessert.
@@ -18,6 +20,7 @@ Ein qualitativ hochwertiger Austausch zwischen beteiligten Infrastrukturunterneh
 
 - **Höheres Informationslevel**: Ein tiefergehender Datenaustausch.
 - **Echtzeitdaten**: Eine größere Verfügbarkeit von Echtzeitdaten führt zu einer besseren Prognosequalität.
+- **Mehrwert**: 12 Nachrichten schaffen Mehrwert im Betrieb.
 
 ## Grenzüberschreitende Identifikation
 
@@ -50,6 +53,7 @@ Das fachliche Support-Team von pathOS ist zu folgenden Zeiten erreichbar:
 
 ## Quellen
 
+- [Einleitung (TAF/TAP TSI)](../raw/allgemein-einleitung--src-2aa459e5ff562ab46fd1.md) (ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/allgemein-11089206#llmwiki-section=einleitung`)
 - [Originalquelle](../raw/allgemein-starkere-wettbewerbsfahigkeit--src-d23cd77e9418c709149a.md) (ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/allgemein-11089206#llmwiki-section=starkere-wettbewerbsfahigkeit`)
 - [Originalquelle](../raw/allgemein-bessere-betriebliche-durchfuhrung--src-5712d0260327f84a00a4.md) (ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/allgemein-11089206#llmwiki-section=bessere-betriebliche-durchfuhrung`)
 - [Originalquelle](../raw/allgemein-grenzuberschreitend-eine-identifikation--src-719bcecb3b4522d5e35d.md) (ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/allgemein-11089206#llmwiki-section=grenzuberschreitend-eine-identifikation`)
