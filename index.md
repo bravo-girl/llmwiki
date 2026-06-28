@@ -237,3 +237,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Ril 302.8000 Grenzüberschreitende Bahnstrecken mit Belgien](wiki/quellen/src-4f14fa4c8f4d7fdf96a6.md)
 
 - [TAF/TAP TSI – Vertiefung: Traction Mode](wiki/quellen/src-e90b937bb3dc711b6cd5.md)
+
+- [Ril 302 Grenzüberschreitende Bahnstrecken - Grundsätze](wiki/quellen/src-e0ceeab70af6a3b94ee2.md)
