@@ -665,3 +665,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 8: Fachliche Anwendungsfälle](wiki/quellen/src-9f95553faf9f6f0ee782.md)
 
 - [302.7000](wiki/quellen/src-c769beee0260c3e5dd73.md)
+
+- [402.0202V05](wiki/quellen/src-ea0fa207bf3718f06c68.md)
