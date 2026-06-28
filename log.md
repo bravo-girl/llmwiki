@@ -720,3 +720,15 @@ Status: `completed`
 
 Integration der neuen Richtlinie Ril 481.0101V02 (Rufnummerntafel) in das Wiki. Erstellung einer neuen Synthese-Seite und Aktualisierung des Index.
 Integriert in: `wiki/ril-481-0101v02.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/allgemein-3-flyer-bibliothek-wichtige-themen-auf-einer-seite--src-f74fc6807613d60e81bb.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/allgemein-11089206#llmwiki-section=3-flyer-bibliothek-wichtige-themen-auf-einer-seite-erklart`
+Source-Key: `src-f74fc6807613d60e81bb`
+Chunk: `1/1`
+Chunk-Key: `chunk-88a588ff1f9cb211a8a5`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der 'Flyer-Bibliothek' aus der neuen Quelle. Die Liste der verfügbaren Flyer wurde als neue Synthese-Seite 'wiki/flyer-bibliothek.md' erstellt und im Wiki-Index unter 'Infrastruktur & Bauplanung' verlinkt.
+Integriert in: `wiki/flyer-bibliothek.md`, `index.md`.
