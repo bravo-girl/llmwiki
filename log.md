@@ -564,3 +564,15 @@ Status: `completed`
 
 Integration der Einleitung zu TAF/TAP TSI aus der Originalquelle. Die neuen Kennzahlen (Umsetzungsjahr 2027, Trassenvolumen, Länderbeteiligung) wurden in die Synthese aufgenommen und die Quellenangaben wurden um den neuen Teil ergänzt.
 Integriert in: `wiki/taf-tap-wettbewerbsfaehigkeit.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/grundwissen-etcs-bahnubergange-verwendet-die-etcs-streckenei--src-054c744bc35675803bec.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/etcs/grundlagen-etcs/grundwissen-etcs-12285634#llmwiki-section=bahnubergange-verwendet-die-etcs-streckeneinrichtung-die-level-crossing`
+Source-Key: `src-054c744bc35675803bec`
+Chunk: `1/1`
+Chunk-Key: `chunk-27b2f6a9ff89282a496a`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Informationen zu Bahnübergängen (Level Crossing Procedure) in die bestehende Wiki-Seite 'Grundwissen ETCS'. Die Unterscheidung zwischen ETCS-Level 1 (TSR-Lösung) und ETCS-Level 2 (Level Crossing Procedure bei ÜS-BÜ) wurde gemäß der Originalquelle hinzugefügt.
+Integriert in: `wiki/grundwissen-etcs.md`, `index.md`.
