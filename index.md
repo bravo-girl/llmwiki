@@ -475,3 +475,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [402.0202V02](wiki/quellen/src-d2cec840a0e91bf6c19a.md)
 
 - [Ril 302.3000 Grenzüberschreitende Bahnstrecken mit Tschechien](wiki/quellen/src-41ae4553b3d9a53dad68.md)
+
+- [482.8604](wiki/quellen/src-810d9fd1f0cfe72c4c7d.md)
