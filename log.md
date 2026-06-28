@@ -684,3 +684,15 @@ Status: `completed`
 
 Integration der neuen PDF-Quelle zur TAF/TAP TSI Vertiefung. Die Quelle beschreibt den Paradigmenwechsel vom getrennten Stamm- und Ergänzungsfahrplan hin zu einem durchgehenden, vollständigen Fahrplan für jeden Zeitraum (Wochentage/Wochenende).
 Integriert in: `wiki/taf-tap-wettbewerbsfaehigkeit.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/481-0204a02--src-7ae6a9f5ab19327ec96d.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/resource/blob/13699542/5fc72d6421187c2dd90effd2369108ad/Ril-481-0204A02-INB-2027-data.pdf`
+Source-Key: `src-7ae6a9f5ab19327ec96d`
+Chunk: `1/1`
+Chunk-Key: `chunk-379e889c0e2982611114`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der neuen Richtlinie 481.0204A02 (Verzeichnis der Ausleuchtung mit analogem Zugfunk der Bauform VZF 95 - Ausrüstungsstufe 1) in das Wiki und Aktualisierung des Index.
+Integriert in: `wiki/ril-481-0204a02.md`, `index.md`.
