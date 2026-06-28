@@ -361,3 +361,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [BauFplo_99003_2026-08-12_V1-entwurf.](wiki/quellen/src-2131ff3c88853daade05.md)
 
 - [BauFplo_99003_2026-08-13_V1-entwurf.](wiki/quellen/src-44506086895fa11a5407.md)
+
+- [Ril 423 Notfallmanagement](wiki/quellen/src-c1ff6c695e7078ba3666.md)
