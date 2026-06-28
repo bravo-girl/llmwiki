@@ -331,3 +331,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [ETCS Migrationsstrategie](wiki/quellen/src-45a26d823fbb59c460bf.md)
 
 - [5. TAF/TAP im Betrieb](wiki/quellen/src-73db970217fea3dd463a.md)
+
+- [Anlage 5.10.1: Beauftragung](wiki/quellen/src-738e8dde265d8f293d1e.md)
