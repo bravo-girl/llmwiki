@@ -961,3 +961,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [302.3210Z01](wiki/quellen/src-56e833a7c0bfea0a3f5d.md)
 
 - [FAQ TAF/TAP TSI – November 2025](wiki/quellen/src-1ffa4f701779fb4c04fc.md)
+
+- [302.3209Z01](wiki/quellen/src-32c73e6d8a6eff090912.md)
