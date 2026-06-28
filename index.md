@@ -623,3 +623,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 9: Fehlercodes der DB InfraGO](wiki/quellen/src-d7371e7423c9c6044875.md)
 
 - [302.2000V02](wiki/quellen/src-870c193d6c096176bad0.md)
+
+- [TAF/TAP TSI-Dialog – Dezember 2025 – Terminunterlage](wiki/quellen/src-62458fd9e8ee2542ffa1.md)
