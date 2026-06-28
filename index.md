@@ -111,3 +111,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [492.0753V02](wiki/quellen/src-3e724273449bccfc13f2.md)
 
 - [492.0753V01](wiki/quellen/src-5757c0e242370bffe5c6.md)
+
+- [Stärkere Wettbewerbsfähigkeit](wiki/quellen/src-d23cd77e9418c709149a.md)
