@@ -445,3 +445,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 3.2.3: Eintritt als Drittunternehmen nach § 22 ERegG](wiki/quellen/src-6f6df5834f9439a3dc92.md)
 
 - [Ril 302.2000 Grenzüberschreitende Bahnstrecken mit Polen](wiki/quellen/src-a8eaaf2a3c4bd710bdb4.md)
+
+- [Anlage 3.4.3.1: Nutzungsbedingungen Infraportal](wiki/quellen/src-7f9cffaa2aa2b0443d9d.md)
