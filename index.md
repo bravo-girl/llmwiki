@@ -411,3 +411,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [BauFplo_99000_2026-06-30_V1-entwurf.](wiki/quellen/src-9991aa7c635b36cdc519.md)
 
 - [Primary und Subsidiary Locations](wiki/quellen/src-35583daff6ca12837aec.md)
+
+- [Unterlagen zu den TAF/TAP TSI Veranstaltungen der DB InfraGO AG](wiki/quellen/src-c27efdaca9cd0db4acca.md)
