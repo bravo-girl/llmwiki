@@ -141,3 +141,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [4. TAF/TAP in der Trassenanmeldung](wiki/quellen/src-eb1cc749a7dacf23238b.md)
 
 - [437.0011V02](wiki/quellen/src-ef22f84767740bd10e39.md)
+
+- [Eine neue BauFplo – Die Änderungen auf einen Blick](wiki/quellen/src-1686003d66bb00f74145.md)
