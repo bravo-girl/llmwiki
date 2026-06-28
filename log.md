@@ -264,3 +264,15 @@ Status: `completed`
 
 Integration des neuen Fachabschnitts über den einheitlichen Kommunikationsweg für Trasseninformationen in die Synthese zur Wettbewerbsfähigkeit sowie Aktualisierung des Wiki-Index.
 Integriert in: `wiki/taf-tap-wettbewerbsfaehigkeit.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/402-0202a05--src-6f46634c578d63182ee9.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/resource/blob/13699864/8db3d9918f3c6e1d03a098681b5fefe2/Ril-402-0202A05-INB-2027-data.pdf`
+Source-Key: `src-6f46634c578d63182ee9`
+Chunk: `1/1`
+Chunk-Key: `chunk-33af8a14bbe7dadcfa0e`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Richtlinie 402.0202A05 (Bahnbetrieb Trassenmanagement) in das Wiki. Es wurde eine neue Synthese-Seite erstellt, die das Planungsprozedere und die Trassenanmeldungen thematisiert, sowie der Index aktualisiert.
+Integriert in: `wiki/ril-402-0202a05.md`, `index.md`.
