@@ -555,3 +555,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 6: Technische Funktionsbeschreibung - Stammdatenbereitstellung](wiki/quellen/src-a6f030827eb1ca9976c0.md)
 
 - [Anlage 6: Technische Funktionsbeschreibung - Stammdatenbereitstellung](wiki/quellen/src-c3758a4442ae573f7e93.md)
+
+- [482.8101](wiki/quellen/src-77f07e2477698220ee2d.md)
