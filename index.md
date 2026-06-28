@@ -219,3 +219,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [408.4801Z21](wiki/quellen/src-f2393290c506cc165a1d.md)
 
 - [Ril 124 Brandschutz](wiki/quellen/src-0d1958638c4ad3b87a59.md)
+
+- [301.0001Z21](wiki/quellen/src-4954298a30bc914637a5.md)
