@@ -567,3 +567,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Ril 402 Trassenmanagement](wiki/quellen/src-c122014fdebab3b3476e.md)
 
 - [302.3000V02](wiki/quellen/src-d784f317b1652c13af87.md)
+
+- [Jährlicher Terminkalender 2026_Ril. 402.0305, Terminkette 2026 (1.Nachtrag)](wiki/quellen/src-dd41ad11c8ae8110bc1c.md)
