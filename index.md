@@ -581,3 +581,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [TestfallSheet Onboarding](wiki/quellen/src-2eea221c5a5a0a5b82b4.md)
 
 - [402.0204](wiki/quellen/src-358eaa0be140562d5034.md)
+
+- [Anlage 4.2.2: Nutzungsbedingungen Click&Ride](wiki/quellen/src-ca4e2de6801fa07b1342.md)
