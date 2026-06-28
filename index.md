@@ -781,3 +781,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [302.1000](wiki/quellen/src-c269acbd3cc918ebd072.md)
 
 - [Liste der Planning Handover zu ausländischen EIU – EXCEL](wiki/quellen/src-a7ec016c31b66f7af95f.md)
+
+- [Anlage 2.3.10: Nutzungsbedingungen ETCS](wiki/quellen/src-4876de19a9524ab84c4e.md)
