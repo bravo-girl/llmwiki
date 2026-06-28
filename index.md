@@ -215,3 +215,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Richtlinien des betrieblich-technischen Regelwerks der INB 2027 - Einleitung](wiki/quellen/src-d179096738916fbf5102.md)
 
 - [Ril 301 Signalbuch (SB)](wiki/quellen/src-c7fe056e42f347b6b387.md)
+
+- [408.4801Z21](wiki/quellen/src-f2393290c506cc165a1d.md)
