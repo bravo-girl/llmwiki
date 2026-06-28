@@ -469,3 +469,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Betrieb: Meldungen EVU an DB InfraGO AG](wiki/quellen/src-2caf703401e35f29205f.md)
 
 - [Anlage 7.3.1.6.1.5: Liste SE, Angebot NV nur für eine Netzfahrplanperiode](wiki/quellen/src-fe9b00b99a3bfd78b1bf.md)
+
+- [402.0305A07](wiki/quellen/src-e8e33f0167c503067a59.md)
