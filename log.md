@@ -900,3 +900,15 @@ Status: `completed`
 
 Übersicht der Regelwerke (Ril) für grenzüberschreitende Bahnstrecken mit Luxemburg, einschließlich spezifischer Regelungen für die Grenzstrecke Igel - Wasserbillig.
 Integriert in: `wiki/quellen/src-206d59e15c24e1d9dd8c.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/infrastrukturnutzungsbedingungen-der-db-in-einleitung--src-9bbe917af34716ba942a.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/nutzungsbedingungen/INB/Infrastrukturnutzungsbedingungen-der-DB-InfraGO-AG-INB-2027-13700012#llmwiki-section=einleitung`
+Source-Key: `src-9bbe917af34716ba942a`
+Chunk: `1/1`
+Chunk-Key: `chunk-44c30eab64bd838e77bf`
+Chunk-Status: `completed`
+Status: `completed`
+
+Einleitung zu den Infrastrukturnutzungsbedingungen (INB) 2027 der DB InfraGO AG mit Hinweisen zum Genehmigungsstatus der Entgeltgrundsätze des Mindestzugangspakets und zur vorläufigen Inkraftsetzung spezifischer Änderungen.
+Integriert in: `wiki/quellen/src-9bbe917af34716ba942a.md`, `index.md`.
