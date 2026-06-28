@@ -20,6 +20,7 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 
 ## Regelwerke & Betrieb (Ril)
 
+- [Ril 438 (Fahrdienstvorschrift; FV-NE)](wiki/ril-438-fahrdienstvorschrift-fv-ne.md) – Fahrdienstvorschrift FV-NE.
 - [Ril 481.0201A01 (Übersicht AEG)](wiki/ril-481-0201a01.md) – Übersicht über das analoge Zugfunksystem AEG.
 - [Ril 481.0201A02 (Streckenband analoger Zugfunk)](wiki/ril-481-0201a02.md) – Streckenband für analogen Zugfunk.
 - [Ril 481.0201A03 (Mitbenutzung in Überlappungsbereichen)](wiki/ril-481-0201a03.md) – Übersicht der Mitbenutzung des analogen Zugfunks in Überlappungsbereichen.
