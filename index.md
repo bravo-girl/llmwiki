@@ -943,3 +943,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [302.3206Z01](wiki/quellen/src-ceb09da9f0455f183313.md)
 
 - [302.3211Z01](wiki/quellen/src-26d014aa18fddb3807bc.md)
+
+- [KOMBau Bedienungsanleitung](wiki/quellen/src-ec27c7eafd44397965e2.md)
