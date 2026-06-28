@@ -853,3 +853,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [302.6004Z98](wiki/quellen/src-f06f57861221238941d2.md)
 
 - [Booklet zur Vertiefungsveranstaltung TAF/TAP TSI im Betrieb – Oktober/November 2023](wiki/quellen/src-d6f3c7d12558a6b6b482.md)
+
+- [302.6203Z01](wiki/quellen/src-011006e15b514d9906e7.md)
