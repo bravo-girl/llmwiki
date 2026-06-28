@@ -489,3 +489,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [482.8605](wiki/quellen/src-6a9882aab00103ce3bc4.md)
 
 - [Informationen für Fahrplanbearbeitungsgrenzen –](wiki/quellen/src-7b52e7ba8ff1ffdae981.md)
+
+- [TAF/TAP TSI-Dialog – November 2025 – Antworten auf offene Punkte](wiki/quellen/src-ff2988d9e43c5416930f.md)
