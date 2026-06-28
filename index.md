@@ -803,3 +803,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 2: Technische Funktionsbeschreibung](wiki/quellen/src-3c1dbf36cdb698c2df41.md)
 
 - [Anlage 2: Technische Funktionsbeschreibung](wiki/quellen/src-4192cb76a83be6ad67c2.md)
+
+- [481.0204](wiki/quellen/src-9feed943d82548031554.md)
