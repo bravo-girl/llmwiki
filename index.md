@@ -761,3 +761,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 7: Open-Api Spezifikationen für die Stammdatenbereitstellung](wiki/quellen/src-74604718c8c5062e588d.md)
 
 - [Anlage 7: Open-Api Spezifikationen für die Stammdatenbereitstellung](wiki/quellen/src-f89392382734eff45892.md)
+
+- [TAF/TAP TSI-Dialog – Februar 2025 – Terminunterlage](wiki/quellen/src-f6a6938b77dba2c4e737.md)
