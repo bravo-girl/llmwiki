@@ -192,3 +192,15 @@ Status: `completed`
 
 Integration der ersten Seite der Richtlinie 402.0305A05 (Fahrplananordnung Beispiel) in die bestehende Synthese zur Richtlinie 402.0305.
 Integriert in: `wiki/richtline-402-0305-terminkalender-2026.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/allgemein-grenzuberschreitend-eine-identifikation--src-719bcecb3b4522d5e35d.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/allgemein-11089206#llmwiki-section=grenzuberschreitend-eine-identifikation`
+Source-Key: `src-719bcecb3b4522d5e35d`
+Chunk: `1/1`
+Chunk-Key: `chunk-431445f14445587aabd9`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration des neuen Fachabschnitts 'Grenzüberschreitend eine Identifikation' in die Synthese zur TAF/TAP-Wettbewerbsfähigkeit. Der neue Abschnitt definiert die präzise Identifikation von Zügen und Trassen sowie die neue Objektstruktur zur Trennung dieser Elemente.
+Integriert in: `wiki/taf-tap-wettbewerbsfaehigkeit.md`, `index.md`.
