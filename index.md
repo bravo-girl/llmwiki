@@ -709,3 +709,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Kickoff: Ende-zu-Ende Kundentests TAF/TAP TSI mit Identifiern - 11. März - Terminunterlage](wiki/quellen/src-84eb8c48d5cb3c927693.md)
 
 - [TAF/TAP Technische Beschreibung zu Versand und Empfang von Fehlermeldungen _v2.4](wiki/quellen/src-391dbded02f83dc8f095.md)
+
+- [482.8001](wiki/quellen/src-d118adac0dfded285e0c.md)
