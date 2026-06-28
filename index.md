@@ -413,3 +413,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Primary und Subsidiary Locations](wiki/quellen/src-35583daff6ca12837aec.md)
 
 - [Unterlagen zu den TAF/TAP TSI Veranstaltungen der DB InfraGO AG](wiki/quellen/src-c27efdaca9cd0db4acca.md)
+
+- [Anlage 3.2.6: Vereinbarung über die Verkehrsdurchführung](wiki/quellen/src-077a7beade87a5f7dfcb.md)
