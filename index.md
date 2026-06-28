@@ -225,3 +225,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Aktuelle Dokumentation (Vers. 4.6.3) – Update Anlage 1](wiki/quellen/src-2b694aa2d2ca484e8a67.md)
 
 - [pathOS – Das System zur Trassenanmeldung bei der DB InfraGO (ab dem Fahrplanjahr 2027) - Einleitung](wiki/quellen/src-584a84c8094d250fdf03.md)
+
+- [Fahrplan: EVU-Schnittstelle - Einleitung](wiki/quellen/src-167265b61b1fba24a781.md)
