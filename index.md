@@ -293,3 +293,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [ZvF-Stafette - Einleitung](wiki/quellen/src-c5de187b95a97c7e3af5.md)
 
 - [402.0305A12](wiki/quellen/src-06457c739dee169326be.md)
+
+- [2. Anhängige Gerichtsverfahren zu Untersagungen einzelner Klauseln](wiki/quellen/src-553807de25f073cdfb79.md)
