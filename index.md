@@ -759,3 +759,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [TAF/TAP TSI im Betrieb der DB InfraGO AG](wiki/quellen/src-ed3efcb0a02eece063ce.md)
 
 - [Anlage 7: Open-Api Spezifikationen für die Stammdatenbereitstellung](wiki/quellen/src-74604718c8c5062e588d.md)
+
+- [Anlage 7: Open-Api Spezifikationen für die Stammdatenbereitstellung](wiki/quellen/src-f89392382734eff45892.md)
