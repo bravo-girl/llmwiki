@@ -828,3 +828,15 @@ Status: `completed`
 
 Detaillierte Übersicht über die Unterstützungsleistungen zur Vorbereitung der BauFplo-Migration, einschließlich Aufwandschätzung, Schnittstelleninformationen und Beispieldokumenten.
 Integriert in: `wiki/quellen/src-5ec785e92210450de06f.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/402-0305a10--src-501a164c0ff3608c13df.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/resource/blob/13699824/67ee16635abfd82ec6eb251c6cd68404/Ril-402-0305A10-INB-2027-data.pdf`
+Source-Key: `src-501a164c0ff3608c13df`
+Chunk: `1/1`
+Chunk-Key: `chunk-1f0b240e88d4a491332a`
+Chunk-Status: `completed`
+Status: `completed`
+
+Die Richtlinie 402.0305A10 regelt das Bahnbetrieb-Trassenmanagement mit Fokus auf die Abstimmung und Kommunikation baubedingter Fahrplanregelungen. Sie enthält eine Klassifizierung von Ereignissen mittels BKE-Kategorien basierend auf Dauer, Verkehrsaufkommen und Netzbetroffenheit.
+Integriert in: `wiki/quellen/src-501a164c0ff3608c13df.md`, `index.md`.
