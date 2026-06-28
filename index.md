@@ -559,3 +559,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [482.8101](wiki/quellen/src-77f07e2477698220ee2d.md)
 
 - [Changelog BauFplo API EVU 2.17.0](wiki/quellen/src-c557e3750b9fa9df282f.md)
+
+- [Anlage 4.2: Nutzungsbedingungen pathOS](wiki/quellen/src-2393586bd0f0cf21f03b.md)
