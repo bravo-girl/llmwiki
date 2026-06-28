@@ -363,3 +363,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [BauFplo_99003_2026-08-13_V1-entwurf.](wiki/quellen/src-44506086895fa11a5407.md)
 
 - [Ril 423 Notfallmanagement](wiki/quellen/src-c1ff6c695e7078ba3666.md)
+
+- [Ril 492 Triebfahrzeuge führen](wiki/quellen/src-288c0c9e85270ed16c40.md)
