@@ -915,3 +915,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [302.9000](wiki/quellen/src-6cf71e03b72b3fbc9b39.md)
 
 - [302.8202Z01](wiki/quellen/src-a1e39c03bde312b66a4a.md)
+
+- [408.31-37](wiki/quellen/src-38de7bf86514a65cddce.md)
