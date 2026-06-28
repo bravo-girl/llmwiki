@@ -151,3 +151,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [402.0305A11](wiki/quellen/src-eade320ecee4c2f46223.md)
 
 - [1. Übergreifende Themen zu den EVU-Verordnungen](wiki/quellen/src-a725959f1aa08ae51f21.md)
+
+- [Welche Festlegungen gibt es für die Nationalen Werte (Nationale Values) auf den Strecken der DB InfraGO AG?](wiki/quellen/src-5da35bcc683585409b60.md)
