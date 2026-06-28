@@ -259,3 +259,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [465.0001A02](wiki/quellen/src-5012262c047e497e3c67.md)
 
 - [TAF/TAP TSI – Vertiefung: Geänderte Darstellung von Triebfahrzeugen](wiki/quellen/src-5af2bf4e6fed3a5f8458.md)
+
+- [Kann die ETCS-Streckeneinrichtung Track Conditions (Statische Streckeneigenschaften) übermitteln und falls ja, welche werden übermittelt?Auf Strecken der DB InfraGO AG ist die Über](wiki/quellen/src-2212e3d343dbde7657f4.md)
