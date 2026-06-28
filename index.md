@@ -563,3 +563,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 4.2: Nutzungsbedingungen pathOS](wiki/quellen/src-2393586bd0f0cf21f03b.md)
 
 - [Ril 483 Zugbeeinflussungsanlagen bedienen](wiki/quellen/src-8d81a19f40f57c122308.md)
+
+- [Ril 402 Trassenmanagement](wiki/quellen/src-c122014fdebab3b3476e.md)
