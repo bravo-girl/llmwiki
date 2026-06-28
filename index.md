@@ -327,3 +327,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Ril 302.9000 Grenzüberschreitende Bahnstrecken mit den Niederlanden](wiki/quellen/src-50c84d0ba2dd596e3f09.md)
 
 - [302.1001Z99](wiki/quellen/src-f72116140c0633f25689.md)
+
+- [ETCS Migrationsstrategie](wiki/quellen/src-45a26d823fbb59c460bf.md)
