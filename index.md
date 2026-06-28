@@ -333,3 +333,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [5. TAF/TAP im Betrieb](wiki/quellen/src-73db970217fea3dd463a.md)
 
 - [Anlage 5.10.1: Beauftragung](wiki/quellen/src-738e8dde265d8f293d1e.md)
+
+- [Rahmenbedingungen Versand Zugeigenschaften/TCM/PTCM](wiki/quellen/src-175741344d848744b650.md)
