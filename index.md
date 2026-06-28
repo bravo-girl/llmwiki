@@ -465,3 +465,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [483.0102A02](wiki/quellen/src-1f220744f5842b0eb58c.md)
 
 - [482.8603](wiki/quellen/src-a031b54ddab4d30b6ad1.md)
+
+- [Betrieb: Meldungen EVU an DB InfraGO AG](wiki/quellen/src-2caf703401e35f29205f.md)
