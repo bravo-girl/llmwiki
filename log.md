@@ -180,3 +180,15 @@ Status: `completed`
 
 Integration der Richtlinie 402.0305 (Terminkalender 2026) in das Wiki. Es wurde eine neue Synthese-Seite unter 'wiki/richtline-402-0305-terminkalender-2026.md' erstellt und der Index unter 'Regelwerke & Betrieb (Ril)' erweitert.
 Integriert in: `wiki/richtline-402-0305-terminkalender-2026.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/402-0305a05--src-5e99971da526d2258b29.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/resource/blob/13699834/2ba1210604ff40f590ea68c928b8d607/Ril-402-0305A05-INB-2027-data.pdf`
+Source-Key: `src-5e99971da526d2258b29`
+Chunk: `1/1`
+Chunk-Key: `chunk-3983c135d04141d61d68`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der ersten Seite der Richtlinie 402.0305A05 (Fahrplananordnung Beispiel) in die bestehende Synthese zur Richtlinie 402.0305.
+Integriert in: `wiki/richtline-402-0305-terminkalender-2026.md`, `index.md`.
