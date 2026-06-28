@@ -437,3 +437,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 5.7.2.2: Richtlinie 048.2002](wiki/quellen/src-3a95a83f2e4b05608cde.md)
 
 - [302.2206Z01](wiki/quellen/src-fbd875f9165ee1c8b79b.md)
+
+- [Anlage 7.3.1.6.1.6: Liste Trafogleise in Serviceeinrichtungen](wiki/quellen/src-243d48805a53f4eefe26.md)
