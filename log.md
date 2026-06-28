@@ -31,3 +31,8 @@ Den überholten Hinweis auf eine leere Wissensbasis nach dem ersten Ingest entfe
 
 Keine vorhandene Wiki-Seite zitiert.
 Keine redundante Wissensseite erzeugt.
+
+## [2026-06-28] query | TTT ist ein synonym für Taf Tap Tsi
+
+Keine vorhandene Wiki-Seite zitiert.
+Keine redundante Wissensseite erzeugt.
