@@ -451,3 +451,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Umsetzungscheckliste TAF/TAP TSI für EVU](wiki/quellen/src-31ef22f7f38a67d6a172.md)
 
 - [Anlage 3.2.1.2.2: Netzzugangsrelevantes Regelwerk - Zusammenstellung](wiki/quellen/src-22d2433489203d40bc3e.md)
+
+- [3. Informationen für Schnittstellen-Nutzer (und die jeweiligen IT-Firmen)](wiki/quellen/src-8e1dd3ee22915d4d35aa.md)
