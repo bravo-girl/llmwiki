@@ -659,3 +659,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [302.0001A01](wiki/quellen/src-108c0d8249295d7bf809.md)
 
 - [TAF/TAP TSI-Dialog – Februar 2026 – Antworten auf offene Punkte](wiki/quellen/src-813554c2ecdefd95f238.md)
+
+- [Anlage 8: Fachliche Anwendungsfälle](wiki/quellen/src-613dfb1ac6a1eebd1bc0.md)
