@@ -833,3 +833,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Booklet zur TAF/TAP TSI-Auftaktveranstaltung – Juli 2023](wiki/quellen/src-ff70de98bbad794c3359.md)
 
 - [402.0203](wiki/quellen/src-4e3eab94e863a3c9a58e.md)
+
+- [302.6202Z01](wiki/quellen/src-ca942d0e6ccdfe91b01e.md)
