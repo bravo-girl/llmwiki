@@ -97,3 +97,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Digitale Baufahrplananordnung - Einleitung](wiki/quellen/src-1be470143c7ef196d589.md)
 
 - [FAQ](wiki/quellen/src-20e3aa60e533325e4654.md)
+
+- [Grundwissen ETCS - Einleitung](wiki/quellen/src-bb4932e8c67b1fa934ec.md)
