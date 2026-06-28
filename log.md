@@ -396,3 +396,15 @@ Status: `completed`
 
 Integration der Informationen zu den Nationalen Werten (National Values) der DB InfraGO AG in das Wiki. Da die Quelle lediglich auf eine externe Detailseite verweist, wurde ein neuer Wiki-Eintrag erstellt, der als Platzhalter und Wegweiser dient, sowie der Index aktualisiert.
 Integriert in: `wiki/grundwissen-etcs.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/481-0201a01--src-1db53b758acba227e36a.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/resource/blob/13699548/13d8d03be0d8f0884afee5ed3e85c42f/Ril-481-0201A01-INB-2027-data.pdf`
+Source-Key: `src-1db53b758acba227e36a`
+Chunk: `1/1`
+Chunk-Key: `chunk-71e1b848d081b8837fc2`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der neuen Richtlinie Ril 481.0201A01 (Übersicht über das analoge Zugfunksystem AEG) in das Wiki. Die neue Seite wurde unter 'Regelwerke & Betrieb (Ril)' angelegt und der Index entsprechend aktualisiert.
+Integriert in: `wiki/ril-481-0201a01.md`, `index.md`.
