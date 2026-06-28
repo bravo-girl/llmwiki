@@ -687,3 +687,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 2.3.12: GSM-R AGB](wiki/quellen/src-5945f3be3ea927fdba43.md)
 
 - [Anlage 2.6.1.5: Karte Trafonetz](wiki/quellen/src-221727ba61bc41c79199.md)
+
+- [Testfälle CI Test (Stand 01.2026)](wiki/quellen/src-90a769feb95af137bd70.md)
