@@ -541,3 +541,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [TAF/TAP TSI at DB InfraGO AG - Management Summary](wiki/quellen/src-8e7042d611f504975172.md)
 
 - [Jour Fixe TAF/TAP TSI Schnittstellenpartner Fahrplan - 12.02.2026](wiki/quellen/src-b5d6537f091231556ea6.md)
+
+- [TAF/TAP TSI-Dialog – Dezember 2025 – Antworten auf offene Punkte](wiki/quellen/src-923fe16c7c149001d877.md)
