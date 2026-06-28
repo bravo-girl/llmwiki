@@ -168,3 +168,15 @@ Status: `completed`
 
 Integration der neuen Evidenz zur betrieblichen Durchführung (bessere Prognosequalität durch Echtzeitdaten und Informationslevel) in die bestehende Synthese zur TAF/TAP Wettbewerbsfähigkeit.
 Integriert in: `wiki/taf-tap-wettbewerbsfaehigkeit.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/annex-vii-richtlinie-2012-34-eu-richtline-402-0305-terminkal--src-0ad800e268637300fc0e.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/fahren_und_bauen/annex-vii-richtlinie-2012-34-eu-11857512#llmwiki-section=richtline-402-0305-terminkalender-fur-2026`
+Source-Key: `src-0ad800e268637300fc0e`
+Chunk: `1/1`
+Chunk-Key: `chunk-3a30338984365477139c`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Richtlinie 402.0305 (Terminkalender 2026) in das Wiki. Es wurde eine neue Synthese-Seite unter 'wiki/richtline-402-0305-terminkalender-2026.md' erstellt und der Index unter 'Regelwerke & Betrieb (Ril)' erweitert.
+Integriert in: `wiki/richtline-402-0305-terminkalender-2026.md`, `index.md`.
