@@ -641,3 +641,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anleitung Testzugang auf BauFplo API](wiki/quellen/src-9f8c0b9f5b714b5929fe.md)
 
 - [402.0202A03](wiki/quellen/src-b647f7c4c61ccbd43c20.md)
+
+- [302.7201Z01](wiki/quellen/src-d9f2560587b2b8d069ea.md)
