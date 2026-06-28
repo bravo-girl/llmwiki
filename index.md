@@ -847,3 +847,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [483.0100Z14](wiki/quellen/src-87f4f8c1167b59f23520.md)
 
 - [TAF/TAP Technische Beschreibung Zugeigenschaften/TCM/PTCM _v14.6](wiki/quellen/src-917e71209a696b04150d.md)
+
+- [408.0051-56Z31](wiki/quellen/src-f08effac1bd0e402c8aa.md)
