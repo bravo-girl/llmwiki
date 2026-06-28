@@ -357,3 +357,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Train Composition Message und Passenger Train Composition Message](wiki/quellen/src-6ea600bb078f32c2c0ef.md)
 
 - [Testanmeldung E2E-Kundentest TTT mit ID](wiki/quellen/src-512206369a89c82d5d3d.md)
+
+- [BauFplo_99003_2026-08-12_V1-entwurf.](wiki/quellen/src-2131ff3c88853daade05.md)
