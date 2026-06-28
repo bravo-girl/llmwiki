@@ -169,3 +169,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Ril 420 Betriebsleitstellen](wiki/quellen/src-bb1fcc7dc5431e76a766.md)
 
 - [481.0204A01](wiki/quellen/src-f8b8d633210b288299af.md)
+
+- [6. pathOS Webportal](wiki/quellen/src-725f3be4171ba08522cd.md)
