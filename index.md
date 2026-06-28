@@ -779,3 +779,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [TAF/TAP TSI-Dialog der DB InfraGO – Dezember 2024](wiki/quellen/src-5df647c28e1adef6be6f.md)
 
 - [302.1000](wiki/quellen/src-c269acbd3cc918ebd072.md)
+
+- [Liste der Planning Handover zu ausländischen EIU – EXCEL](wiki/quellen/src-a7ec016c31b66f7af95f.md)
