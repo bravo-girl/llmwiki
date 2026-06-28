@@ -201,3 +201,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Baumaßnahmenkorridore](wiki/quellen/src-d54c8abc191295d6b50e.md)
 
 - [TAF/TAP TSI – Vertiefung: Entfall der Stamm- und Ergänzungsfahrplanlogik](wiki/quellen/src-485e6cc7318de4c65698.md)
+
+- [481.0204A02](wiki/quellen/src-7ae6a9f5ab19327ec96d.md)
