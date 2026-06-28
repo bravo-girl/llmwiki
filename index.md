@@ -231,3 +231,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Ril 302.1000 Grenzüberschreitende Bahnstrecke mit Dänemark](wiki/quellen/src-9045137e6a88c60c4a89.md)
 
 - [Entwickelt nach Ihren Bedürfnissen](wiki/quellen/src-3d89743876cf4e6bfcf6.md)
+
+- [Welche Überhöhungsfehlbeträge der Strecke werden zur Ermittlung des Static Speed Profiles (SSP) verwendet und welche anderen ETCS-Zugarten (Train category) mit geringerem Überhöhun](wiki/quellen/src-655bf4c55c26023087a5.md)
