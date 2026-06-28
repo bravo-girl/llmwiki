@@ -485,3 +485,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anleitung zur pathOS-Userverwaltung im Infraportal](wiki/quellen/src-7cb39f07aa3e7de6d29b.md)
 
 - [423.0310V02](wiki/quellen/src-d94b639fe9b861c99651.md)
+
+- [482.8605](wiki/quellen/src-6a9882aab00103ce3bc4.md)
