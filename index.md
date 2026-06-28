@@ -173,3 +173,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [6. pathOS Webportal](wiki/quellen/src-725f3be4171ba08522cd.md)
 
 - [Was genau ist eine BKE?](wiki/quellen/src-cb0bc55b2b524aaece56.md)
+
+- [437.0011V03](wiki/quellen/src-121d6e20932ddf0037bb.md)
