@@ -493,3 +493,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [TAF/TAP TSI-Dialog – November 2025 – Antworten auf offene Punkte](wiki/quellen/src-ff2988d9e43c5416930f.md)
 
 - [Anlage 4.4.1a: Berechnung der Höchstkapazität bei Zuweisung von Rahmenverträgen](wiki/quellen/src-0ff930fec440265dc274.md)
+
+- [3. Stammdaten](wiki/quellen/src-4dedea7e960245e2e8a9.md)
