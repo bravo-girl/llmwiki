@@ -384,3 +384,15 @@ Status: `completed`
 
 Integration der neuen fachlichen Information zur Umsetzungspflicht von TAF/TAP für EVUs in die bestehende Synthese 'TAF/TAP zur Steigerung der Wettbewerbsfähigkeit'.
 Integriert in: `wiki/taf-tap-wettbewerbsfaehigkeit.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/grundwissen-etcs-welche-festlegungen-gibt-es-fur-die-nationa--src-5da35bcc683585409b60.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/etcs/grundlagen-etcs/grundwissen-etcs-12285634#llmwiki-section=welche-festlegungen-gibt-es-fur-die-nationalen-werte-nationale-values-au`
+Source-Key: `src-5da35bcc683585409b60`
+Chunk: `1/1`
+Chunk-Key: `chunk-4cdd3c48b95c0dc01f63`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Informationen zu den Nationalen Werten (National Values) der DB InfraGO AG in das Wiki. Da die Quelle lediglich auf eine externe Detailseite verweist, wurde ein neuer Wiki-Eintrag erstellt, der als Platzhalter und Wegweiser dient, sowie der Index aktualisiert.
+Integriert in: `wiki/grundwissen-etcs.md`, `index.md`.
