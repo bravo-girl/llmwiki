@@ -1015,3 +1015,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Dokumentation der EVU-Schnittstelle (Hauptdokument)](wiki/quellen/src-f3ee7d4c81742c9f44ee.md)
 
 - [Dokumentation der EVU-Schnittstelle (Hauptdokument)](wiki/quellen/src-00bb221a8c0f8d2e1bac.md)
+
+- [TNB 2027](wiki/quellen/src-2f9f072e315a9cb142bc.md)
