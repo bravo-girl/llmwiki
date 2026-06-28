@@ -20,6 +20,7 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 
 ## Regelwerke & Betrieb (Ril)
 
+- [Ril 124.0600V01 (Dampflokomotiven)](wiki/ril-124-0600v01.md) – Hinweise zur Bedienung rostgefeuerter Dampflokomotiven.
 - [Ril 402.0202A05 (Trassenmanagement)](wiki/ril-402-0202a05.md) – Planungsprozedere und Trassenanmeldungen.
 - [Ril 437.0011V01 (Fernsprechbuch SZB-E)](wiki/ril-437-0011v01.md) – Fernsprechbuch für den SZB-E - Teil Zugleiter.
 - [Ril 481.0301V01 (Rangierfunk-Teilnehmerverzeichnis)](wiki/ril-481-0301v01.md) – Verzeichnis der Teilnehmer am Rangierfunk.
