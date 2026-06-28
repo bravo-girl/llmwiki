@@ -144,3 +144,15 @@ Status: `completed`
 
 Integration der Ril 492.0753V01 (Anlage 2a, Muster 'Führerschein') als neue Wissensbasis. Da die bestehende Wiki-Seite sich auf die V02 (Anlage 2b) bezieht, wird eine neue Seite für die V01 erstellt und der Index aktualisiert.
 Integriert in: `wiki/ril-492-0753v01.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/allgemein-starkere-wettbewerbsfahigkeit--src-d23cd77e9418c709149a.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/allgemein-11089206#llmwiki-section=starkere-wettbewerbsfahigkeit`
+Source-Key: `src-d23cd77e9418c709149a`
+Chunk: `1/1`
+Chunk-Key: `chunk-7e751e243f0b52ce662c`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration des Fachabschnitts zur Wettbewerbsfähigkeit durch TAF/TAP in das Wiki. Erstellung der neuen Synthese-Seite 'wiki/taf-tap-wettbewerbsfaehigkeit.md' und Aktualisierung des 'index.md' unter der Kategorie 'Regelwerke & Betrieb (Ril)'.
+Integriert in: `wiki/taf-tap-wettbewerbsfaehigkeit.md`, `index.md`.
