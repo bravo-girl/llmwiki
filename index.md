@@ -27,6 +27,7 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Ril 437.0011V02 (Fernsprechbuch SZB-E - Teil Triebfahrzeugführer)](wiki/ril-437-0011v02.md) – Fernsprechbuch für den SZB-E - Teil Triebfahrzeugführer.
 - [Ril 481.0301V01 (Rangierfunk-Teilnehmerverzeichnis)](wiki/ril-481-0301v01.md) – Verzeichnis der Teilnehmer am Rangierfunk.
 - [Richtline 402.0305 (Terminkalender 2026)](wiki/richtline-402-0305-terminkalender-2026.md) – Terminkette und Stellungnahme für 2026.
+- [Ril 402.0305A11 (Baubedingte Fahrplanregelungen)](wiki/ril-402-0305a11.md) – Abstimmung und Kommunikation baubedingter Fahrplanregelungen.
 - [TAF/TAP Wettbewerbsfähigkeit](wiki/taf-tap-wettbewerbsfaehigkeit.md) – Bedeutung der Digitalisierung und Harmonisierung im Datenaustausch.
 - [Ril 492.0753V01 (Anlage 2a VDV 753)](wiki/ril-492-0753v01.md) – Muster „Führerschein".
 - [Ril 492.0753V02 (Anlage 2b VDV 753)](wiki/ril-492-0753v02.md) – Muster „Beiblatt" gemäß KoRil 492.0753V02.
