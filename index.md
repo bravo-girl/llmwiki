@@ -547,3 +547,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 5.6.2.3: Entgeltnachlass bei Umleitung durch Generalsanierungsmaßnahmen](wiki/quellen/src-b011d186a3c345e8fc80.md)
 
 - [Anlage 7.3.2.4.1.1: Zuordnungssystematik Stationen zu den jeweiligen Kategorien](wiki/quellen/src-ea6667e14902de6d6af9.md)
+
+- [Anlage 3.2.1.1: Grundsatz-INV](wiki/quellen/src-1e8b1487097848d8a583.md)
