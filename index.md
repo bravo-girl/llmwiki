@@ -947,3 +947,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [KOMBau Bedienungsanleitung](wiki/quellen/src-ec27c7eafd44397965e2.md)
 
 - [Anlage 5.2: Beschreibung TPS](wiki/quellen/src-b75ed111f8ef4d0a6bc2.md)
+
+- [402.0305](wiki/quellen/src-c46be63af6b479008727.md)
