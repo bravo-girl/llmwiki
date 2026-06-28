@@ -523,3 +523,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 7.3.1.6.1.9: Zugangskonzept Logistikstellen](wiki/quellen/src-bf313ae0c6ae04715652.md)
 
 - [482.8601](wiki/quellen/src-abbe74438af22dce3e37.md)
+
+- [TAF TAP TSI-Dialog – 22. April 2026 – Antworten und offene Punkte](wiki/quellen/src-b148cab04c9f86c42b0a.md)
