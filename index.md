@@ -20,6 +20,7 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 
 ## Regelwerke & Betrieb (Ril)
 
+- [Ril 437.0011V01 (Fernsprechbuch SZB-E)](wiki/ril-437-0011v01.md) – Fernsprechbuch für den SZB-E - Teil Zugleiter.
 - [Ril 481.0301V01 (Rangierfunk-Teilnehmerverzeichnis)](wiki/ril-481-0301v01.md) – Verzeichnis der Teilnehmer am Rangierfunk.
 - [Richtline 402.0305 (Terminkalender 2026)](wiki/richtline-402-0305-terminkalender-2026.md) – Terminkette und Stellungnahme für 2026.
 - [TAF/TAP Wettbewerbsfähigkeit](wiki/taf-tap-wettbewerbsfaehigkeit.md) – Bedeutung der Digitalisierung und Harmonisierung im Datenaustausch.
