@@ -487,3 +487,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [423.0310V02](wiki/quellen/src-d94b639fe9b861c99651.md)
 
 - [482.8605](wiki/quellen/src-6a9882aab00103ce3bc4.md)
+
+- [Informationen für Fahrplanbearbeitungsgrenzen –](wiki/quellen/src-7b52e7ba8ff1ffdae981.md)
