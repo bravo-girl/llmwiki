@@ -667,3 +667,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [302.7000](wiki/quellen/src-c769beee0260c3e5dd73.md)
 
 - [402.0202V05](wiki/quellen/src-ea0fa207bf3718f06c68.md)
+
+- [Anlage 3: xsd-Kompatibilität und Abweichungen vom Zielzustand](wiki/quellen/src-c654e9478b97f4f20a51.md)
