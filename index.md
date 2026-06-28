@@ -519,3 +519,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 4.2.3.1: Zusammenarbeit der DB InfraGO AG mit inländischen BdS](wiki/quellen/src-98218930c283e63ec49f.md)
 
 - [402.0207](wiki/quellen/src-5d6795649aee09df2833.md)
+
+- [Anlage 7.3.1.6.1.9: Zugangskonzept Logistikstellen](wiki/quellen/src-bf313ae0c6ae04715652.md)
