@@ -531,3 +531,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 4.6.2: Übersicht der überlasteten Schienenwege und NV](wiki/quellen/src-0d729085a1d275525cbf.md)
 
 - [483.0102A03](wiki/quellen/src-11f1fa6b5d36cc325c94.md)
+
+- [436.0000](wiki/quellen/src-aed0f53a1dcc89755c67.md)
