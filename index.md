@@ -919,3 +919,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [408.31-37](wiki/quellen/src-38de7bf86514a65cddce.md)
 
 - [Fragenkatalog digitale Baufahrplananordnung (BauFplo)](wiki/quellen/src-e60d0a1d5d0c03cb5d1c.md)
+
+- [483.0100](wiki/quellen/src-cb793fe4ce757ab90ccd.md)
