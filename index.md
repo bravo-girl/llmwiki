@@ -725,3 +725,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Readiness-Check digitale BauFplo](wiki/quellen/src-3f0026535ca990a0d449.md)
 
 - [302.4206Z01](wiki/quellen/src-8e6c444c5787934c6b93.md)
+
+- [402.0202A01](wiki/quellen/src-da617b1120ac5d20d3ec.md)
