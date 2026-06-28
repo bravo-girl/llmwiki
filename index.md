@@ -303,3 +303,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [BauFplo_98003_2026-08-13_V1-entwurf.](wiki/quellen/src-a7f59c3b8c178c973256.md)
 
 - [Glossar ZvF](wiki/quellen/src-4b49020694f51ccd1e23.md)
+
+- [492.0753V04](wiki/quellen/src-b3401ad6fec0bcdbd3d3.md)
