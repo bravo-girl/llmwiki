@@ -191,3 +191,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Bereitstellung von Informationen vor den internationalen Erörterungsgesprächen im Rahmen von Annex VII (Richtlinie 2012/34/EU)](wiki/quellen/src-1e8e7d607df84a74c5db.md)
 
 - [ETCS Level 0](wiki/quellen/src-18c5414e2f3b855158d5.md)
+
+- [465.0001A05](wiki/quellen/src-33cc29f22b9fec27c441.md)
