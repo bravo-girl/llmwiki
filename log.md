@@ -468,3 +468,15 @@ Status: `completed`
 
 Integration der Ril 406 (Baubetriebsplanung, Betra, La) in das Wiki. Es wurde eine neue Synthese-Seite erstellt, die die Informationen aus dem HTML-Abschnitt (speziell das Dokument 406.1301) enthält, und der Index unter 'Regelwerke & Betrieb (Ril)' entsprechend aktualisiert.
 Integriert in: `wiki/ril-406-baubetriebsplanung-betra-la.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/betrieblich-technisches-regelwerk-ril-420-betriebsleitstelle--src-bb1fcc7dc5431e76a766.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/regelwerke/betrieblich-technisch_regelwerke/betrieblich_technisches_regelwerk-13699620#llmwiki-section=ril-420-betriebsleitstellen`
+Source-Key: `src-bb1fcc7dc5431e76a766`
+Chunk: `1/1`
+Chunk-Key: `chunk-0139c34c6e6b321d8588`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Ril 420 (Betriebsleitstellen) in das Wiki. Da der bereitgestellte Quellenteil lediglich eine Tabellenzeile zu einem PDF-Dokument (Ril 420.02) enthält, wurde eine neue Wiki-Seite für die Ril 420 erstellt und der Index entsprechend erweitert.
+Integriert in: `wiki/ril-420-betriebsleitstellen.md`, `index.md`.
