@@ -431,3 +431,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [4. Trassenanmeldung allgemein](wiki/quellen/src-1835ff193082657a6299.md)
 
 - [302.2205Z01](wiki/quellen/src-16eb42012f0431acaf71.md)
+
+- [481.0000](wiki/quellen/src-e4ce28cb0e2ad56e5b2a.md)
