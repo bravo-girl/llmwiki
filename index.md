@@ -389,3 +389,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Ril 302.6000 Grenzüberschreitende Bahnstrecken mit Frankreich](wiki/quellen/src-ee7a657b134ddb86a24e.md)
 
 - [KOMBau Flyer 1. Konsultationsphase](wiki/quellen/src-251a20c2efcb7dcc646a.md)
+
+- [423.1100](wiki/quellen/src-467c709ae313346becab.md)
