@@ -504,3 +504,15 @@ Status: `completed`
 
 Integration der Informationen zum pathOS Webportal (Entwurfs- und Vorlagenfunktion) in die bestehende Wiki-Seite zur TAF/TAP-Wettbewerbsfähigkeit.
 Integriert in: `wiki/taf-tap-wettbewerbsfaehigkeit.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/annex-vii-richtlinie-2012-34-eu-was-genau-ist-eine-bke--src-cb0bc55b2b524aaece56.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/fahren_und_bauen/annex-vii-richtlinie-2012-34-eu-11857512#llmwiki-section=was-genau-ist-eine-bke`
+Source-Key: `src-cb0bc55b2b524aaece56`
+Chunk: `1/1`
+Chunk-Key: `chunk-0267c8a5934fec8c9cb1`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Definition der 'baubedingten Kapazitätseinschränkung' (BKE) gemäß Annex VII der Richtlinie 2012/34/EU in das Wiki. Es wurde eine neue Synthese-Seite erstellt und der Index aktualisiert.
+Integriert in: `wiki/bke-definition.md`, `index.md`.
