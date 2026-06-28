@@ -120,3 +120,15 @@ Status: `completed`
 
 Integration der Einleitung zum Thema KiGbau (Kundenindividuelle Gestaltung des Bauablaufs) in das Wiki. Erstellung der neuen Synthese-Seite wiki/kigbau-einleitung.md und Aktualisierung des index.md.
 Integriert in: `wiki/kigbau-einleitung.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/492-0753v02--src-3e724273449bccfc13f2.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/resource/blob/13699096/9e95c78bbfa4f5c424010aadc2e6e370/Ril-492-0753V02-INB-2027-data.pdf`
+Source-Key: `src-3e724273449bccfc13f2`
+Chunk: `1/1`
+Chunk-Key: `chunk-2eb9a8e5419b24da0d49`
+Chunk-Status: `completed`
+Status: `completed`
+
+Erster Ingest der Quelle 492.0753V02 (Anlage 2b zur VDV-Schrift 753, Muster 'Beiblatt', KoRil 492.0753V02). Da der Inhalt der ersten zwei Seiten minimal ist, wurde ein neuer Wiki-Eintrag unter 'Regelwerke & Betrieb (Ril)' erstellt, um die Struktur für das kommende Regelwerk vorzubereiten.
+Integriert in: `wiki/ril-492-0753v02.md`, `index.md`.
