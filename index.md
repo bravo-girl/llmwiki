@@ -20,8 +20,8 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 
 ## Regelwerke & Betrieb (Ril)
 
-- [Ril 302.2000v04 (INB 2027)](wiki/ril-302-2000v04-inb-2027.md) – Regelwerk zur Betriebstechnik (In Bearbeitung).
-- [Ril 492.0753V02 (Anlage 2b VDV 753)](wiki/ril-492-0753v02.md) – Muster „Beiblatt“ gemäß KoRil 492.0753V02.
+- [Ril 492.0753V01 (Anlage 2a VDV 753)](wiki/ril-492-0753v01.md) – Muster „Führerschein".
+- [Ril 492.0753V02 (Anlage 2b VDV 753)](wiki/ril-492-0753v02.md) – Muster „Beiblatt" gemäß KoRil 492.0753V02.
 
 ## Aktuelles & Events
 
