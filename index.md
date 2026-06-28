@@ -75,3 +75,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [TAF/TAP TSI FAQ - Einleitung](wiki/quellen/src-1f08c004d7136047e3cc.md)
 
 - [TNB - Technische Netzzugangsbedingungen](wiki/quellen/src-92878cba57fcb3e9adc8.md)
+
+- [Ril 302.7000 Grenzüberschreitende Bahnstrecken mit Luxemburg](wiki/quellen/src-206d59e15c24e1d9dd8c.md)
