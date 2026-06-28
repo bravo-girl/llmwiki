@@ -921,3 +921,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Fragenkatalog digitale Baufahrplananordnung (BauFplo)](wiki/quellen/src-e60d0a1d5d0c03cb5d1c.md)
 
 - [483.0100](wiki/quellen/src-cb793fe4ce757ab90ccd.md)
+
+- [Anlage 4.4.1b: Strecken mit rahmenvertraglich gebundener Höchstkapazität bis zu 90 %](wiki/quellen/src-8b2d858db963b2528fc6.md)
