@@ -711,3 +711,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [TAF/TAP Technische Beschreibung zu Versand und Empfang von Fehlermeldungen _v2.4](wiki/quellen/src-391dbded02f83dc8f095.md)
 
 - [482.8001](wiki/quellen/src-d118adac0dfded285e0c.md)
+
+- [TAF/TAP TSI-Dialog – Oktober 2025 – Terminunterlage](wiki/quellen/src-f436d2c8ffb9b0080953.md)
