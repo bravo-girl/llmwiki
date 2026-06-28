@@ -588,3 +588,15 @@ Status: `completed`
 
 Integration der Informationen über den Kundenbeirat ZvF-Stafette in die Wiki-Seite für aktuelle Informationen und Veranstaltungen.
 Integriert in: `wiki/aktuelle-infos-und-veranstaltungen.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/465-0001a01--src-753e3554667ccfcf0f4b.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/resource/blob/13699512/acf6751c03b2a6794c228ed122097d57/Ril-465-0001A01-INB-2027-data.pdf`
+Source-Key: `src-753e3554667ccfcf0f4b`
+Chunk: `1/1`
+Chunk-Key: `chunk-39cec4e37f8094c60c96`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Richtlinie 465.0001A01 (Betrieb auf Steilstrecken Linz - Kahlenborn) in das Wiki. Da es sich um eine spezifische Regelung für eine nicht mehr von der DB Netz AG betriebene Steilstrecke handelt, wird sie unter der Kategorie 'Regelwerke & Betrieb (Ril)' neu angelegt.
+Integriert in: `wiki/ril-465-0001a01.md`, `index.md`.
