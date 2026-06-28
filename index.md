@@ -647,3 +647,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Informationsveranstaltung „Vertiefung ujBau“ am 27.03.2026](wiki/quellen/src-e0fffd16e4eb063f8c49.md)
 
 - [437.0013](wiki/quellen/src-57d69d0405e84ec9fa8b.md)
+
+- [TAF/TAP TSI-Dialog – September 2025 – Terminunterlage](wiki/quellen/src-bc0b9d46aa61077ff67c.md)
