@@ -697,3 +697,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Informationsveranstaltung „Vertiefung ujBau“ am 20. Mai 2026](wiki/quellen/src-eb2de876eddf8c43a26d.md)
 
 - [423.8210](wiki/quellen/src-0e9d036e6c023ac7fc8b.md)
+
+- [481.0201](wiki/quellen/src-170f10ba5d97a4395a21.md)
