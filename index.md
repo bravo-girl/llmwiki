@@ -235,3 +235,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Welche Überhöhungsfehlbeträge der Strecke werden zur Ermittlung des Static Speed Profiles (SSP) verwendet und welche anderen ETCS-Zugarten (Train category) mit geringerem Überhöhun](wiki/quellen/src-655bf4c55c26023087a5.md)
 
 - [Ril 302.8000 Grenzüberschreitende Bahnstrecken mit Belgien](wiki/quellen/src-4f14fa4c8f4d7fdf96a6.md)
+
+- [TAF/TAP TSI – Vertiefung: Traction Mode](wiki/quellen/src-e90b937bb3dc711b6cd5.md)
