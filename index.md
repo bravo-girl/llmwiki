@@ -627,3 +627,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [TAF/TAP TSI-Dialog – Dezember 2025 – Terminunterlage](wiki/quellen/src-62458fd9e8ee2542ffa1.md)
 
 - [Anlage 9: Fehlercodes der DB InfraGO](wiki/quellen/src-231dc086bb9279208c76.md)
+
+- [TAF/TAP TSI-Dialog – 22. April 2026 – Terminunterlage](wiki/quellen/src-2345701a98ba630b7716.md)
