@@ -457,3 +457,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 5.1b: Liste der Metropolbahnhöfe](wiki/quellen/src-9ac1e2d42bb426c8d8bc.md)
 
 - [Wie sehen die Konsultationsphasen im Detail aus?](wiki/quellen/src-47007413d623c2fbe583.md)
+
+- [492.0753A01](wiki/quellen/src-88f00f61133708c81b97.md)
