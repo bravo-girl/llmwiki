@@ -351,3 +351,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [BauFplo – Beispieldateien](wiki/quellen/src-d50fd53c96123666fe8c.md)
 
 - [Informationen zur Umsetzung TAF/TAP TSI – Entwicklung und Fortführung Schnittstellentests](wiki/quellen/src-6c1f9fe40378cd6c90b7.md)
+
+- [423.8210A02](wiki/quellen/src-082136b6fcc7d479a794.md)
