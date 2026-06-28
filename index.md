@@ -421,3 +421,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [BauFplo_99001_2026-08-12_V1-entwurf.](wiki/quellen/src-40d1d1cf7f52a0a31e57.md)
 
 - [Unterjährige Baukommunikation nach Annex VII](wiki/quellen/src-a4e4421cb0803b18e89e.md)
+
+- [TAF/TAP TSI-Dialog – Oktober 2025 – Ergänzender Foliensatz zum Thema „4. Organisation Code: Umstellung von CC auf OC“](wiki/quellen/src-a85397008c3b2b9e34b1.md)
