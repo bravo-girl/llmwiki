@@ -889,3 +889,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 4.2.2.4: Bearbeitungsfristen grenzüberschreitender Trassen](wiki/quellen/src-e8a4b15d0485c5f31a15.md)
 
 - [483.0202](wiki/quellen/src-81254fbddea01a52a71f.md)
+
+- [Anlage 5.7.6: Kategoriespezifische Basisleistungen und weitere Leistungen der INB (Bereich Personenbahnhöfe)](wiki/quellen/src-ed407cab45f001da749c.md)
