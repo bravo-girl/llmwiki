@@ -571,3 +571,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Jährlicher Terminkalender 2026_Ril. 402.0305, Terminkette 2026 (1.Nachtrag)](wiki/quellen/src-dd41ad11c8ae8110bc1c.md)
 
 - [302.3000V03](wiki/quellen/src-bccac36ada71315bc401.md)
+
+- [TAF/TAP TSI-Dialog – Januar 2026 – Antworten auf offene Punkte](wiki/quellen/src-53ec4ff7c6bc14412675.md)
