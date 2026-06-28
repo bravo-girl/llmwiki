@@ -335,3 +335,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 5.10.1: Beauftragung](wiki/quellen/src-738e8dde265d8f293d1e.md)
 
 - [Rahmenbedingungen Versand Zugeigenschaften/TCM/PTCM](wiki/quellen/src-175741344d848744b650.md)
+
+- [Ril 302.5000 Grenzüberschreitende Bahnstrecken zur Schweiz](wiki/quellen/src-5b26c07aa2ff54e47895.md)
