@@ -33,6 +33,7 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [TAF/TAP Wettbewerbsfähigkeit](wiki/taf-tap-wettbewerbsfaehigkeit.md) – Bedeutung der Digitalisierung und Harmonisierung im Datenaustausch.
 - [Ril 492.0753V01 (Anlage 2a VDV 753)](wiki/ril-492-0753v01.md) – Muster „Führerschein".
 - [Ril 492.0753V02 (Anlage 2b VDV 753)](wiki/ril-492-0753v02.md) – Muster „Beiblatt" gemäß KoRil 492.0753V02.
+- [Umrisslinie zur Preisbildung Machbarkeitsstudie aT](wiki/umrisslinie-preisbildung-machbarkeitsstudie-at.md) – Regelungen zur Preisbildung für Machbarkeitsstudien (Anlage 5.4.2 INB 2027).
 
 ## Aktuelles & Events
 
