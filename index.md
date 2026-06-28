@@ -675,3 +675,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 3: xsd-Kompatibilität und Abweichungen vom Zielzustand](wiki/quellen/src-3b721ac065e40b2569e5.md)
 
 - [483.0201](wiki/quellen/src-1ce1fbeddc8fd991911a.md)
+
+- [Anlage 7.3.1.6.1a: Muster Einzelanmeldung](wiki/quellen/src-858309ab646a62dfa96d.md)
