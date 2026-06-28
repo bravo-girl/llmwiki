@@ -420,3 +420,15 @@ Status: `completed`
 
 Integration der Ril 481.0201A03 (Übersicht der Mitbenutzung des analogen Zugfunks in Überlappungsbereichen) in das Wiki und Aktualisierung des Index.
 Integriert in: `wiki/ril-481-0201a03.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/anlage-5-4-2-umrisslinie-zur-preisbildung-at--src-a12e46cfc0e911874b65.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/resource/blob/13699986/dffa5e902625eccab69923ab441d4968/INB-2027-Anlage-5-4-2-data.pdf`
+Source-Key: `src-a12e46cfc0e911874b65`
+Chunk: `1/1`
+Chunk-Key: `chunk-b6cd44d4899e9eade3ec`
+Chunk-Status: `completed`
+Status: `completed`
+
+Erstellung der Wiki-Seite 'Umrisslinie zur Preisbildung Machbarkeitsstudie aT' basierend auf der Anlage 5.4.2 der INB 2027 und Aktualisierung des Index.
+Integriert in: `wiki/umrisslinie-preisbildung-machbarkeitsstudie-at.md`, `index.md`.
