@@ -243,3 +243,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Was ändert sich für mich als Kund:in durch die Umsetzung des Annex VII?](wiki/quellen/src-12579aa1f13d6672f011.md)
 
 - [• Jahresüberblick Kalenderjahr 2026 mit Möglichkeiten zur Stellungnahme (SN) (1. Nachtrag)](wiki/quellen/src-3bf1a7d5adde8ed9946d.md)
+
+- [Anlage 5.1a: Liste der aufkommensstarken Grenzstellen](wiki/quellen/src-2e2f024adb76b2c09f14.md)
