@@ -789,3 +789,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [481.0205](wiki/quellen/src-0269d0d4f33c04811712.md)
 
 - [481.0202](wiki/quellen/src-4961d6802b92a9ddbce8.md)
+
+- [Informationsveranstaltung "Vertiefung ujBau" am 27.11.2025](wiki/quellen/src-8b9758f0506bb9c699ec.md)
