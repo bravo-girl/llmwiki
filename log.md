@@ -792,3 +792,15 @@ Status: `completed`
 
 Integration der fachlichen Informationen aus der Ril 124 (Brandschutz) in das Wiki. Die neue Quelle wurde als Teil des Regelwerks erfasst, wobei die spezifischen Dokumente zur Bedienung rostgefeuerter Dampflokomotiven (124.0600 und 124.0600V01) mit ihren Metadaten und PDF-Referenzen aus dem HTML-Abschnitt übernommen wurden.
 Integriert in: `wiki/ril-124-0600v01.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/evu-schnittstelle-informationen-fur-tests-der-schnittstelle---src-4fdddca3fb585dd6eb8f.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/evu_schnittstelle-11089208#llmwiki-section=informationen-fur-tests-der-schnittstelle-zu-pathos-fur-it-partner`
+Source-Key: `src-4fdddca3fb585dd6eb8f`
+Chunk: `1/1`
+Chunk-Key: `chunk-de3dc4badfb1e04daaed`
+Chunk-Status: `completed`
+Status: `completed`
+
+Informationen und Testunterlagen zur Vorbereitung auf Markttests der pathOS-Schnittstelle für IT-Partner.
+Integriert in: `wiki/quellen/src-4fdddca3fb585dd6eb8f.md`, `index.md`.
