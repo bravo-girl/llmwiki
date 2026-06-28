@@ -459,3 +459,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Wie sehen die Konsultationsphasen im Detail aus?](wiki/quellen/src-47007413d623c2fbe583.md)
 
 - [492.0753A01](wiki/quellen/src-88f00f61133708c81b97.md)
+
+- [483.0202A02](wiki/quellen/src-37d2df749a1ad41dd895.md)
