@@ -20,21 +20,22 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 
 ## Regelwerke & Betrieb (Ril)
 
+- [Ril 402.0305A11 (Baubedingte Fahrplanregelungen)](wiki/ril-402-0305a11.md) – Abstimmung und Kommunikation baubedingter Fahrplanregelungen.
+- [Ril 402.0202A05 (Trassenmanagement)](wiki/ril-402-0202a05.md) – Planungsprozedere und Trassenanmeldungen.
 - [Ril 406 (Baubetriebsplanung, Betra, La)](wiki/ril-406-baubetriebsplanung-betra-la.md) – Informationen zu Baubetriebsplanung, Betra und La.
+- [Ril 420 (Betriebsleitstellen)](wiki/ril-420-betriebsleitstellen.md) – Regelungen zu Betriebsleitstellen und Zusammenarbeit mit EVU.
+- [Ril 437.0011V01 (Fernsprechbuch SZB-E - Teil Zugleiter)](wiki/ril-437-0011v01.md) – Fernsprechbuch für den SZB-E - Teil Zugleiter.
+- [Ril 437.0011V02 (Fernsprechbuch SZB-E - Teil Triebfahrzeugführer)](wiki/ril-437-0011v02.md) – Fernsprechbuch für den SZB-E - Teil Triebfahrzeugführer.
 - [Ril 438 (Fahrdienstvorschrift; FV-NE)](wiki/ril-438-fahrdienstvorschrift-fv-ne.md) – Fahrdienstvorschrift FV-NE.
 - [Ril 481.0201A01 (Übersicht AEG)](wiki/ril-481-0201a01.md) – Übersicht über das analoge Zugfunksystem AEG.
 - [Ril 481.0201A02 (Streckenband analoger Zugfunk)](wiki/ril-481-0201a02.md) – Streckenband für analogen Zugfunk.
 - [Ril 481.0201A03 (Mitbenutzung in Überlappungsbereichen)](wiki/ril-481-0201a03.md) – Übersicht der Mitbenutzung des analogen Zugfunks in Überlappungsbereichen.
-- [Ril 124.0600V01 (Dampflokomotiven)](wiki/ril-124-0600v01.md) – Hinweise zur Bedienung rostgefeuerter Dampflokomotiven.
-- [Ril 402.0202A05 (Trassenmanagement)](wiki/ril-402-0202a05.md) – Planungsprozedere und Trassenanmeldungen.
-- [Ril 437.0011V01 (Fernsprechbuch SZB-E - Teil Zugleiter)](wiki/ril-437-0011v01.md) – Fernsprechbuch für den SZB-E - Teil Zugleiter.
-- [Ril 437.0011V02 (Fernsprechbuch SZB-E - Teil Triebfahrzeugführer)](wiki/ril-437-0011v02.md) – Fernsprechbuch für den SZB-E - Teil Triebfahrzeugführer.
 - [Ril 481.0301V01 (Rangierfunk-Teilnehmerverzeichnis)](wiki/ril-481-0301v01.md) – Verzeichnis der Teilnehmer am Rangierfunk.
-- [Richtline 402.0305 (Terminkalender 2026)](wiki/richtline-402-0305-terminkalender-2026.md) – Terminkette und Stellungnahme für 2026.
-- [Ril 402.0305A11 (Baubedingte Fahrplanregelungen)](wiki/ril-402-0305a11.md) – Abstimmung und Kommunikation baubedingter Fahrplanregelungen.
-- [TAF/TAP Wettbewerbsfähigkeit](wiki/taf-tap-wettbewerbsfaehigkeit.md) – Bedeutung der Digitalisierung und Harmonisierung im Datenaustausch.
 - [Ril 492.0753V01 (Anlage 2a VDV 753)](wiki/ril-492-0753v01.md) – Muster „Führerschein".
 - [Ril 492.0753V02 (Anlage 2b VDV 753)](wiki/ril-492-0753v02.md) – Muster „Beiblatt" gemäß KoRil 492.0753V02.
+- [Ril 124.0600V01 (Dampflokomotiven)](wiki/ril-124-0600v01.md) – Hinweise zur Bedienung rostgefeuerter Dampflokomotiven.
+- [Richtline 402.0305 (Terminkalender 2026)](wiki/richtline-402-0305-terminkalender-2026.md) – Terminkette und Stellungnahme für 2026.
+- [TAF/TAP Wettbewerbsfähigkeit](wiki/taf-tap-wettbewerbsfaehigkeit.md) – Bedeutung der Digitalisierung und Harmonisierung im Datenaustausch.
 - [Umrisslinie zur Preisbildung Machbarkeitsstudie aT](wiki/umrisslinie-preisbildung-machbarkeitsstudie-at.md) – Regelungen zur Preisbildung für Machbarkeitsstudien (Anlage 5.4.2 INB 2027).
 
 ## Aktuelles & Events
