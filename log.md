@@ -228,3 +228,15 @@ Status: `completed`
 
 Integration der Richtlinie 402.0305A02 (Musterschreiben Veranstaltungen) in die bestehende Synthese zur Richtlinie 402.0305.
 Integriert in: `wiki/richtline-402-0305-terminkalender-2026.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/481-0301v01--src-e117dfc32b72c450d9ec.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/resource/blob/13699556/ca32811272056e5d96f57a5a06d0204d/Ril-481-0301V01-INB-2027-data.pdf`
+Source-Key: `src-e117dfc32b72c450d9ec`
+Chunk: `1/1`
+Chunk-Key: `chunk-230e34aeabeddb8b220c`
+Chunk-Status: `completed`
+Status: `completed`
+
+Erster Ingest der Richtlinie 481.0301V01 (Rangierfunk-Teilnehmerverzeichnis). Da der Inhalt der Quelle lediglich Metadaten (Fachautor, Gültigkeit) und eine leere Seite umfasst, wird eine neue Wiki-Seite angelegt, die als Platzhalter für das Regelwerk dient, sowie der Index aktualisiert.
+Integriert in: `wiki/ril-481-0301v01.md`, `index.md`.
