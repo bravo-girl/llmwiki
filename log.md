@@ -648,3 +648,15 @@ Status: `completed`
 
 Integration der Ril 465.0001A04 (Steilstrecke Baiersbronn - Freudenstadt Hbf) in das Wiki. Die neue Seite beschreibt die Regelungen für die nicht mehr von der DB Netz AG betriebene Steilstrecke.
 Integriert in: `wiki/ril-465-0001a04.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/465-0001a06--src-5ab36978317481ee74ed.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/resource/blob/13699530/e4fbf4642b76fdd714f00ebb71a7f99f/Ril-465-0001A06-INB-2027-data.pdf`
+Source-Key: `src-5ab36978317481ee74ed`
+Chunk: `1/1`
+Chunk-Key: `chunk-7bc4f8d8cb0a63c3a515`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Ril 465.0001A06 (Betrieb auf Steilstrecken: Suhl-Neundorf - Suhl-Friedberg) in das Wiki. Die neue Seite wurde erstellt und der Index unter 'Regelwerke & Betrieb (Ril)' ergänzt.
+Integriert in: `wiki/ril-465-0001a06.md`, `index.md`.
