@@ -739,3 +739,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [TAF/TAP TSI-Dialog – Januar 2026 – Terminunterlage](wiki/quellen/src-fe98fbec071f402b49a3.md)
 
 - [TAF/TAP TSI-Dialog – August 2025 – Terminunterlage](wiki/quellen/src-bc9612dc90bf7a0dbf48.md)
+
+- [TAF/TAP TSI-Dialog – Juni 2025 – Terminunterlage](wiki/quellen/src-92949d520c5976d57218.md)
