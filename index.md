@@ -701,3 +701,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [481.0201](wiki/quellen/src-170f10ba5d97a4395a21.md)
 
 - [Informationsveranstaltung für offene fachl. Fragen zum Thema TAF/TAP TSI – August 2025 – Terminunterlage](wiki/quellen/src-ced3cfb60420b6dee3da.md)
+
+- [TAF/TAP TSI-Dialog – 9. März 2026 – Terminunterlage](wiki/quellen/src-138da20d109231c5536f.md)
