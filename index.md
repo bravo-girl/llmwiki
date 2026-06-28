@@ -617,3 +617,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [TAF/TAP Technische Beschreibung Zugvorbereitungsmeldung](wiki/quellen/src-cd91921a60435f276f8a.md)
 
 - [406.1301](wiki/quellen/src-044f8433d492c2131030.md)
+
+- [481.0101](wiki/quellen/src-f213eb1f4577254a8726.md)
