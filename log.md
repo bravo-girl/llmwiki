@@ -756,3 +756,15 @@ Status: `completed`
 
 Integration der Einleitung des betrieblich-technischen Regelwerks der INB 2027 in das Wiki. Die neue Information wird in der bestehenden Seite zum netzzugangsrelevanten Regelwerk ergänzt, um die Unterscheidung/Ergänzung zwischen dem netzzugangsrelevanten und dem betrieblich-technischen Regelwerk abzubilden.
 Integriert in: `wiki/netzzugangsrelevantes-regelwerk-2027-einleitung.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/betrieblich-technisches-regelwerk-ril-301-signalbuch-sb--src-c7fe056e42f347b6b387.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/regelwerke/betrieblich-technisch_regelwerke/betrieblich_technisches_regelwerk-13699620#llmwiki-section=ril-301-signalbuch-sb`
+Source-Key: `src-c7fe056e42f347b6b387`
+Chunk: `1/1`
+Chunk-Key: `chunk-fc37424796808b2f99a4`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Ril 301 (Signalbuch) in das Regelwerk. Die neue Seite wurde unter 'Regelwerke & Betrieb (Ril)' angelegt und der Index entsprechend aktualisiert. Die Quelle enthält Informationen zum Signalbuch sowie einen spezifischen Zusatz für die S-Bahn Hamburg.
+Integriert in: `wiki/ril-301-signalbuch-sb.md`, `index.md`.
