@@ -600,3 +600,15 @@ Status: `completed`
 
 Integration der Richtlinie 465.0001A01 (Betrieb auf Steilstrecken Linz - Kahlenborn) in das Wiki. Da es sich um eine spezifische Regelung für eine nicht mehr von der DB Netz AG betriebene Steilstrecke handelt, wird sie unter der Kategorie 'Regelwerke & Betrieb (Ril)' neu angelegt.
 Integriert in: `wiki/ril-465-0001a01.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/annex-vii-richtlinie-2012-34-eu-bereitstellung-von-informati--src-1e8e7d607df84a74c5db.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/fahren_und_bauen/annex-vii-richtlinie-2012-34-eu-11857512#llmwiki-section=bereitstellung-von-informationen-vor-den-internationalen-erorterungsgesp`
+Source-Key: `src-1e8e7d607df84a74c5db`
+Chunk: `1/1`
+Chunk-Key: `chunk-a9e92bd9eaa0f4c95fb2`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Informationen zur Bereitstellung von Informationen vor den internationalen Erörterungsgesprächen im Rahmen von Annex VII. Die neue Evidenz spezifiziert, dass die DB InfraGO AG Informationen zu baubedingten Kapazitätsbeschränkungen im Vorfeld der Gespräche über das System KOMBau zur Verfügung stellt.
+Integriert in: `wiki/annex-vii-vorteile.md`, `index.md`.
