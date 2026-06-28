@@ -77,3 +77,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [TNB - Technische Netzzugangsbedingungen](wiki/quellen/src-92878cba57fcb3e9adc8.md)
 
 - [Ril 302.7000 Grenzüberschreitende Bahnstrecken mit Luxemburg](wiki/quellen/src-206d59e15c24e1d9dd8c.md)
+
+- [Infrastrukturnutzungsbedingungen der DB InfraGO AG (INB) 2027 - Einleitung](wiki/quellen/src-9bbe917af34716ba942a.md)
