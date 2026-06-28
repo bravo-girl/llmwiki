@@ -565,3 +565,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Ril 483 Zugbeeinflussungsanlagen bedienen](wiki/quellen/src-8d81a19f40f57c122308.md)
 
 - [Ril 402 Trassenmanagement](wiki/quellen/src-c122014fdebab3b3476e.md)
+
+- [302.3000V02](wiki/quellen/src-d784f317b1652c13af87.md)
