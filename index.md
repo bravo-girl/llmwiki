@@ -877,3 +877,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Fragenkatalog ANNEX VII 4. Konsultationsphase](wiki/quellen/src-7a881918eb9144411393.md)
 
 - [302.9207Z01](wiki/quellen/src-a3fb47bfa54aa1c3b6e1.md)
+
+- [492.0755](wiki/quellen/src-2ae7076ae6cf6c3c5623.md)
