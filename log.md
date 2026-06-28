@@ -612,3 +612,15 @@ Status: `completed`
 
 Integration der Informationen zur Bereitstellung von Informationen vor den internationalen Erörterungsgesprächen im Rahmen von Annex VII. Die neue Evidenz spezifiziert, dass die DB InfraGO AG Informationen zu baubedingten Kapazitätsbeschränkungen im Vorfeld der Gespräche über das System KOMBau zur Verfügung stellt.
 Integriert in: `wiki/annex-vii-vorteile.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/grundwissen-etcs-etcs-level-0--src-18c5414e2f3b855158d5.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/etcs/grundlagen-etcs/grundwissen-etcs-12285634#llmwiki-section=etcs-level-0`
+Source-Key: `src-18c5414e2f3b855158d5`
+Chunk: `1/1`
+Chunk-Key: `chunk-8ac4cc111db01df19226`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Definition von ETCS-Level 0 in die bestehende Wiki-Seite 'Grundwissen ETCS'. Der neue Abschnitt beschreibt Level 0 als Rückfallebene mit einer Geschwindigkeitsbeschränkung von maximal 50 km/h.
+Integriert in: `wiki/grundwissen-etcs.md`, `index.md`.
