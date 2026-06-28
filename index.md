@@ -689,3 +689,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 2.6.1.5: Karte Trafonetz](wiki/quellen/src-221727ba61bc41c79199.md)
 
 - [Testfälle CI Test (Stand 01.2026)](wiki/quellen/src-90a769feb95af137bd70.md)
+
+- [483.0101A01](wiki/quellen/src-4a8b299d2e197db04bee.md)
