@@ -217,3 +217,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Ril 301 Signalbuch (SB)](wiki/quellen/src-c7fe056e42f347b6b387.md)
 
 - [408.4801Z21](wiki/quellen/src-f2393290c506cc165a1d.md)
+
+- [Ril 124 Brandschutz](wiki/quellen/src-0d1958638c4ad3b87a59.md)
