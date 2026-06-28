@@ -455,3 +455,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [3. Informationen für Schnittstellen-Nutzer (und die jeweiligen IT-Firmen)](wiki/quellen/src-8e1dd3ee22915d4d35aa.md)
 
 - [Anlage 5.1b: Liste der Metropolbahnhöfe](wiki/quellen/src-9ac1e2d42bb426c8d8bc.md)
+
+- [Wie sehen die Konsultationsphasen im Detail aus?](wiki/quellen/src-47007413d623c2fbe583.md)
