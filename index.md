@@ -20,6 +20,7 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 
 ## Regelwerke & Betrieb (Ril)
 
+- [Ril 481.0201A01 (Übersicht AEG)](wiki/ril-481-0201a01.md) – Übersicht über das analoge Zugfunksystem AEG.
 - [Ril 481.0201A02 (Streckenband analoger Zugfunk)](wiki/ril-481-0201a02.md) – Streckenband für analogen Zugfunk.
 - [Ril 124.0600V01 (Dampflokomotiven)](wiki/ril-124-0600v01.md) – Hinweise zur Bedienung rostgefeuerter Dampflokomotiven.
 - [Ril 402.0202A05 (Trassenmanagement)](wiki/ril-402-0202a05.md) – Planungsprozedere und Trassenanmeldungen.
