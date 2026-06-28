@@ -876,3 +876,15 @@ Status: `completed`
 
 Einleitung der TAF/TAP TSI FAQ mit Hinweisen zur Verbindlichkeit, zu regulatorischen Änderungen und zur Nutzung der Dokumentation.
 Integriert in: `wiki/quellen/src-1f08c004d7136047e3cc.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/netzzugangsrelevantes-regelwerk-2027-tnb-technische-netzzuga--src-92878cba57fcb3e9adc8.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/regelwerke/regelwerke_netzzugangsrelevant/netzzugangsrelevantes_regelwerk-2027-13699882#llmwiki-section=tnb-technische-netzzugangsbedingungen`
+Source-Key: `src-92878cba57fcb3e9adc8`
+Chunk: `1/1`
+Chunk-Key: `chunk-3156629497dc7fcfaa14`
+Chunk-Status: `completed`
+Status: `completed`
+
+Definition und Geltungsbereich der Technischen Netzzugangsbedingungen (TNB) der DB InfraGO AG für das Jahr 2027.
+Integriert in: `wiki/quellen/src-92878cba57fcb3e9adc8.md`, `index.md`.
