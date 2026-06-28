@@ -305,3 +305,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Glossar ZvF](wiki/quellen/src-4b49020694f51ccd1e23.md)
 
 - [492.0753V04](wiki/quellen/src-b3401ad6fec0bcdbd3d3.md)
+
+- [302.5003Z98](wiki/quellen/src-bd99a7240fc782aac14d.md)
