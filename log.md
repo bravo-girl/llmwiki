@@ -948,3 +948,15 @@ Status: `completed`
 
 Dokumentationsverzeichnis der EVU-Schnittstelle (Version 4.6.2) inklusive technischer Anlagen, Spezifikationen und Fehlercodes.
 Integriert in: `wiki/quellen/src-819e0c2870be3fef2656.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/grundwissen-etcs-fordert-die-etcs-streckeneinrichtung-dass-d--src-7d5e7c1a7cdd45ee2b34.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/etcs/grundlagen-etcs/grundwissen-etcs-12285634#llmwiki-section=fordert-die-etcs-streckeneinrichtung-dass-das-etcs-fahrzeuggerat-permane`
+Source-Key: `src-7d5e7c1a7cdd45ee2b34`
+Chunk: `1/1`
+Chunk-Key: `chunk-4659788491a9c770de26`
+Chunk-Status: `completed`
+Status: `completed`
+
+Unterscheidung der Anforderungen an die Positionierung des ETCS-Fahrzeuggeräts beim Startlauf (Start of Mission) zwischen ETCS-Level 1 und ETCS-Level 2 (aktueller vs. zukünftiger Stand).
+Integriert in: `wiki/quellen/src-7d5e7c1a7cdd45ee2b34.md`, `index.md`.
