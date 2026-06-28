@@ -852,3 +852,15 @@ Status: `completed`
 
 Wissensdarstellung der Richtlinie 408.4811Z31 zur Regelung des Rangierbetriebs und der Gleisbezeichnung im Bereich der Gleichstrom-S-Bahn Berlin.
 Integriert in: `wiki/quellen/src-25cadd0de7407a0524c5.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/betrieblich-technisches-regelwerk-ril-436-zug-und-rangierfah--src-c8238a0bccd670015be4.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/regelwerke/betrieblich-technisch_regelwerke/betrieblich_technisches_regelwerk-13699620#llmwiki-section=ril-436-zug-und-rangierfahrten-im-zugleitbetrieb-durchfuhren-zlb`
+Source-Key: `src-c8238a0bccd670015be4`
+Chunk: `1/1`
+Chunk-Key: `chunk-0b768d6f7de0d18ea8d6`
+Chunk-Status: `completed`
+Status: `completed`
+
+Dokumentation der Richtlinie Ril 436 zur Durchführung von Zug- und Rangierfahrten im Zugleitbetrieb (ZLB), einschließlich Verweise auf die Übersicht der im Betriebsstellenbuch/Streckenbuch oder Betra aufzunehmenden Regeln.
+Integriert in: `wiki/quellen/src-c8238a0bccd670015be4.md`, `index.md`.
