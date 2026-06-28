@@ -611,3 +611,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Unterlage zur Frage-Antwort-Runde zur Einführung TAF/TAP TSI – September 2024](wiki/quellen/src-ed1f581969031ac2f4ac.md)
 
 - [437.0001](wiki/quellen/src-98b452d8bf223104a5f2.md)
+
+- [Glossar mit den wesentlichen Begriffen aus TAF/TAP TSI](wiki/quellen/src-450d55093c6d559316bf.md)
