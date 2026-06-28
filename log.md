@@ -204,3 +204,15 @@ Status: `completed`
 
 Integration des neuen Fachabschnitts 'Grenzüberschreitend eine Identifikation' in die Synthese zur TAF/TAP-Wettbewerbsfähigkeit. Der neue Abschnitt definiert die präzise Identifikation von Zügen und Trassen sowie die neue Objektstruktur zur Trennung dieser Elemente.
 Integriert in: `wiki/taf-tap-wettbewerbsfaehigkeit.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/402-0305a01--src-2ed8fb0f3d1bc95e90eb.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/resource/blob/13699836/7fa46e8c03342b39ca7c5e97956ec494/Ril-402-0305A01-INB-2027-data.pdf`
+Source-Key: `src-2ed8fb0f3d1bc95e90eb`
+Chunk: `1/1`
+Chunk-Key: `chunk-2c2446c809ef38afaa3c`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Richtlinie 402.0305A01 (Bauzuschlagskarte) in das Wiki. Die neue Quelle wird als Referenz für das Trassenmanagement/Bahnbetrieb ergänzt.
+Integriert in: `wiki/richtline-402-0305-terminkalender-2026.md`, `index.md`.
