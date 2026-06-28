@@ -163,3 +163,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Veranstaltungen und Events rund um TAF/TAP TSI](wiki/quellen/src-959203cdd883208c0ea7.md)
 
 - [Ril 438 Fahrdienstvorschrift; FV-NE](wiki/quellen/src-6335dfd22faaa1d375cd.md)
+
+- [Ril 406 Baubetriebsplanung, Betra, La](wiki/quellen/src-295bd9308cec2b025912.md)
