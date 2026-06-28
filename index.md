@@ -829,3 +829,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [TAF/TAP Technische Beschreibung Zuglaufmeldungen_v8.3](wiki/quellen/src-fbd7d3b2cdfa32cb31d3.md)
 
 - [Booklet zur Vertiefungsveranstaltung TAF/TAP TSI: Bericht vom NCP, Update Betrieb – Juli 2024](wiki/quellen/src-8b816a2e1badbc7775de.md)
+
+- [Booklet zur TAF/TAP TSI-Auftaktveranstaltung – Juli 2023](wiki/quellen/src-ff70de98bbad794c3359.md)
