@@ -408,3 +408,15 @@ Status: `completed`
 
 Integration der neuen Richtlinie Ril 481.0201A01 (Übersicht über das analoge Zugfunksystem AEG) in das Wiki. Die neue Seite wurde unter 'Regelwerke & Betrieb (Ril)' angelegt und der Index entsprechend aktualisiert.
 Integriert in: `wiki/ril-481-0201a01.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/481-0201a03--src-ed30d43bd06e53e1cbed.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/resource/blob/13699562/25d5d8e96d4742e3cc5b8e131705da5f/Ril-481-0201A03-INB-2027-data.pdf`
+Source-Key: `src-ed30d43bd06e53e1cbed`
+Chunk: `1/1`
+Chunk-Key: `chunk-85780852cded2bcfc8ab`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Ril 481.0201A03 (Übersicht der Mitbenutzung des analogen Zugfunks in Überlappungsbereichen) in das Wiki und Aktualisierung des Index.
+Integriert in: `wiki/ril-481-0201a03.md`, `index.md`.
