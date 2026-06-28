@@ -348,3 +348,15 @@ Status: `completed`
 
 Integration der neuen Quelle 402.0305A09 in die Synthese der Richtlinie 402.0305. Die neue Fahrplananordnung wird als Beispiel für das Trassenmanagement ergänzt.
 Integriert in: `wiki/richtline-402-0305-terminkalender-2026.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/taf-tap-tsi-faq-7-kundensupport--src-ceb70461e6d7fce10076.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/TAF-TAP-TSI-FAQ-13868920#llmwiki-section=7-kundensupport`
+Source-Key: `src-ceb70461e6d7fce10076`
+Chunk: `1/1`
+Chunk-Key: `chunk-8e9960cbc77290e16322`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Informationen zum Kundensupport für das pathOS-System in die bestehende Wiki-Seite zur TAF/TAP-Wettbewerbsfähigkeit.
+Integriert in: `wiki/taf-tap-wettbewerbsfaehigkeit.md`, `index.md`.
