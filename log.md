@@ -276,3 +276,15 @@ Status: `completed`
 
 Integration der Richtlinie 402.0202A05 (Bahnbetrieb Trassenmanagement) in das Wiki. Es wurde eine neue Synthese-Seite erstellt, die das Planungsprozedere und die Trassenanmeldungen thematisiert, sowie der Index aktualisiert.
 Integriert in: `wiki/ril-402-0202a05.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/124-0600v01--src-0157fee4bdb156191671.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/resource/blob/13699880/dc8a51e85644798560f07bc6dff19f7f/Ril-124-0600V01-INB-2027-data.pdf`
+Source-Key: `src-0157fee4bdb156191671`
+Chunk: `1/1`
+Chunk-Key: `chunk-2a9021e14f142a407a84`
+Chunk-Status: `completed`
+Status: `completed`
+
+Erster Ingest der Richtlinie 124.0600V01 (Hinweise zur Bedienung rostgefeuerter Dampflokomotiven). Da der Inhalt der Quelle lediglich Metadaten und leere Seiten enthält, wurde eine neue Wiki-Seite angelegt, die auf die Originalquelle verweist.
+Integriert in: `wiki/ril-124-0600v01.md`, `index.md`.
