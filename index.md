@@ -16,7 +16,7 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 
 ## Eisenbahnsysteme (ETCS)
 
-- [Grundwissen ETCS](wiki/grundwissen-etcs.md) – Einleitung in die ETCS-Level.
+- [Grundwissen ETCS](wiki/grundwissen-etcs.md) – Einleitung in die ETCS-Level und Informationen zu Nationalen Werten.
 
 ## Regelwerke & Betrieb (Ril)
 
