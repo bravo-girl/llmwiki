@@ -823,3 +823,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [465.0001](wiki/quellen/src-d85cd2ff5bf04900e3ce.md)
 
 - [483.0100Z11](wiki/quellen/src-ce88bb28af3debc6f450.md)
+
+- [Anlage 4.2.1.10: Entgelte zur Berechnung des Regelentgelts in der ersten Phase der Netzfahrplanerstellung](wiki/quellen/src-2ab19d926ca45a06b2fc.md)
