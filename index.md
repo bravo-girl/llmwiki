@@ -73,3 +73,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Ril 436 Zug- und Rangierfahrten im Zugleitbetrieb durchführen (ZLB)](wiki/quellen/src-c8238a0bccd670015be4.md)
 
 - [TAF/TAP TSI FAQ - Einleitung](wiki/quellen/src-1f08c004d7136047e3cc.md)
+
+- [TNB - Technische Netzzugangsbedingungen](wiki/quellen/src-92878cba57fcb3e9adc8.md)
