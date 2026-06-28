@@ -409,3 +409,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [465.0001A09](wiki/quellen/src-b74f03fe7d62bff7b176.md)
 
 - [BauFplo_99000_2026-06-30_V1-entwurf.](wiki/quellen/src-9991aa7c635b36cdc519.md)
+
+- [Primary und Subsidiary Locations](wiki/quellen/src-35583daff6ca12837aec.md)
