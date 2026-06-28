@@ -15,3 +15,7 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 ## Eisenbahnsysteme (ETCS)
 
 - [Grundwissen ETCS](wiki/grundwissen-etcs.md) – Einleitung in die ETCS-Level.
+
+## Aktuelles & Events
+
+- [Aktuelle Informationen und Veranstaltungen](wiki/aktuelle-infos-und-veranstaltungen.md) – Newsletter-Format und Veranstaltungsübersicht.
