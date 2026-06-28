@@ -840,3 +840,15 @@ Status: `completed`
 
 Die Richtlinie 402.0305A10 regelt das Bahnbetrieb-Trassenmanagement mit Fokus auf die Abstimmung und Kommunikation baubedingter Fahrplanregelungen. Sie enthält eine Klassifizierung von Ereignissen mittels BKE-Kategorien basierend auf Dauer, Verkehrsaufkommen und Netzbetroffenheit.
 Integriert in: `wiki/quellen/src-501a164c0ff3608c13df.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/408-4811z31--src-25cadd0de7407a0524c5.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/resource/blob/13699594/3d657526ef6041f3a935f68132a17ab8/Ril-408-4811Z31-INB-2027-data.pdf`
+Source-Key: `src-25cadd0de7407a0524c5`
+Chunk: `1/1`
+Chunk-Key: `chunk-55866238be649aaff580`
+Chunk-Status: `completed`
+Status: `completed`
+
+Wissensdarstellung der Richtlinie 408.4811Z31 zur Regelung des Rangierbetriebs und der Gleisbezeichnung im Bereich der Gleichstrom-S-Bahn Berlin.
+Integriert in: `wiki/quellen/src-25cadd0de7407a0524c5.md`, `index.md`.
