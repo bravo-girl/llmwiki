@@ -17,6 +17,10 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 
 - [Grundwissen ETCS](wiki/grundwissen-etcs.md) – Einleitung in die ETCS-Level.
 
+## Regelwerke & Betrieb (Ril)
+
+- [Ril 302.2000v04 (INB 2027)](wiki/ril-302-2000v04-inb-2027.md) – Regelwerk zur Betriebstechnik (In Bearbeitung).
+
 ## Aktuelles & Events
 
 - [Aktuelle Informationen und Veranstaltungen](wiki/aktuelle-infos-und-veranstaltungen.md) – Newsletter-Format und Veranstaltungsübersicht.
