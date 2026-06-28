@@ -105,3 +105,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Abkürzungen](wiki/quellen/src-1d445f2af15c1a7dd326.md)
 
 - [Ril 302.2000v04 INB 2027](wiki/quellen/src-f92bf459cafab19573c2.md)
+
+- [KiGbau: Individuelle Auswertung erleichtert die Abstimmung - Einleitung](wiki/quellen/src-81391fc3d7fb6f1e32de.md)
