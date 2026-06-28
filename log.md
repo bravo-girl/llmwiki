@@ -804,3 +804,15 @@ Status: `completed`
 
 Informationen und Testunterlagen zur Vorbereitung auf Markttests der pathOS-Schnittstelle für IT-Partner.
 Integriert in: `wiki/quellen/src-4fdddca3fb585dd6eb8f.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/evu-schnittstelle-informationen-zu-fahrplanbearbeitungsgrenz--src-4e923420796ffc94de4b.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/evu_schnittstelle-11089208#llmwiki-section=informationen-zu-fahrplanbearbeitungsgrenzen-planning-handovers`
+Source-Key: `src-4e923420796ffc94de4b`
+Chunk: `1/1`
+Chunk-Key: `chunk-421077a95cfc382455ed`
+Chunk-Status: `completed`
+Status: `completed`
+
+Dokumentation über die Anwendung von Planning Handoverpoints (Fahrplanbearbeitungsgrenzen) im Rahmen der TAF/TAP TSI für grenzüberschreitende Verkehre sowie Verweise auf ergänzende Dokumente.
+Integriert in: `wiki/quellen/src-4e923420796ffc94de4b.md`, `index.md`.
