@@ -615,3 +615,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Glossar mit den wesentlichen Begriffen aus TAF/TAP TSI](wiki/quellen/src-450d55093c6d559316bf.md)
 
 - [TAF/TAP Technische Beschreibung Zugvorbereitungsmeldung](wiki/quellen/src-cd91921a60435f276f8a.md)
+
+- [406.1301](wiki/quellen/src-044f8433d492c2131030.md)
