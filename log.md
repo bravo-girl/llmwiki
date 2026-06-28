@@ -528,3 +528,15 @@ Status: `completed`
 
 Integration der Ril 437.0011V03 (Muster - Zugmeldebuch für den SZB-E) in das Wiki. Da die Quelle nur aus Deckblatt-Informationen und leeren Seiten besteht, wurde eine neue Synthese-Seite erstellt, die die Dokumenteninformationen und den Zweck (Herstellung für jeweilige SZB-E-Strecken) festhält.
 Integriert in: `wiki/ril-437-0011v03.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/betrieblich-technisches-regelwerk-ril-135-konzernsicherheit---src-8ca601a38a69d907bea0.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/regelwerke/betrieblich-technisch_regelwerke/betrieblich_technisches_regelwerk-13699620#llmwiki-section=ril-135-konzernsicherheit-db-lagezentrum`
+Source-Key: `src-8ca601a38a69d907bea0`
+Chunk: `1/1`
+Chunk-Key: `chunk-b3bbfd129ba7deac46db`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Ril 135 (Konzernsicherheit / DB Lagezentrum) in das Wiki. Da der vorliegende Teil nur eine Tabellenzeile mit einem Verweis auf das Dokument 135.1301 enthält, wurde eine neue Wiki-Seite erstellt, die diesen spezifischen Abschnitt dokumentiert und den Link zum PDF-Dokument als Referenz hält.
+Integriert in: `wiki/ril-135-konzernsicherheit-db-lagezentrum.md`, `index.md`.
