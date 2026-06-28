@@ -703,3 +703,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Informationsveranstaltung für offene fachl. Fragen zum Thema TAF/TAP TSI – August 2025 – Terminunterlage](wiki/quellen/src-ced3cfb60420b6dee3da.md)
 
 - [TAF/TAP TSI-Dialog – 9. März 2026 – Terminunterlage](wiki/quellen/src-138da20d109231c5536f.md)
+
+- [Anlage 4.4: Muster Rahmenvertrag (inklusive Anhang A sowie Anlage 1 und 2)](wiki/quellen/src-d4f60b7a097fc05a2bd2.md)
