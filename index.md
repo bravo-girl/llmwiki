@@ -101,3 +101,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Grundwissen ETCS - Einleitung](wiki/quellen/src-bb4932e8c67b1fa934ec.md)
 
 - [Aktuelles & Events - Einleitung](wiki/quellen/src-d2d5cc5025a36664b9e5.md)
+
+- [Abkürzungen](wiki/quellen/src-1d445f2af15c1a7dd326.md)
