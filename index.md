@@ -247,3 +247,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 5.1a: Liste der aufkommensstarken Grenzstellen](wiki/quellen/src-2e2f024adb76b2c09f14.md)
 
 - [402.0211A01](wiki/quellen/src-c117f9c70fd654afd07d.md)
+
+- [Internationale Baukoordination](wiki/quellen/src-213cf073c7db59be4410.md)
