@@ -145,3 +145,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Eine neue BauFplo – Die Änderungen auf einen Blick](wiki/quellen/src-1686003d66bb00f74145.md)
 
 - [402.0305A09](wiki/quellen/src-46f793f2ffbb52d9574d.md)
+
+- [7. Kundensupport](wiki/quellen/src-ceb70461e6d7fce10076.md)
