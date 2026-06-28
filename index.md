@@ -773,3 +773,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 5.10: Förderrichtlinie](wiki/quellen/src-1de3e5ed181ef78d01c1.md)
 
 - [302.4202Z01](wiki/quellen/src-5580965ae50361de3114.md)
+
+- [TAF/TAP TSI-Dialog – 24. Juni 2026 – Terminunterlage](wiki/quellen/src-0099b9e653a54489c04f.md)
