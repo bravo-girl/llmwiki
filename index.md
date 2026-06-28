@@ -263,3 +263,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Kann die ETCS-Streckeneinrichtung Track Conditions (Statische Streckeneigenschaften) übermitteln und falls ja, welche werden übermittelt?Auf Strecken der DB InfraGO AG ist die Über](wiki/quellen/src-2212e3d343dbde7657f4.md)
 
 - [402.0204A01](wiki/quellen/src-0e27b8a619bc11a84a0d.md)
+
+- [492.0753V05](wiki/quellen/src-e6322916ca1c4d7ce011.md)
