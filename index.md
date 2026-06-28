@@ -885,3 +885,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [302.5001](wiki/quellen/src-83bfbc89da72aff1a4d2.md)
 
 - [Anlage 5.3: Liste der Entgelte](wiki/quellen/src-26c68c75d615c9817997.md)
+
+- [Anlage 4.2.2.4: Bearbeitungsfristen grenzüberschreitender Trassen](wiki/quellen/src-e8a4b15d0485c5f31a15.md)
