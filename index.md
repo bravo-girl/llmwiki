@@ -187,3 +187,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Kundenbeirat ZvF-Stafette im Rahmen des Runden Tisch Baustellenmanagements AG 3](wiki/quellen/src-0e1e8f9c8cc664480edf.md)
 
 - [465.0001A01](wiki/quellen/src-753e3554667ccfcf0f4b.md)
+
+- [Bereitstellung von Informationen vor den internationalen Erörterungsgesprächen im Rahmen von Annex VII (Richtlinie 2012/34/EU)](wiki/quellen/src-1e8e7d607df84a74c5db.md)
