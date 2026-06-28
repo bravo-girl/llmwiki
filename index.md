@@ -383,3 +383,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [302.0001Z01](wiki/quellen/src-c7b59fadb32e57dc9c13.md)
 
 - [Ril 302.4000 Grenzüberschreitende Bahnstrecken mit Österreich](wiki/quellen/src-b2a08fb3191b82e7b633.md)
+
+- [Ril 408 Fahrdienstvorschrift](wiki/quellen/src-83b68751849e2e4443c9.md)
