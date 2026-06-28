@@ -517,3 +517,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 1.0: Abkürzungsverzeichnis](wiki/quellen/src-a5600f99d6332c6de592.md)
 
 - [Anlage 4.2.3.1: Zusammenarbeit der DB InfraGO AG mit inländischen BdS](wiki/quellen/src-98218930c283e63ec49f.md)
+
+- [402.0207](wiki/quellen/src-5d6795649aee09df2833.md)
