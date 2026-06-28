@@ -785,3 +785,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 2.3.10: Nutzungsbedingungen ETCS](wiki/quellen/src-4876de19a9524ab84c4e.md)
 
 - [TAF/TAP TSI-Dialog – 26. März 2026 – Terminunterlage](wiki/quellen/src-05b1e09c87f657bfce47.md)
+
+- [481.0205](wiki/quellen/src-0269d0d4f33c04811712.md)
