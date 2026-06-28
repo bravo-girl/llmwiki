@@ -513,3 +513,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [402.0220](wiki/quellen/src-221cb314b4c80500dac0.md)
 
 - [302.2000V03](wiki/quellen/src-b3440a8c6096ab09e66e.md)
+
+- [Anlage 1.0: Abkürzungsverzeichnis](wiki/quellen/src-a5600f99d6332c6de592.md)
