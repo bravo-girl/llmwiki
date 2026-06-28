@@ -643,3 +643,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [402.0202A03](wiki/quellen/src-b647f7c4c61ccbd43c20.md)
 
 - [302.7201Z01](wiki/quellen/src-d9f2560587b2b8d069ea.md)
+
+- [Informationsveranstaltung „Vertiefung ujBau“ am 27.03.2026](wiki/quellen/src-e0fffd16e4eb063f8c49.md)
