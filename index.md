@@ -45,4 +45,4 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 
 ## Aktuelles & Events
 
-- [Aktuelle Informationen und Veranstaltungen](wiki/aktuelle-infos-und-veranstaltungen.md) – Newsletter-Format und Veranstaltungsübersicht.
+- [Aktuelle Informationen und Veranstaltungen](wiki/aktuelle-infos-und-veranstaltungen.md) – Newsletter-Format, Veranstaltungsübersicht und Informationen zum Kundenbeirat ZvF-Stafette.
