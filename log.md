@@ -888,3 +888,15 @@ Status: `completed`
 
 Definition und Geltungsbereich der Technischen Netzzugangsbedingungen (TNB) der DB InfraGO AG für das Jahr 2027.
 Integriert in: `wiki/quellen/src-92878cba57fcb3e9adc8.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/betrieblich-technisches-regelwerk-ril-302-7000-grenzuberschr--src-206d59e15c24e1d9dd8c.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/regelwerke/betrieblich-technisch_regelwerke/betrieblich_technisches_regelwerk-13699620#llmwiki-section=ril-302-7000-grenzuberschreitende-bahnstrecken-mit-luxemburg`
+Source-Key: `src-206d59e15c24e1d9dd8c`
+Chunk: `1/1`
+Chunk-Key: `chunk-72db3b7dee930b0813c6`
+Chunk-Status: `completed`
+Status: `completed`
+
+Übersicht der Regelwerke (Ril) für grenzüberschreitende Bahnstrecken mit Luxemburg, einschließlich spezifischer Regelungen für die Grenzstrecke Igel - Wasserbillig.
+Integriert in: `wiki/quellen/src-206d59e15c24e1d9dd8c.md`, `index.md`.
