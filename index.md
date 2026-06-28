@@ -737,3 +737,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [2. Schulungsmanagement](wiki/quellen/src-0d8bc84b6eafc48b4217.md)
 
 - [TAF/TAP TSI-Dialog – Januar 2026 – Terminunterlage](wiki/quellen/src-fe98fbec071f402b49a3.md)
+
+- [TAF/TAP TSI-Dialog – August 2025 – Terminunterlage](wiki/quellen/src-bc9612dc90bf7a0dbf48.md)
