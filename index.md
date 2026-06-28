@@ -895,3 +895,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 4.10: Harmonisierte Regelung der Corridor Information Documents (CIDs)](wiki/quellen/src-f21cc16692ccca15934f.md)
 
 - [302.3212Z01](wiki/quellen/src-06a6d88c10b56b626fa8.md)
+
+- [302.9203Z01](wiki/quellen/src-e0afcf1d39621734da9e.md)
