@@ -491,3 +491,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Informationen für Fahrplanbearbeitungsgrenzen –](wiki/quellen/src-7b52e7ba8ff1ffdae981.md)
 
 - [TAF/TAP TSI-Dialog – November 2025 – Antworten auf offene Punkte](wiki/quellen/src-ff2988d9e43c5416930f.md)
+
+- [Anlage 4.4.1a: Berechnung der Höchstkapazität bei Zuweisung von Rahmenverträgen](wiki/quellen/src-0ff930fec440265dc274.md)
