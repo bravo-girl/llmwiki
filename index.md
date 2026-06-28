@@ -115,3 +115,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Stärkere Wettbewerbsfähigkeit](wiki/quellen/src-d23cd77e9418c709149a.md)
 
 - [Bessere betriebliche Durchführung](wiki/quellen/src-5712d0260327f84a00a4.md)
+
+- [Richtline 402.0305 – Terminkalender für 2026](wiki/quellen/src-0ad800e268637300fc0e.md)
