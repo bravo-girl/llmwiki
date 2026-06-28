@@ -713,3 +713,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [482.8001](wiki/quellen/src-d118adac0dfded285e0c.md)
 
 - [TAF/TAP TSI-Dialog – Oktober 2025 – Terminunterlage](wiki/quellen/src-f436d2c8ffb9b0080953.md)
+
+- [Anlage 3.2.1.2.3: betrieblich-technisches Regelwerk - Zusammenstellung](wiki/quellen/src-89aa93c2c6d9f21c846e.md)
