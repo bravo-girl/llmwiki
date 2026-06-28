@@ -372,3 +372,15 @@ Status: `completed`
 
 Integration der Richtlinie 402.0305A11 (Baubedingte Fahrplanregelungen abstimmen und kommunizieren) in das Wiki. Die neue Richtlinie wird sowohl in der thematischen Übersicht der Richtlinie 402.0305 als auch als eigenständige Seite unter Regelwerke & Betrieb geführt.
 Integriert in: `wiki/richtline-402-0305-terminkalender-2026.md`, `wiki/ril-402-0305a11.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/taf-tap-tsi-faq-1-ubergreifende-themen-zu-den-evu-verordnung--src-a725959f1aa08ae51f21.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/TAF-TAP-TSI-FAQ-13868920#llmwiki-section=1-ubergreifende-themen-zu-den-evu-verordnungen`
+Source-Key: `src-a725959f1aa08ae51f21`
+Chunk: `1/1`
+Chunk-Key: `chunk-18a03c2b94cd6b62ae11`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der neuen fachlichen Information zur Umsetzungspflicht von TAF/TAP für EVUs in die bestehende Synthese 'TAF/TAP zur Steigerung der Wettbewerbsfähigkeit'.
+Integriert in: `wiki/taf-tap-wettbewerbsfaehigkeit.md`, `index.md`.
