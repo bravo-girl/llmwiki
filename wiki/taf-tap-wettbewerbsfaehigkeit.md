@@ -8,6 +8,10 @@ Die weitere Digitalisierung und Harmonisierung im Datenaustausch ist ein entsche
 
 **TAF/TAP** fungiert als eine „gemeinsame Sprache“ innerhalb des Sektors. Dies wird durch eine standardisierte Meldungsstruktur erreicht, welche die Kommunikation verbessert.
 
+## Umsetzungspflicht für EVU
+
+Die Umsetzung von TAF/TAP ist unabhängig von der Größe eines Eisenbahnverkehrsunternehmens (EVU). Sofern ein Infrastrukturunternehmen (EIU), über dessen Netz ein EVU fahren möchte, TAF/TAP umsetzt und dies in seinen Nutzungsbedingungen verankert, sind alle betreffenden EVU zur Umsetzung von TAF/TAP verpflichtet.
+
 ## Betriebliche Durchführung
 
 Ein qualitativ hochwertiger Austausch zwischen beteiligten Infrastrukturunternehmen (EIU) und Eisenbahnverkehrsunternehmen (EVU) führt zu einer deutlich verbesserten betrieblichen Durchführung. Dies wird insbesondere durch folgende Faktoren ermöglicht:
@@ -40,3 +44,4 @@ Das fachliche Support-Team von pathOS ist zu folgenden Zeiten erreichbar:
 - [Originalquelle](../raw/allgemein-einheitlicher-kommunikationsweg-fur-trasseninforma--src-f48c26a3b527d7599e51.md) (ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/allgemein-11089206#llmwiki-section=einheitlicher-kommunikationsweg-fur-trasseninformationen`)
 - [Originalquelle](../raw/allgemein-4-taf-tap-in-der-trassenanmeldung--src-eb1cc749a7dacf23238b.md) (ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/allgemein-11089206#llmwiki-section=4-taf-tap-in-der-trassenanmeldung`)
 - [Originalquelle](../raw/taf-tap-tsi-faq-7-kundensupport--src-ceb70461e6d7fce10076.md) (ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/TAF-TAP-TSI-FAQ-13868920#llmwiki-section=7-kundensupport`)
+- [Originalquelle](../raw/taf-tap-tsi-faq-1-ubergreifende-themen-zu-den-evu-verordnungen--src-a725959f1aa08ae51f21.md) (ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/TAF-TAP-TSI-FAQ-13868920#llmwiki-section=1-ubergreifende-themen-zu-den-evu-verordnungen`)
