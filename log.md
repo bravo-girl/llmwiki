@@ -984,3 +984,15 @@ Status: `completed`
 
 Die Richtlinie 423.8010Z99 regelt die Besonderheiten für den Bahnbetrieb (Notfallmanagement, Brandschutz, Beförderung von Notfalltechnik) auf deutschen Strecken im Schweizer Gebiet, mit spezifischem Fokus auf die Einhaltung der gesetzlich zulässigen Arbeitszeiten.
 Integriert in: `wiki/quellen/src-702062919e323146414f.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/grundwissen-etcs-etcs-level-ntc-pzb-lzb--src-8ccb26c33c5abeb79288.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/etcs/grundlagen-etcs/grundwissen-etcs-12285634#llmwiki-section=etcs-level-ntc-pzb-lzb`
+Source-Key: `src-8ccb26c33c5abeb79288`
+Chunk: `1/1`
+Chunk-Key: `chunk-b356feccf8ea47906395`
+Chunk-Status: `completed`
+Status: `completed`
+
+Definition und Funktionsweise des ETCS-Levels NTC (ehemals STM) zur Befahrung von Strecken mit nationalen Zugbeeinflussungssystemen (Klasse B).
+Integriert in: `wiki/quellen/src-8ccb26c33c5abeb79288.md`, `index.md`.
