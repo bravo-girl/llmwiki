@@ -540,3 +540,15 @@ Status: `completed`
 
 Integration der Ril 135 (Konzernsicherheit / DB Lagezentrum) in das Wiki. Da der vorliegende Teil nur eine Tabellenzeile mit einem Verweis auf das Dokument 135.1301 enthält, wurde eine neue Wiki-Seite erstellt, die diesen spezifischen Abschnitt dokumentiert und den Link zum PDF-Dokument als Referenz hält.
 Integriert in: `wiki/ril-135-konzernsicherheit-db-lagezentrum.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/annex-vii-richtlinie-2012-34-eu-welche-vorteile-bringt-die-e--src-fe9df9f5ed8633c76a52.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/fahren_und_bauen/annex-vii-richtlinie-2012-34-eu-11857512#llmwiki-section=welche-vorteile-bringt-die-einfuhrung-von-annex-vii-fur-die-kund-innen-d`
+Source-Key: `src-fe9df9f5ed8633c76a52`
+Chunk: `1/1`
+Chunk-Key: `chunk-030b2d86dc27b3dfa87b`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Vorteile der Annex VII-Richtlinie in das Wiki. Da die Quelle die Prozessverbesserung und die laufwegbezogene Betrachtung zur frühzeitigen Erkennung von Mehrfachbetroffenheit (MFB) beschreibt, wurde eine neue Wiki-Seite 'wiki/annex-vii-vorteile.md' erstellt und der Index aktualisiert.
+Integriert in: `wiki/annex-vii-vorteile.md`, `index.md`.
