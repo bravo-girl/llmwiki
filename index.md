@@ -23,7 +23,8 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Ril 481.0201A02 (Streckenband analoger Zugfunk)](wiki/ril-481-0201a02.md) – Streckenband für analogen Zugfunk.
 - [Ril 124.0600V01 (Dampflokomotiven)](wiki/ril-124-0600v01.md) – Hinweise zur Bedienung rostgefeuerter Dampflokomotiven.
 - [Ril 402.0202A05 (Trassenmanagement)](wiki/ril-402-0202a05.md) – Planungsprozedere und Trassenanmeldungen.
-- [Ril 437.0011V01 (Fernsprechbuch SZB-E)](wiki/ril-437-0011v01.md) – Fernsprechbuch für den SZB-E - Teil Zugleiter.
+- [Ril 437.0011V01 (Fernsprechbuch SZB-E - Teil Zugleiter)](wiki/ril-437-0011v01.md) – Fernsprechbuch für den SZB-E - Teil Zugleiter.
+- [Ril 437.0011V02 (Fernsprechbuch SZB-E - Teil Triebfahrzeugführer)](wiki/ril-437-0011v02.md) – Fernsprechbuch für den SZB-E - Teil Triebfahrzeugführer.
 - [Ril 481.0301V01 (Rangierfunk-Teilnehmerverzeichnis)](wiki/ril-481-0301v01.md) – Verzeichnis der Teilnehmer am Rangierfunk.
 - [Richtline 402.0305 (Terminkalender 2026)](wiki/richtline-402-0305-terminkalender-2026.md) – Terminkette und Stellungnahme für 2026.
 - [TAF/TAP Wettbewerbsfähigkeit](wiki/taf-tap-wettbewerbsfaehigkeit.md) – Bedeutung der Digitalisierung und Harmonisierung im Datenaustausch.
