@@ -29,6 +29,18 @@ Die DB InfraGO AG setzt auf eine vollständige Neuentwicklung der Trassenanmeldu
 
 An dieser Stelle werden weitergehende und vertiefte Informationen rund um das neue Bestellsystem zur Trassenanmeldung hinterlegt. Einen noch detaillierteren Blick erhalten Sie jederzeit auf [PathOS](https://www.dbinfrago.com/web/schienennetz/leistungen/trassen/trassenbestellung/pathOS-neues-Bestellsystem--13003480).
 
+### Vorlagen und Entwurfsfunktion im Webportal
+
+Das neue Onlineportal bietet eine Entwurfsfunktion, die es ermöglicht, Vorlagen für neue Trassenanmeldungen zu nutzen. Entwürfe können auf verschiedenen Wegen erstellt werden:
+
+- Über eine neue, leere Anmeldung.
+- Aus bestehenden Entwürfen.
+- Aus bereits abgeschickten Anmeldungen.
+- Aus Verträgen.
+- Aus dem Archiv.
+
+Prinzipiell kann aus jedem Vorgang innerhalb von Sekunden eine Vorlage erstellt werden.
+
 ## Kundensupport pathOS
 
 Das fachliche Support-Team von pathOS ist zu folgenden Zeiten erreichbar:
@@ -45,3 +57,4 @@ Das fachliche Support-Team von pathOS ist zu folgenden Zeiten erreichbar:
 - [Originalquelle](../raw/allgemein-4-taf-tap-in-der-trassenanmeldung--src-eb1cc749a7dacf23238b.md) (ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/allgemein-11089206#llmwiki-section=4-taf-tap-in-der-trassenanmeldung`)
 - [Originalquelle](../raw/taf-tap-tsi-faq-7-kundensupport--src-ceb70461e6d7fce10076.md) (ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/TAF-TAP-TSI-FAQ-13868920#llmwiki-section=7-kundensupport`)
 - [Originalquelle](../raw/taf-tap-tsi-faq-1-ubergreifende-themen-zu-den-evu-verordnungen--src-a725959f1aa08ae51f21.md) (ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/TAF-TAP-TSI-FAQ-13868920#llmwiki-section=1-ubergreifende-themen-zu-den-evu-verordnungen`)
+- [Originalquelle](../raw/taf-tap-tsi-faq-6-pathos-webportal--src-725f3be4171ba08522cd.md) (ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/TAF-TAP-TSI-FAQ-13868920#llmwiki-section=6-pathos-webportal`)
