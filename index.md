@@ -37,6 +37,7 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Ril 492.0753V01 (Anlage 2a VDV 753)](wiki/ril-492-0753v01.md) – Muster „Führerschein".
 - [Ril 492.0753V02 (Anlage 2b VDV 753)](wiki/ril-492-0753v02.md) – Muster „Beiblatt" gemäß KoRil 492.0753V02.
 - [Ril 124.0600V01 (Dampflokomotiven)](wiki/ril-124-0600v01.md) – Hinweise zur Bedienung rostgefeuerter Dampflokomotiven.
+- [Ril 135 (Konzernsicherheit / DB Lagezentrum)](wiki/ril-135-konzernsicherheit-db-lagezentrum.md) – Regelungen zur Konzernsicherheit.
 - [Richtline 402.0305 (Terminkalender 2026)](wiki/richtline-402-0305-terminkalender-2026.md) – Terminkette und Stellungnahme für 2026.
 - [TAF/TAP Wettbewerbsfähigkeit](wiki/taf-tap-wettbewerbsfaehigkeit.md) – Bedeutung der Digitalisierung und Harmonisierung im Datenaustausch.
 - [Umrisslinie zur Preisbildung Machbarkeitsstudie aT](wiki/umrisslinie-preisbildung-machbarkeitsstudie-at.md) – Regelungen zur Preisbildung für Machbarkeitsstudien (Anlage 5.4.2 INB 2027).
