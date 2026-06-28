@@ -771,3 +771,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [482.8002](wiki/quellen/src-b69fd655c59eae243cf3.md)
 
 - [Anlage 5.10: Förderrichtlinie](wiki/quellen/src-1de3e5ed181ef78d01c1.md)
+
+- [302.4202Z01](wiki/quellen/src-5580965ae50361de3114.md)
