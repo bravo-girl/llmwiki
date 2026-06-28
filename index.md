@@ -197,3 +197,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [465.0001A04](wiki/quellen/src-105e9723d0d33f8c93f5.md)
 
 - [465.0001A06](wiki/quellen/src-5ab36978317481ee74ed.md)
+
+- [Baumaßnahmenkorridore](wiki/quellen/src-d54c8abc191295d6b50e.md)
