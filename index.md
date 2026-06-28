@@ -257,3 +257,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [2. Allgemeine Unterlagen, EU-Verordnungen und Sektorhandbuch](wiki/quellen/src-e1f9a5523241593f8644.md)
 
 - [465.0001A02](wiki/quellen/src-5012262c047e497e3c67.md)
+
+- [TAF/TAP TSI – Vertiefung: Geänderte Darstellung von Triebfahrzeugen](wiki/quellen/src-5af2bf4e6fed3a5f8458.md)
