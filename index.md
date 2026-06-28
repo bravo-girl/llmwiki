@@ -677,3 +677,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [483.0201](wiki/quellen/src-1ce1fbeddc8fd991911a.md)
 
 - [Anlage 7.3.1.6.1a: Muster Einzelanmeldung](wiki/quellen/src-858309ab646a62dfa96d.md)
+
+- [TAF TAP TSI-Dialog – 21. Mai 2026 – Antworten und offene Punkte](wiki/quellen/src-98408bc55e1c073256fc.md)
