@@ -708,3 +708,15 @@ Status: `completed`
 
 Integration der neuen Richtlinie Ril 465.0001A07 (Steilstrecke Blankenburg - Rübeland) in das Wiki und Aktualisierung des Index.
 Integriert in: `wiki/ril-465-0001a07.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/481-0101v02--src-078c27a78a5a035e0a26.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/resource/blob/13699558/aa4a990aa13c838f5332040d9b8ff1df/Ril-481-0101V02-INB-2027-data.pdf`
+Source-Key: `src-078c27a78a5a035e0a26`
+Chunk: `1/1`
+Chunk-Key: `chunk-a9d5dbfde0f6551da5dd`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der neuen Richtlinie Ril 481.0101V02 (Rufnummerntafel) in das Wiki. Erstellung einer neuen Synthese-Seite und Aktualisierung des Index.
+Integriert in: `wiki/ril-481-0101v02.md`, `index.md`.
