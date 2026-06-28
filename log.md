@@ -624,3 +624,15 @@ Status: `completed`
 
 Integration der Definition von ETCS-Level 0 in die bestehende Wiki-Seite 'Grundwissen ETCS'. Der neue Abschnitt beschreibt Level 0 als Rückfallebene mit einer Geschwindigkeitsbeschränkung von maximal 50 km/h.
 Integriert in: `wiki/grundwissen-etcs.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/465-0001a05--src-33cc29f22b9fec27c441.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/resource/blob/13699518/ac766d3b8dec513e4b7745278c4e768e/Ril-465-0001A05-INB-2027-data.pdf`
+Source-Key: `src-33cc29f22b9fec27c441`
+Chunk: `1/1`
+Chunk-Key: `chunk-f4f51ecc14dfd2b767c4`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Ril 465.0001A05 (Steilstrecke Stützerbach - Schleusingen) in das Wiki. Da die Ril 465.0001A01 bereits existiert, wird eine neue Wiki-Seite für die A05 erstellt und der Index aktualisiert.
+Integriert in: `wiki/ril-465-0001a05.md`, `index.md`.
