@@ -432,3 +432,15 @@ Status: `completed`
 
 Erstellung der Wiki-Seite 'Umrisslinie zur Preisbildung Machbarkeitsstudie aT' basierend auf der Anlage 5.4.2 der INB 2027 und Aktualisierung des Index.
 Integriert in: `wiki/umrisslinie-preisbildung-machbarkeitsstudie-at.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/events-veranstaltungen-und-events-rund-um-taf-tap-tsi--src-959203cdd883208c0ea7.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/events#llmwiki-section=veranstaltungen-und-events-rund-um-taf-tap-tsi`
+Source-Key: `src-959203cdd883208c0ea7`
+Chunk: `1/1`
+Chunk-Key: `chunk-1fabf95c959746f126a2`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Veranstaltungsübersicht für TAF/TAP TSI (Termine 2026) in die Wiki-Seite für aktuelle Informationen und Veranstaltungen.
+Integriert in: `wiki/aktuelle-infos-und-veranstaltungen.md`, `index.md`.
