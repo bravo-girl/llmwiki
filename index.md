@@ -213,3 +213,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Richtlinien des netzzugangsrelevanten Regelwerks der INB 2027 - Einleitung](wiki/quellen/src-45cd34944df3e5c599b0.md)
 
 - [Richtlinien des betrieblich-technischen Regelwerks der INB 2027 - Einleitung](wiki/quellen/src-d179096738916fbf5102.md)
+
+- [Ril 301 Signalbuch (SB)](wiki/quellen/src-c7fe056e42f347b6b387.md)
