@@ -401,3 +401,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [402.0202V01](wiki/quellen/src-4aba514a5946c4d7eb70.md)
 
 - [483.0101A04](wiki/quellen/src-06f0ac351a00ac822a93.md)
+
+- [Antrag Schnittstellennutzung für EVU/IT-Dienstleister (Test-Umgebung) – Stand 10.2025](wiki/quellen/src-e8f34d183d7d1bfef74d.md)
