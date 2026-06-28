@@ -483,3 +483,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Ril 481 Bahnbetrieb; Telekommunikationsanlagen bedienen](wiki/quellen/src-c9cc6a492dab77978d8c.md)
 
 - [Anleitung zur pathOS-Userverwaltung im Infraportal](wiki/quellen/src-7cb39f07aa3e7de6d29b.md)
+
+- [423.0310V02](wiki/quellen/src-d94b639fe9b861c99651.md)
