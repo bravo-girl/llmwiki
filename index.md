@@ -377,3 +377,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [483.0202A03](wiki/quellen/src-c9968cc05313ac6e8300.md)
 
 - [Ril 482 Signalanlagen bedienen](wiki/quellen/src-c3ff1274406bfc132ec8.md)
+
+- [Company Code und Organisation Code](wiki/quellen/src-5510ed8c9dcde4d3d460.md)
