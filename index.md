@@ -1029,3 +1029,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 1: Datenfelder der EVU-Schnittstelle](wiki/quellen/src-e07bf3d96ba20ffa9958.md)
 
 - [438](wiki/quellen/src-38b3033d603279538754.md)
+
+- [INB 2027](wiki/quellen/src-4401bd3585dd6f81028c.md)
