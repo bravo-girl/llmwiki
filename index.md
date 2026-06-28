@@ -985,3 +985,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [302.2207Z01](wiki/quellen/src-7efdf9564bcb4bcd5f38.md)
 
 - [302.9204Z01](wiki/quellen/src-8dc0633d819b09c1576d.md)
+
+- [Testbarkeit TTT-Attribute volle Struktur (Stand 12.6.2026)](wiki/quellen/src-a302529d2eaaba251c0a.md)
