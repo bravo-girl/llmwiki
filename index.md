@@ -291,3 +291,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 4.4.3: Fristen für die Anmeldung von Rahmenverträgen](wiki/quellen/src-7b874e1d7f0cbb55aebe.md)
 
 - [ZvF-Stafette - Einleitung](wiki/quellen/src-c5de187b95a97c7e3af5.md)
+
+- [402.0305A12](wiki/quellen/src-06457c739dee169326be.md)
