@@ -867,3 +867,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [302.5004](wiki/quellen/src-a9939fe0859239c077df.md)
 
 - [Booklet zur Vertiefungsveranstaltung TAF/TAP TSI in der Trassenanmeldung – Januar 2024](wiki/quellen/src-dbed16ca97cf7a24c52e.md)
+
+- [302.6206Z01](wiki/quellen/src-1bd0bda334883cb83ea6.md)
