@@ -843,3 +843,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [TAF/TAP TSI-Dialog – Februar 2026 – Terminunterlage](wiki/quellen/src-fd97b0875e74b27cb286.md)
 
 - [492.1005](wiki/quellen/src-f905cae36e09f66ab9d9.md)
+
+- [483.0100Z14](wiki/quellen/src-87f4f8c1167b59f23520.md)
