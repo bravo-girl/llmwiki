@@ -912,3 +912,15 @@ Status: `completed`
 
 Einleitung zu den Infrastrukturnutzungsbedingungen (INB) 2027 der DB InfraGO AG mit Hinweisen zum Genehmigungsstatus der Entgeltgrundsätze des Mindestzugangspakets und zur vorläufigen Inkraftsetzung spezifischer Änderungen.
 Integriert in: `wiki/quellen/src-9bbe917af34716ba942a.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/annex-vii-richtlinie-2012-34-eu-einleitung--src-52c370cf432df89e4c3f.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/fahren_und_bauen/annex-vii-richtlinie-2012-34-eu-11857512#llmwiki-section=einleitung`
+Source-Key: `src-52c370cf432df89e4c3f`
+Chunk: `1/1`
+Chunk-Key: `chunk-1e906c5dafd1fa952af8`
+Chunk-Status: `completed`
+Status: `completed`
+
+Einführung in die EU-Richtlinie 2012/34/EU und den Anhang VII (Annex VII) zur Standardisierung der Kommunikation von baubedingten Kapazitätseinschränkungen im europäischen Eisenbahnsektor.
+Integriert in: `wiki/quellen/src-52c370cf432df89e4c3f.md`, `index.md`.
