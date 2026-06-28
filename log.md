@@ -60,3 +60,15 @@ Status: `completed`
 
 Integration des FAQ-Abschnitts zur digitalen Baufahrplananordnung (BauFplo) in das Wiki. Es wurde eine neue Wiki-Seite 'wiki/baufplo-faq.md' erstellt, die den Fragenkatalog als Thema einführt, sowie der Wiki-Index aktualisiert.
 Integriert in: `wiki/baufplo-faq.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/grundwissen-etcs-einleitung--src-bb4932e8c67b1fa934ec.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/etcs/grundlagen-etcs/grundwissen-etcs-12285634#llmwiki-section=einleitung`
+Source-Key: `src-bb4932e8c67b1fa934ec`
+Chunk: `1/1`
+Chunk-Key: `chunk-a875440a36635e8fb81c`
+Chunk-Status: `completed`
+Status: `completed`
+
+Erstellung der neuen Wiki-Seite 'Grundwissen ETCS' basierend auf dem ersten Teil der Quelle sowie Aktualisierung des Index.
+Integriert in: `wiki/grundwissen-etcs.md`, `index.md`.
