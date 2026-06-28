@@ -1021,3 +1021,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Handbuch pathOS Webportal (Version 1.01– Stand 13.03.2026)](wiki/quellen/src-726a6a6cad394fdc2fad.md)
 
 - [408.21-27](wiki/quellen/src-3d1464bce7ec8d8fddba.md)
+
+- [Anlage 1: Datenfelder der EVU-Schnittstelle](wiki/quellen/src-3160483da61fd8abc851.md)
