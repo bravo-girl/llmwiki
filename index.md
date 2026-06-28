@@ -353,3 +353,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Informationen zur Umsetzung TAF/TAP TSI – Entwicklung und Fortführung Schnittstellentests](wiki/quellen/src-6c1f9fe40378cd6c90b7.md)
 
 - [423.8210A02](wiki/quellen/src-082136b6fcc7d479a794.md)
+
+- [Train Composition Message und Passenger Train Composition Message](wiki/quellen/src-6ea600bb078f32c2c0ef.md)
