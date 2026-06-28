@@ -777,3 +777,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [TAF/TAP TSI-Dialog – 24. Juni 2026 – Terminunterlage](wiki/quellen/src-0099b9e653a54489c04f.md)
 
 - [TAF/TAP TSI-Dialog der DB InfraGO – Dezember 2024](wiki/quellen/src-5df647c28e1adef6be6f.md)
+
+- [302.1000](wiki/quellen/src-c269acbd3cc918ebd072.md)
