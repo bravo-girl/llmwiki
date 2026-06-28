@@ -239,3 +239,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [TAF/TAP TSI – Vertiefung: Traction Mode](wiki/quellen/src-e90b937bb3dc711b6cd5.md)
 
 - [Ril 302 Grenzüberschreitende Bahnstrecken - Grundsätze](wiki/quellen/src-e0ceeab70af6a3b94ee2.md)
+
+- [Was ändert sich für mich als Kund:in durch die Umsetzung des Annex VII?](wiki/quellen/src-12579aa1f13d6672f011.md)
