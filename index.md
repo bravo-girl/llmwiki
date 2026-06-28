@@ -251,3 +251,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Internationale Baukoordination](wiki/quellen/src-213cf073c7db59be4410.md)
 
 - [302.0001A99](wiki/quellen/src-5369b33b61c071d48f4a.md)
+
+- [402.0305A03](wiki/quellen/src-f1560b0260db17153fa4.md)
