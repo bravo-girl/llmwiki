@@ -891,3 +891,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [483.0202](wiki/quellen/src-81254fbddea01a52a71f.md)
 
 - [Anlage 5.7.6: Kategoriespezifische Basisleistungen und weitere Leistungen der INB (Bereich Personenbahnhöfe)](wiki/quellen/src-ed407cab45f001da749c.md)
+
+- [Anlage 4.10: Harmonisierte Regelung der Corridor Information Documents (CIDs)](wiki/quellen/src-f21cc16692ccca15934f.md)
