@@ -417,3 +417,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 3.2.6: Vereinbarung über die Verkehrsdurchführung](wiki/quellen/src-077a7beade87a5f7dfcb.md)
 
 - [BauFplo_99001_2026-08-11_V1-entwurf.](wiki/quellen/src-1ddf98c642125819d229.md)
+
+- [BauFplo_99001_2026-08-12_V1-entwurf.](wiki/quellen/src-40d1d1cf7f52a0a31e57.md)
