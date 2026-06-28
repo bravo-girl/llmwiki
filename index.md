@@ -549,3 +549,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 7.3.2.4.1.1: Zuordnungssystematik Stationen zu den jeweiligen Kategorien](wiki/quellen/src-ea6667e14902de6d6af9.md)
 
 - [Anlage 3.2.1.1: Grundsatz-INV](wiki/quellen/src-1e8b1487097848d8a583.md)
+
+- [492.0753](wiki/quellen/src-6413694eb827644cd05f.md)
