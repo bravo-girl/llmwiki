@@ -972,3 +972,15 @@ Status: `completed`
 
 Dokumentation der Rufzeichentafel gemäß Ril 481.0101V01 zur Definition von Rufzeichen und Tastenkombinationen für verschiedene Kommunikationsarten im Bahnbetrieb.
 Integriert in: `wiki/quellen/src-750f8b3ebe76ebcbef34.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/423-8010z99--src-702062919e323146414f.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/resource/blob/13699474/d1fd94d8aa1d9d282b1dadad090a584c/Ril-423-8010Z99-INB-2027-data.pdf`
+Source-Key: `src-702062919e323146414f`
+Chunk: `1/1`
+Chunk-Key: `chunk-733f95f66f3316e43b6c`
+Chunk-Status: `completed`
+Status: `completed`
+
+Die Richtlinie 423.8010Z99 regelt die Besonderheiten für den Bahnbetrieb (Notfallmanagement, Brandschutz, Beförderung von Notfalltechnik) auf deutschen Strecken im Schweizer Gebiet, mit spezifischem Fokus auf die Einhaltung der gesetzlich zulässigen Arbeitszeiten.
+Integriert in: `wiki/quellen/src-702062919e323146414f.md`, `index.md`.
