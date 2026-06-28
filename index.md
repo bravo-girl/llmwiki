@@ -395,3 +395,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [402.0203A01](wiki/quellen/src-0a650eeda8a291556154.md)
 
 - [Antrag Schnittstellennutzung für EVU (Prod-Umgebung) – Stand 10.2025](wiki/quellen/src-47ce0eadec9558da8461.md)
+
+- [1. Übergreifende Information - thematische Einleitung](wiki/quellen/src-036b948e5c27d45979b2.md)
