@@ -492,3 +492,15 @@ Status: `completed`
 
 Integration der neuen Richtlinie Ril 481.0204A01 (Übersicht über die Ausleuchtung mit analogem Zugfunk der Bauform VZF 95) in das Wiki und Aktualisierung des Index.
 Integriert in: `wiki/ril-481-0204a01.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/taf-tap-tsi-faq-6-pathos-webportal--src-725f3be4171ba08522cd.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/TAF-TAP-TSI-FAQ-13868920#llmwiki-section=6-pathos-webportal`
+Source-Key: `src-725f3be4171ba08522cd`
+Chunk: `1/1`
+Chunk-Key: `chunk-20f5925880a36160f269`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Informationen zum pathOS Webportal (Entwurfs- und Vorlagenfunktion) in die bestehende Wiki-Seite zur TAF/TAP-Wettbewerbsfähigkeit.
+Integriert in: `wiki/taf-tap-wettbewerbsfaehigkeit.md`, `index.md`.
