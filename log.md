@@ -816,3 +816,15 @@ Status: `completed`
 
 Dokumentation über die Anwendung von Planning Handoverpoints (Fahrplanbearbeitungsgrenzen) im Rahmen der TAF/TAP TSI für grenzüberschreitende Verkehre sowie Verweise auf ergänzende Dokumente.
 Integriert in: `wiki/quellen/src-4e923420796ffc94de4b.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/baufplo-unterstutzung-bei-der-vorbereitung-der-migration--src-5ec785e92210450de06f.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/fahren_und_bauen/BauFplo-13377708#llmwiki-section=unterstutzung-bei-der-vorbereitung-der-migration`
+Source-Key: `src-5ec785e92210450de06f`
+Chunk: `1/1`
+Chunk-Key: `chunk-85b15a61185d90ef7899`
+Chunk-Status: `completed`
+Status: `completed`
+
+Detaillierte Übersicht über die Unterstützungsleistungen zur Vorbereitung der BauFplo-Migration, einschließlich Aufwandschätzung, Schnittstelleninformationen und Beispieldokumenten.
+Integriert in: `wiki/quellen/src-5ec785e92210450de06f.md`, `index.md`.
