@@ -240,3 +240,15 @@ Status: `completed`
 
 Erster Ingest der Richtlinie 481.0301V01 (Rangierfunk-Teilnehmerverzeichnis). Da der Inhalt der Quelle lediglich Metadaten (Fachautor, Gültigkeit) und eine leere Seite umfasst, wird eine neue Wiki-Seite angelegt, die als Platzhalter für das Regelwerk dient, sowie der Index aktualisiert.
 Integriert in: `wiki/ril-481-0301v01.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/437-0011v01--src-a3517b242ac234e97f86.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/resource/blob/13699388/3e0adbbe7cdc2a5d3925f89d4d4f25cb/Ril-437-0011V01-INB-2027-data.pdf`
+Source-Key: `src-a3517b242ac234e97f86`
+Chunk: `1/1`
+Chunk-Key: `chunk-8f8c40c82d0a380b4d1f`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der ersten Seite des Fernsprechbuchs für den SZB-E (Teil Zugleiter) gemäß Ril 437.0011V01 in die Wiki-Struktur unter 'Regelwerke & Betrieb'.
+Integriert in: `wiki/ril-437-0011v01.md`, `index.md`.
