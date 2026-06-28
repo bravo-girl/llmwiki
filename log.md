@@ -456,3 +456,15 @@ Status: `completed`
 
 Integration der Ril 438 (Fahrdienstvorschrift; FV-NE) in das Wiki. Es wurde eine neue Synthese-Seite erstellt und der Index unter 'Regelwerke & Betrieb (Ril)' aktualisiert.
 Integriert in: `wiki/ril-438-fahrdienstvorschrift-fv-ne.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/betrieblich-technisches-regelwerk-ril-406-baubetriebsplanung--src-295bd9308cec2b025912.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/regelwerke/betrieblich-technisch_regelwerke/betrieblich_technisches_regelwerk-13699620#llmwiki-section=ril-406-baubetriebsplanung-betra-la`
+Source-Key: `src-295bd9308cec2b025912`
+Chunk: `1/1`
+Chunk-Key: `chunk-328ac2cc6a75158a2726`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Ril 406 (Baubetriebsplanung, Betra, La) in das Wiki. Es wurde eine neue Synthese-Seite erstellt, die die Informationen aus dem HTML-Abschnitt (speziell das Dokument 406.1301) enthält, und der Index unter 'Regelwerke & Betrieb (Ril)' entsprechend aktualisiert.
+Integriert in: `wiki/ril-406-baubetriebsplanung-betra-la.md`, `index.md`.
