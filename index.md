@@ -285,3 +285,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [481.0204A03](wiki/quellen/src-e525fee21e42dd368fe4.md)
 
 - [Information Sachstand Einführung TAF/TAP TSI im Fahrplan 2027](wiki/quellen/src-4aa651bd10d6b11247fd.md)
+
+- [492.0753V03](wiki/quellen/src-6407e0b660a305026011.md)
