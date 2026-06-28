@@ -444,3 +444,15 @@ Status: `completed`
 
 Integration der Veranstaltungsübersicht für TAF/TAP TSI (Termine 2026) in die Wiki-Seite für aktuelle Informationen und Veranstaltungen.
 Integriert in: `wiki/aktuelle-infos-und-veranstaltungen.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/betrieblich-technisches-regelwerk-ril-438-fahrdienstvorschri--src-6335dfd22faaa1d375cd.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/regelwerke/betrieblich-technisch_regelwerke/betrieblich_technisches_regelwerk-13699620#llmwiki-section=ril-438-fahrdienstvorschrift-fv-ne`
+Source-Key: `src-6335dfd22faaa1d375cd`
+Chunk: `1/1`
+Chunk-Key: `chunk-36838aa288ade803f8c8`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Ril 438 (Fahrdienstvorschrift; FV-NE) in das Wiki. Es wurde eine neue Synthese-Seite erstellt und der Index unter 'Regelwerke & Betrieb (Ril)' aktualisiert.
+Integriert in: `wiki/ril-438-fahrdienstvorschrift-fv-ne.md`, `index.md`.
