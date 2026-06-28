@@ -15,7 +15,12 @@ Ein qualitativ hochwertiger Austausch zwischen beteiligten Infrastrukturunterneh
 - **Höheres Informationslevel**: Ein tiefergehender Datenaustausch.
 - **Echtzeitdaten**: Eine größere Verfügbarkeit von Echtzeitdaten führt zu einer besseren Prognosequalität.
 
+## Grenzüberschreitende Identifikation
+
+Ein wesentlicher Aspekt ist die eindeutige und tagesscharfe Identifikation von Zügen und Trassen – räumlich, zeitlich und auch über Netzgrenzen hinweg. Dies wird durch eine neue Objektstruktur ermöglicht, die eine klare Trennung von Zug und Trasse erlaubt und somit den Umgang im grenzüberschreitenden Verkehr vereinfacht.
+
 ## Quellen
 
 - [Originalquelle](../raw/allgemein-starkere-wettbewerbsfahigkeit--src-d23cd77e9418c709149a.md) (ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/allgemein-11089206#llmwiki-section=starkere-wettbewerbsfahigkeit`)
 - [Originalquelle](../raw/allgemein-bessere-betriebliche-durchfuhrung--src-5712d0260327f84a00a4.md) (ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/allgemein-11089206#llmwiki-section=bessere-betriebliche-durchfuhrung`)
+- [Originalquelle](../raw/allgemein-grenzuberschreitend-eine-identifikation--src-719bcecb3b4522d5e35d.md) (ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/allgemein-11089206#llmwiki-section=grenzuberschreitend-eine-identifikation`)
