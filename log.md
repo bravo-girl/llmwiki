@@ -26,3 +26,8 @@ Integriert in: `wiki/karpathy-pattern.md`, `index.md`.
 ## [2026-06-27] lint | Index-Einleitung aktualisiert
 
 Den überholten Hinweis auf eine leere Wissensbasis nach dem ersten Ingest entfernt.
+
+## [2026-06-28] query | erkläre die neuen ttt identifier
+
+Keine vorhandene Wiki-Seite zitiert.
+Keine redundante Wissensseite erzeugt.
