@@ -325,3 +325,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Betrieb: Meldungen DB InfraGO AG an EVU](wiki/quellen/src-60e4629a7816d8253554.md)
 
 - [Ril 302.9000 Grenzüberschreitende Bahnstrecken mit den Niederlanden](wiki/quellen/src-50c84d0ba2dd596e3f09.md)
+
+- [302.1001Z99](wiki/quellen/src-f72116140c0633f25689.md)
