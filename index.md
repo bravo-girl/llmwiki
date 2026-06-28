@@ -745,3 +745,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [302.4205Z01](wiki/quellen/src-b0379884ce3fadcd77f4.md)
 
 - [302.1202Z01](wiki/quellen/src-19415147620136b68eff.md)
+
+- [TAF/TAP Technische Beschreibung Anschluss-/Umlaufdaten](wiki/quellen/src-a1095252e297d1a855b7.md)
