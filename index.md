@@ -605,3 +605,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [423.8010](wiki/quellen/src-261f6dd6843b97c935a6.md)
 
 - [KOMBau FAQ](wiki/quellen/src-c7634ec4c798d2422aa6.md)
+
+- [302.2000V01](wiki/quellen/src-0fe40991081935b1db04.md)
