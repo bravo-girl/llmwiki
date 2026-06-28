@@ -359,3 +359,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Testanmeldung E2E-Kundentest TTT mit ID](wiki/quellen/src-512206369a89c82d5d3d.md)
 
 - [BauFplo_99003_2026-08-12_V1-entwurf.](wiki/quellen/src-2131ff3c88853daade05.md)
+
+- [BauFplo_99003_2026-08-13_V1-entwurf.](wiki/quellen/src-44506086895fa11a5407.md)
