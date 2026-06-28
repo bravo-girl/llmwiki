@@ -723,3 +723,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [TAF/TAP TSI bei der DB InfraGO AG - Überblick zur Umsetzung](wiki/quellen/src-1f75bdef20a4cce15978.md)
 
 - [Readiness-Check digitale BauFplo](wiki/quellen/src-3f0026535ca990a0d449.md)
+
+- [302.4206Z01](wiki/quellen/src-8e6c444c5787934c6b93.md)
