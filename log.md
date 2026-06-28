@@ -300,3 +300,15 @@ Status: `completed`
 
 Integration der Richtlinie 481.0201A02 (Streckenband für analogen Zugfunk) als neue Wiki-Seite und Aktualisierung des Index.
 Integriert in: `wiki/ril-481-0201a02.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/allgemein-4-taf-tap-in-der-trassenanmeldung--src-eb1cc749a7dacf23238b.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/allgemein-11089206#llmwiki-section=4-taf-tap-in-der-trassenanmeldung`
+Source-Key: `src-eb1cc749a7dacf23238b`
+Chunk: `1/1`
+Chunk-Key: `chunk-5e01baaf17466a728f7e`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration des neuen Fachabschnitts 'TAF/TAP in der Trassenanmeldung' in die Synthese 'taf-tap-wettbewerbsfaehigkeit.md'. Der Abschnitt ergänzt den Hinweis auf das neue Bestellsystem und verweist auf die weiterführende Plattform PathOS.
+Integriert in: `wiki/taf-tap-wettbewerbsfaehigkeit.md`, `index.md`.
