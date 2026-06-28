@@ -749,3 +749,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [TAF/TAP Technische Beschreibung Anschluss-/Umlaufdaten](wiki/quellen/src-a1095252e297d1a855b7.md)
 
 - [483.0101Z02](wiki/quellen/src-5105ff18e65312154676.md)
+
+- [KOMBau Release Notes](wiki/quellen/src-68ae47cf04642e5da7c7.md)
