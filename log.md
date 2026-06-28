@@ -132,3 +132,15 @@ Status: `completed`
 
 Erster Ingest der Quelle 492.0753V02 (Anlage 2b zur VDV-Schrift 753, Muster 'Beiblatt', KoRil 492.0753V02). Da der Inhalt der ersten zwei Seiten minimal ist, wurde ein neuer Wiki-Eintrag unter 'Regelwerke & Betrieb (Ril)' erstellt, um die Struktur für das kommende Regelwerk vorzubereiten.
 Integriert in: `wiki/ril-492-0753v02.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/492-0753v01--src-5757c0e242370bffe5c6.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/resource/blob/13699080/6a01f97118af6f6736f01bbcca2a5ae6/Ril-492-0753V01-INB-2027-data.pdf`
+Source-Key: `src-5757c0e242370bffe5c6`
+Chunk: `1/1`
+Chunk-Key: `chunk-9d3deacf3b7ba0aec17b`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Ril 492.0753V01 (Anlage 2a, Muster 'Führerschein') als neue Wissensbasis. Da die bestehende Wiki-Seite sich auf die V02 (Anlage 2b) bezieht, wird eine neue Seite für die V01 erstellt und der Index aktualisiert.
+Integriert in: `wiki/ril-492-0753v01.md`, `index.md`.
