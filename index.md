@@ -14,6 +14,7 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [FAQ BauFplo](wiki/baufplo-faq.md) – Fragenkatalog zur digitalen Baufahrplananordnung.
 - [Abkürzungen BauFplo](wiki/baufplo-abkurzungen.md) – Verzeichnis der verwendeten Fachabkürzungen.
 - [KiGbau Einleitung](wiki/kigbau-einleitung.md) – Vorteile der KiGbau für die Abstimmung und Auswertung.
+- [Annex VII Vorteile](wiki/annex-vii-vorteile.md) – Vorteile der Einführung von Annex VII für Kund:innen.
 
 ## Eisenbahnsysteme (ETCS)
 
