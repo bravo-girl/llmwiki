@@ -72,3 +72,15 @@ Status: `completed`
 
 Erstellung der neuen Wiki-Seite 'Grundwissen ETCS' basierend auf dem ersten Teil der Quelle sowie Aktualisierung des Index.
 Integriert in: `wiki/grundwissen-etcs.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/events-einleitung--src-d2d5cc5025a36664b9e5.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/events#llmwiki-section=einleitung`
+Source-Key: `src-d2d5cc5025a36664b9e5`
+Chunk: `1/1`
+Chunk-Key: `chunk-089fddd871bff2c22bbb`
+Chunk-Status: `completed`
+Status: `completed`
+
+Erstellung der Wiki-Seite 'Aktuelle Informationen und Veranstaltungen' basierend auf dem Ingest von Teil 1 der Quelle 'events-einleitung--src-d2d5cc5025a36664b9e5.md'. Der Index wurde um diese neue Kategorie erweitert.
+Integriert in: `wiki/aktuelle-infos-und-veranstaltungen.md`, `index.md`.
