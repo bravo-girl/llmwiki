@@ -108,3 +108,15 @@ Status: `completed`
 
 Erster Ingest der Ril 302.2000v04 (INB 2027) als neue Quelle. Da der bereitgestellte Teil 1/1 nur aus einer leeren Seite besteht, wurde noch keine inhaltliche Synthese in den Wiki-Bereich übernommen, jedoch wird die Quelle für zukünftige Teile registriert.
 Integriert in: `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/kigbau-einleitung--src-81391fc3d7fb6f1e32de.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/fahren_und_bauen/kigbau-12593006#llmwiki-section=einleitung`
+Source-Key: `src-81391fc3d7fb6f1e32de`
+Chunk: `1/1`
+Chunk-Key: `chunk-b0ce80e95f01c1ee2587`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Einleitung zum Thema KiGbau (Kundenindividuelle Gestaltung des Bauablaufs) in das Wiki. Erstellung der neuen Synthese-Seite wiki/kigbau-einleitung.md und Aktualisierung des index.md.
+Integriert in: `wiki/kigbau-einleitung.md`, `index.md`.
