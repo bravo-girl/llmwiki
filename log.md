@@ -864,3 +864,15 @@ Status: `completed`
 
 Dokumentation der Richtlinie Ril 436 zur Durchführung von Zug- und Rangierfahrten im Zugleitbetrieb (ZLB), einschließlich Verweise auf die Übersicht der im Betriebsstellenbuch/Streckenbuch oder Betra aufzunehmenden Regeln.
 Integriert in: `wiki/quellen/src-c8238a0bccd670015be4.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/taf-tap-tsi-faq-faq-einleitung--src-1f08c004d7136047e3cc.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/TAF-TAP-TSI-FAQ-13868920#llmwiki-section=faq-einleitung`
+Source-Key: `src-1f08c004d7136047e3cc`
+Chunk: `1/1`
+Chunk-Key: `chunk-1399bbfc3db06149bc8e`
+Chunk-Status: `completed`
+Status: `completed`
+
+Einleitung der TAF/TAP TSI FAQ mit Hinweisen zur Verbindlichkeit, zu regulatorischen Änderungen und zur Nutzung der Dokumentation.
+Integriert in: `wiki/quellen/src-1f08c004d7136047e3cc.md`, `index.md`.
