@@ -744,3 +744,15 @@ Status: `completed`
 
 Integration der Einleitung zum netzzugangsrelevanten Regelwerk der INB 2027. Es wurde eine neue Wiki-Seite erstellt, die die Verbindlichkeit der Richtlinien als Bestandteil der INB sowie die vorläufige Inkraftsetzung der Änderung der Richtlinie 402.0305 Abschnitt 16 (4) zum 08.04.2026 gemäß § 19 Abs. 6 ERegG dokumentiert. Der Index wurde um den entsprechenden Eintrag ergänzt.
 Integriert in: `wiki/netzzugangsrelevantes-regelwerk-2027-einleitung.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/betrieblich-technisches-regelwerk-einleitung--src-d179096738916fbf5102.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/regelwerke/betrieblich-technisch_regelwerke/betrieblich_technisches_regelwerk-13699620#llmwiki-section=einleitung`
+Source-Key: `src-d179096738916fbf5102`
+Chunk: `1/1`
+Chunk-Key: `chunk-06c263cdef77680b097c`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Einleitung des betrieblich-technischen Regelwerks der INB 2027 in das Wiki. Die neue Information wird in der bestehenden Seite zum netzzugangsrelevanten Regelwerk ergänzt, um die Unterscheidung/Ergänzung zwischen dem netzzugangsrelevanten und dem betrieblich-technischen Regelwerk abzubilden.
+Integriert in: `wiki/netzzugangsrelevantes-regelwerk-2027-einleitung.md`, `index.md`.
