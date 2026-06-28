@@ -495,3 +495,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 4.4.1a: Berechnung der Höchstkapazität bei Zuweisung von Rahmenverträgen](wiki/quellen/src-0ff930fec440265dc274.md)
 
 - [3. Stammdaten](wiki/quellen/src-4dedea7e960245e2e8a9.md)
+
+- [481.0205Z01](wiki/quellen/src-d577a124dc00a0e3d1df.md)
