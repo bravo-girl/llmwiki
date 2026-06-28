@@ -516,3 +516,15 @@ Status: `completed`
 
 Integration der Definition der 'baubedingten Kapazitätseinschränkung' (BKE) gemäß Annex VII der Richtlinie 2012/34/EU in das Wiki. Es wurde eine neue Synthese-Seite erstellt und der Index aktualisiert.
 Integriert in: `wiki/bke-definition.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/437-0011v03--src-121d6e20932ddf0037bb.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/resource/blob/13699380/f2d7d4feadcfd63785829d1a03dc7593/Ril-437-0011V03-INB-2027-data.pdf`
+Source-Key: `src-121d6e20932ddf0037bb`
+Chunk: `1/1`
+Chunk-Key: `chunk-daa16b5f05b84206fc39`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Ril 437.0011V03 (Muster - Zugmeldebuch für den SZB-E) in das Wiki. Da die Quelle nur aus Deckblatt-Informationen und leeren Seiten besteht, wurde eine neue Synthese-Seite erstellt, die die Dokumenteninformationen und den Zweck (Herstellung für jeweilige SZB-E-Strecken) festhält.
+Integriert in: `wiki/ril-437-0011v03.md`, `index.md`.
