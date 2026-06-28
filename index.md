@@ -733,3 +733,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [483.0200](wiki/quellen/src-10a88d08c4b86d315242.md)
 
 - [483.0300](wiki/quellen/src-b9b63806e894b491fc82.md)
+
+- [2. Schulungsmanagement](wiki/quellen/src-0d8bc84b6eafc48b4217.md)
