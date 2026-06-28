@@ -691,3 +691,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Testfälle CI Test (Stand 01.2026)](wiki/quellen/src-90a769feb95af137bd70.md)
 
 - [483.0101A01](wiki/quellen/src-4a8b299d2e197db04bee.md)
+
+- [437.0003](wiki/quellen/src-17369d3c7cfa4402dfe4.md)
