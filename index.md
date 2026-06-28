@@ -425,3 +425,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [TAF/TAP TSI-Dialog – Oktober 2025 – Ergänzender Foliensatz zum Thema „4. Organisation Code: Umstellung von CC auf OC“](wiki/quellen/src-a85397008c3b2b9e34b1.md)
 
 - [TAF/TAP-Objekte und Identifikatoren](wiki/quellen/src-89a22ff47944d0df1115.md)
+
+- [TAF TAP TSI-Dialog – 9. März 2026 – Antworten und offene Punkte](wiki/quellen/src-6336f6118efccd2dfeba.md)
