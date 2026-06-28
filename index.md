@@ -955,3 +955,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [302.3209Z01](wiki/quellen/src-d716ce989c0ee36fa350.md)
 
 - [Glossar ETCS (Stand Oktober 2023)](wiki/quellen/src-6ad8fb2547338b6b79bf.md)
+
+- [302.3202Z01](wiki/quellen/src-75394f4edaa2d1c68015.md)
