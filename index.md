@@ -1019,3 +1019,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [TNB 2027](wiki/quellen/src-2f9f072e315a9cb142bc.md)
 
 - [Handbuch pathOS Webportal (Version 1.01– Stand 13.03.2026)](wiki/quellen/src-726a6a6cad394fdc2fad.md)
+
+- [408.21-27](wiki/quellen/src-3d1464bce7ec8d8fddba.md)
