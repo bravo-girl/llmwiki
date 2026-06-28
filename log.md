@@ -576,3 +576,15 @@ Status: `completed`
 
 Integration der Informationen zu Bahnübergängen (Level Crossing Procedure) in die bestehende Wiki-Seite 'Grundwissen ETCS'. Die Unterscheidung zwischen ETCS-Level 1 (TSR-Lösung) und ETCS-Level 2 (Level Crossing Procedure bei ÜS-BÜ) wurde gemäß der Originalquelle hinzugefügt.
 Integriert in: `wiki/grundwissen-etcs.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/zvf-stafette-kundenbeirat-zvf-stafette-im-rahmen-des-runden---src-0e1e8f9c8cc664480edf.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/fahren_und_bauen/zvf-stafette--11857486#llmwiki-section=kundenbeirat-zvf-stafette-im-rahmen-des-runden-tisch-baustellenmanagemen`
+Source-Key: `src-0e1e8f9c8cc664480edf`
+Chunk: `1/1`
+Chunk-Key: `chunk-ecdd8f29d4280535b9e7`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Informationen über den Kundenbeirat ZvF-Stafette in die Wiki-Seite für aktuelle Informationen und Veranstaltungen.
+Integriert in: `wiki/aktuelle-infos-und-veranstaltungen.md`, `index.md`.
