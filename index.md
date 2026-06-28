@@ -861,3 +861,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [483.0100Z12](wiki/quellen/src-273fea9e6900eff42e2e.md)
 
 - [483.0100Z13](wiki/quellen/src-f885064345b3034c1838.md)
+
+- [Booklet zur Vertiefungsveranstaltung TAF/TAP TSI: Fahrplan, Trassenanmeldung, pathOS – Juli 2024](wiki/quellen/src-3ee1bfaf019ab036abe2.md)
