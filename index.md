@@ -1033,3 +1033,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [INB 2027](wiki/quellen/src-4401bd3585dd6f81028c.md)
 
 - [302.2000](wiki/quellen/src-49c3261e617d3a89b31b.md)
+
+- [302.3000](wiki/quellen/src-325398c0e922103ba77a.md)
