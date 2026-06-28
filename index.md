@@ -297,3 +297,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [2. Anhängige Gerichtsverfahren zu Untersagungen einzelner Klauseln](wiki/quellen/src-553807de25f073cdfb79.md)
 
 - [5. Common Interface / Schnittstelle](wiki/quellen/src-ac31781076cd7390eb3b.md)
+
+- [BauFplo_98003_2026-08-12_V1-entwurf.](wiki/quellen/src-de295d28c66383b81483.md)
