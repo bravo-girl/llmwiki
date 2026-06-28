@@ -339,3 +339,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Ril 302.5000 Grenzüberschreitende Bahnstrecken zur Schweiz](wiki/quellen/src-5b26c07aa2ff54e47895.md)
 
 - [402.0305A06](wiki/quellen/src-fa270181229f09e7c119.md)
+
+- [402.0202V03](wiki/quellen/src-54f25f5d9892c7e55ad8.md)
