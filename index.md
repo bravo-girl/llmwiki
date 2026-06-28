@@ -193,3 +193,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [ETCS Level 0](wiki/quellen/src-18c5414e2f3b855158d5.md)
 
 - [465.0001A05](wiki/quellen/src-33cc29f22b9fec27c441.md)
+
+- [465.0001A04](wiki/quellen/src-105e9723d0d33f8c93f5.md)
