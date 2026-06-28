@@ -273,3 +273,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Aktuelle Stammdaten](wiki/quellen/src-335eb7b9337a19149847.md)
 
 - [ETCS Level 1](wiki/quellen/src-e99fb477e01e0fa8933d.md)
+
+- [ETCS Level 2](wiki/quellen/src-8fde9f5ab856f74c5ba4.md)
