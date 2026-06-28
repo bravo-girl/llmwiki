@@ -312,3 +312,15 @@ Status: `completed`
 
 Integration des neuen Fachabschnitts 'TAF/TAP in der Trassenanmeldung' in die Synthese 'taf-tap-wettbewerbsfaehigkeit.md'. Der Abschnitt ergänzt den Hinweis auf das neue Bestellsystem und verweist auf die weiterführende Plattform PathOS.
 Integriert in: `wiki/taf-tap-wettbewerbsfaehigkeit.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/437-0011v02--src-ef22f84767740bd10e39.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/resource/blob/13699386/82ca91b6f4ec49b10c7a929af8c3efac/Ril-437-0011V02-INB-2027-data.pdf`
+Source-Key: `src-ef22f84767740bd10e39`
+Chunk: `1/1`
+Chunk-Key: `chunk-61f0c9c25fc8fd8053fb`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der neuen Version Ril 437.0011V02 (Teil Triebfahrzeugführer) in das Wiki. Da die neue Quelle eine andere Version (V02 statt V01) und einen anderen inhaltlichen Fokus (Triebfahrzeugführer statt Zugleiter) hat, wird eine neue Wiki-Seite erstellt und der Index aktualisiert.
+Integriert in: `wiki/ril-437-0011v02.md`, `index.md`.
