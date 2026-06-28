@@ -207,3 +207,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [465.0001A07](wiki/quellen/src-34f874671a600176fd9e.md)
 
 - [481.0101V02](wiki/quellen/src-078c27a78a5a035e0a26.md)
+
+- [3. "Flyer-Bibliothek" - Wichtige Themen auf einer Seite erklärt](wiki/quellen/src-f74fc6807613d60e81bb.md)
