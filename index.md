@@ -313,3 +313,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Zusammenfassung der wesentlichen Inhalte des Annex VII](wiki/quellen/src-7584910d330eda0acb9c.md)
 
 - [National Contact Point für TAF/TAP TSI](wiki/quellen/src-45f34c6ebb7d8bb503ff.md)
+
+- [Common Interface für den TAF/TAP-Meldungsaustausch](wiki/quellen/src-8063b35fbcb7d5c3d670.md)
