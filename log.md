@@ -936,3 +936,15 @@ Status: `completed`
 
 Dokumentationsblatt der örtlichen Regelungen zur Konzernrichtlinie 481.0101 (Version V03) der DB Netz AG.
 Integriert in: `wiki/quellen/src-7fe964f50fc338f1f7c4.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/evu-schnittstelle-archiv-dokumentation-vers-4-6-2--src-819e0c2870be3fef2656.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/evu_schnittstelle-11089208#llmwiki-section=archiv-dokumentation-vers-4-6-2`
+Source-Key: `src-819e0c2870be3fef2656`
+Chunk: `1/1`
+Chunk-Key: `chunk-7cac7656b2dd7465b6b7`
+Chunk-Status: `completed`
+Status: `completed`
+
+Dokumentationsverzeichnis der EVU-Schnittstelle (Version 4.6.2) inklusive technischer Anlagen, Spezifikationen und Fehlercodes.
+Integriert in: `wiki/quellen/src-819e0c2870be3fef2656.md`, `index.md`.
