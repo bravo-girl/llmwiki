@@ -89,3 +89,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Fordert die ETCS-Streckeneinrichtung, dass das ETCS-Fahrzeuggerät permanent eine gültige Position während des Startlaufs haben muss?](wiki/quellen/src-7d5e7c1a7cdd45ee2b34.md)
 
 - [481.0101V01](wiki/quellen/src-750f8b3ebe76ebcbef34.md)
+
+- [423.8010Z99](wiki/quellen/src-702062919e323146414f.md)
