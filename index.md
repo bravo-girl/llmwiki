@@ -65,3 +65,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Informationen zu Fahrplanbearbeitungsgrenzen (Planning Handovers)](wiki/quellen/src-4e923420796ffc94de4b.md)
 
 - [Unterstützung bei der Vorbereitung der Migration](wiki/quellen/src-5ec785e92210450de06f.md)
+
+- [402.0305A10](wiki/quellen/src-501a164c0ff3608c13df.md)
