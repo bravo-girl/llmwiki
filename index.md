@@ -405,3 +405,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Antrag Schnittstellennutzung für EVU/IT-Dienstleister (Test-Umgebung) – Stand 10.2025](wiki/quellen/src-e8f34d183d7d1bfef74d.md)
 
 - [483.0101A99](wiki/quellen/src-72f0a18d690ec6cee618.md)
+
+- [465.0001A09](wiki/quellen/src-b74f03fe7d62bff7b176.md)
