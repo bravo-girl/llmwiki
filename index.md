@@ -233,3 +233,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Entwickelt nach Ihren Bedürfnissen](wiki/quellen/src-3d89743876cf4e6bfcf6.md)
 
 - [Welche Überhöhungsfehlbeträge der Strecke werden zur Ermittlung des Static Speed Profiles (SSP) verwendet und welche anderen ETCS-Zugarten (Train category) mit geringerem Überhöhun](wiki/quellen/src-655bf4c55c26023087a5.md)
+
+- [Ril 302.8000 Grenzüberschreitende Bahnstrecken mit Belgien](wiki/quellen/src-4f14fa4c8f4d7fdf96a6.md)
