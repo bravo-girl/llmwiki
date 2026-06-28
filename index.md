@@ -601,3 +601,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 3.3.4.8: Graffiti-Entfernung](wiki/quellen/src-a6c6af59841ad9eb318d.md)
 
 - [482.8003](wiki/quellen/src-a01d1e1cef2fe61e2e8f.md)
+
+- [423.8010](wiki/quellen/src-261f6dd6843b97c935a6.md)
