@@ -155,3 +155,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Welche Festlegungen gibt es für die Nationalen Werte (Nationale Values) auf den Strecken der DB InfraGO AG?](wiki/quellen/src-5da35bcc683585409b60.md)
 
 - [481.0201A01](wiki/quellen/src-1db53b758acba227e36a.md)
+
+- [481.0201A03](wiki/quellen/src-ed30d43bd06e53e1cbed.md)
