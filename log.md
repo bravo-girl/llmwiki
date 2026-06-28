@@ -768,3 +768,15 @@ Status: `completed`
 
 Integration der Ril 301 (Signalbuch) in das Regelwerk. Die neue Seite wurde unter 'Regelwerke & Betrieb (Ril)' angelegt und der Index entsprechend aktualisiert. Die Quelle enthält Informationen zum Signalbuch sowie einen spezifischen Zusatz für die S-Bahn Hamburg.
 Integriert in: `wiki/ril-301-signalbuch-sb.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/408-4801z21--src-f2393290c506cc165a1d.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/resource/blob/13699592/bfceaf6ffc0b4ed6160eca430eb9c8c9/Ril-408-4801Z21-INB-2027-data.pdf`
+Source-Key: `src-f2393290c506cc165a1d`
+Chunk: `1/1`
+Chunk-Key: `chunk-2dd9e9e2db35b5f9c053`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Richtlinie 408.4801Z21 (S-Bahn Hamburg Zusätze zur Ril 408.48) in das Regelwerk-Verzeichnis.
+Integriert in: `wiki/ril-408-4801z21.md`, `index.md`.
