@@ -96,3 +96,15 @@ Status: `completed`
 
 Integration der Abkürzungen aus der Quelle 'baufplo-abkurzungen--src-1d445f2af15c1a7dd326.md' in eine neue Wiki-Seite 'wiki/baufplo-abkurzungen.md' und Aktualisierung des Index.
 Integriert in: `wiki/baufplo-abkurzungen.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/ril-302-2000v04-inb-2027--src-f92bf459cafab19573c2.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/resource/blob/13699184/4e0bc0859ce69d8e9327d4dd3c308564/Ril-302-2000v04-INB-2027-data.pdf`
+Source-Key: `src-f92bf459cafab19573c2`
+Chunk: `1/1`
+Chunk-Key: `chunk-bc022792d3bd26dba6b1`
+Chunk-Status: `completed`
+Status: `completed`
+
+Erster Ingest der Ril 302.2000v04 (INB 2027) als neue Quelle. Da der bereitgestellte Teil 1/1 nur aus einer leeren Seite besteht, wurde noch keine inhaltliche Synthese in den Wiki-Bereich übernommen, jedoch wird die Quelle für zukünftige Teile registriert.
+Integriert in: `index.md`.
