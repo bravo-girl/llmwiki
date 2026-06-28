@@ -371,3 +371,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Ril 465 Betrieb auf Steilstrecken; Besondere Vorschriften über das Bremsen](wiki/quellen/src-263dcc9ddb561252c275.md)
 
 - [Ril 437 Zug- und Rangierfahrten im Signalisierten Zugleitbetrieb durchführen (SZB)](wiki/quellen/src-9a0b58e5f3bd27b833f2.md)
+
+- [402.0206](wiki/quellen/src-6e38b2dc36fa537e1fb5.md)
