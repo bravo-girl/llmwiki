@@ -439,3 +439,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [302.2206Z01](wiki/quellen/src-fbd875f9165ee1c8b79b.md)
 
 - [Anlage 7.3.1.6.1.6: Liste Trafogleise in Serviceeinrichtungen](wiki/quellen/src-243d48805a53f4eefe26.md)
+
+- [Anlage 7.3.1.6.1c: Nutzungsbedingungen Anlagenportal Netz](wiki/quellen/src-fc4e7680b01537850bd3.md)
