@@ -672,3 +672,15 @@ Status: `completed`
 
 Integration der Definition und des Status der Baumaßnahmenkorridore in die Wiki-Synthese unter 'Aktuelle Informationen und Veranstaltungen'.
 Integriert in: `wiki/aktuelle-infos-und-veranstaltungen.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/taf-tap-tsi-vertiefung-entfall-der-stamm-und-erganzungsfahrp--src-485e6cc7318de4c65698.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/resource/blob/13502062/b7d8c762f17daa28c5dba58cfc2638ea/Vertiefung-Entfall-der-Stamm-und-Ergaenzungsfahrplanlogik-data.pdf`
+Source-Key: `src-485e6cc7318de4c65698`
+Chunk: `1/1`
+Chunk-Key: `chunk-027e79cf611a9d33062e`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der neuen PDF-Quelle zur TAF/TAP TSI Vertiefung. Die Quelle beschreibt den Paradigmenwechsel vom getrennten Stamm- und Ergänzungsfahrplan hin zu einem durchgehenden, vollständigen Fahrplan für jeden Zeitraum (Wochentage/Wochenende).
+Integriert in: `wiki/taf-tap-wettbewerbsfaehigkeit.md`, `index.md`.
