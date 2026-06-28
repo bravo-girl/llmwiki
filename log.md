@@ -480,3 +480,15 @@ Status: `completed`
 
 Integration der Ril 420 (Betriebsleitstellen) in das Wiki. Da der bereitgestellte Quellenteil lediglich eine Tabellenzeile zu einem PDF-Dokument (Ril 420.02) enthält, wurde eine neue Wiki-Seite für die Ril 420 erstellt und der Index entsprechend erweitert.
 Integriert in: `wiki/ril-420-betriebsleitstellen.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/481-0204a01--src-f8b8d633210b288299af.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/resource/blob/13699550/24fae052b81121406be6350b62271391/Ril-481-0204A01-INB-2027-data.pdf`
+Source-Key: `src-f8b8d633210b288299af`
+Chunk: `1/1`
+Chunk-Key: `chunk-c4093e75b3a952c237d1`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der neuen Richtlinie Ril 481.0204A01 (Übersicht über die Ausleuchtung mit analogem Zugfunk der Bauform VZF 95) in das Wiki und Aktualisierung des Index.
+Integriert in: `wiki/ril-481-0204a01.md`, `index.md`.
