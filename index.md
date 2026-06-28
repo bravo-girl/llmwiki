@@ -705,3 +705,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [TAF/TAP TSI-Dialog – 9. März 2026 – Terminunterlage](wiki/quellen/src-138da20d109231c5536f.md)
 
 - [Anlage 4.4: Muster Rahmenvertrag (inklusive Anhang A sowie Anlage 1 und 2)](wiki/quellen/src-d4f60b7a097fc05a2bd2.md)
+
+- [Kickoff: Ende-zu-Ende Kundentests TAF/TAP TSI mit Identifiern - 11. März - Terminunterlage](wiki/quellen/src-84eb8c48d5cb3c927693.md)
