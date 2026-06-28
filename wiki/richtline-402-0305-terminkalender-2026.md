@@ -15,7 +15,7 @@ Der Terminkalender umfasst die Terminkette 2026 (basierend auf dem 1. Nachtrag) 
 
 Gemäß den Fahrplananordnungen der Richtlinie 402.0305 gehören folgende Bereiche zum Bahnbetrieb:
 
-- **Trassenmanagement**: Dokumentiert in der Fahrplananordnung 402.0305A05 (Beispiel), 402.0305A02 (Musterschreiben Veranstaltungen) sowie 402.0305A09 (Baubedingte Fahrplanregelungen abstimmen und kommunizieren).
+- **Trassenmanagement**: Dokumentiert in der Fahrplananordnung 402.0305A05 (Beispiel), 402.0305A02 (Musterschreiben Veranstaltungen), 402.0305A09 (Baubedingte Fahrplanregelungen abstimmen und kommunizieren) sowie 402.0305A11 (Baubedingte Fahrplanregelungen abstimmen und kommunizieren).
 - **Bauzuschlagskarte**: Dokumentiert in der Fahrplananordnung 402.0305A01 (Beispiel).
 
 ## Quellen
@@ -25,3 +25,4 @@ Gemäß den Fahrplananordnungen der Richtlinie 402.0305 gehören folgende Bereic
 - [402-0305a01--src-2ed8fb0f3d1bc95e90eb.pdf](../raw/402-0305a01--src-2ed8fb0f3d1bc95e90eb.md) (Original-URL: [https://www.dbinfrago.com/resource/blob/13699836/7fa46e8c03342b39ca7c5e97956ec494/Ril-402-0305A01-INB-2027-data.pdf)
 - [402-0305a02--src-be1a7892d21cab15032a.pdf](../raw/402-0305a02--src-be1a7892d21cab15032a.md) (Original-URL: [https://www.dbinfrago.com/resource/blob/13699860/2d7ab93cdf2e865ae46874f00214fb38/Ril-402-0305A02-INB-2027-data.pdf)
 - [402-0305a09--src-46f793f2ffbb52d9574d.pdf](../raw/402-0305a09--src-46f793f2ffbb52d9574d.md) (Original-URL: [https://www.dbinfrago.com/resource/blob/13699822/9eb68417ddc346a481f8b3aa739e9fbb/Ril-402-0305A09-INB-2027-data.pdf)
+- [402-0305a11--src-eade320ecee4c2f46223.pdf](../raw/402-0305a11--src-eade320ecee4c2f46223.md) (Original-URL: [https://www.dbinfrago.com/resource/blob/13699840/79dd5c323f1da4dd7df2a01df7a5491f/Ril-402-0305A11-INB-2027-data.pdf)
