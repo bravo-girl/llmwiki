@@ -743,3 +743,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [TAF/TAP TSI-Dialog – Juni 2025 – Terminunterlage](wiki/quellen/src-92949d520c5976d57218.md)
 
 - [302.4205Z01](wiki/quellen/src-b0379884ce3fadcd77f4.md)
+
+- [302.1202Z01](wiki/quellen/src-19415147620136b68eff.md)
