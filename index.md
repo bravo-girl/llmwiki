@@ -133,3 +133,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Einheitlicher Kommunikationsweg für Trasseninformationen](wiki/quellen/src-f48c26a3b527d7599e51.md)
 
 - [402.0202A05](wiki/quellen/src-6f46634c578d63182ee9.md)
+
+- [124.0600V01](wiki/quellen/src-0157fee4bdb156191671.md)
