@@ -673,3 +673,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Bedienerhandbuch TCM-Editor](wiki/quellen/src-d9e2cc014c964d8ba2b8.md)
 
 - [Anlage 3: xsd-Kompatibilität und Abweichungen vom Zielzustand](wiki/quellen/src-3b721ac065e40b2569e5.md)
+
+- [483.0201](wiki/quellen/src-1ce1fbeddc8fd991911a.md)
