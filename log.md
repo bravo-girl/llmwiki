@@ -360,3 +360,15 @@ Status: `completed`
 
 Integration der Informationen zum Kundensupport für das pathOS-System in die bestehende Wiki-Seite zur TAF/TAP-Wettbewerbsfähigkeit.
 Integriert in: `wiki/taf-tap-wettbewerbsfaehigkeit.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/402-0305a11--src-eade320ecee4c2f46223.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/resource/blob/13699840/79dd5c323f1da4dd7df2a01df7a5491f/Ril-402-0305A11-INB-2027-data.pdf`
+Source-Key: `src-eade320ecee4c2f46223`
+Chunk: `1/1`
+Chunk-Key: `chunk-72c48e07c64222d8803c`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Richtlinie 402.0305A11 (Baubedingte Fahrplanregelungen abstimmen und kommunizieren) in das Wiki. Die neue Richtlinie wird sowohl in der thematischen Übersicht der Richtlinie 402.0305 als auch als eigenständige Seite unter Regelwerke & Betrieb geführt.
+Integriert in: `wiki/richtline-402-0305-terminkalender-2026.md`, `wiki/ril-402-0305a11.md`, `index.md`.
