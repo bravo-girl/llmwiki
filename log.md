@@ -732,3 +732,15 @@ Status: `completed`
 
 Integration der 'Flyer-Bibliothek' aus der neuen Quelle. Die Liste der verfügbaren Flyer wurde als neue Synthese-Seite 'wiki/flyer-bibliothek.md' erstellt und im Wiki-Index unter 'Infrastruktur & Bauplanung' verlinkt.
 Integriert in: `wiki/flyer-bibliothek.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/netzzugangsrelevantes-regelwerk-2027-einleitung--src-45cd34944df3e5c599b0.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/regelwerke/regelwerke_netzzugangsrelevant/netzzugangsrelevantes_regelwerk-2027-13699882#llmwiki-section=einleitung`
+Source-Key: `src-45cd34944df3e5c599b0`
+Chunk: `1/1`
+Chunk-Key: `chunk-2dab3063f55df438628b`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Einleitung zum netzzugangsrelevanten Regelwerk der INB 2027. Es wurde eine neue Wiki-Seite erstellt, die die Verbindlichkeit der Richtlinien als Bestandteil der INB sowie die vorläufige Inkraftsetzung der Änderung der Richtlinie 402.0305 Abschnitt 16 (4) zum 08.04.2026 gemäß § 19 Abs. 6 ERegG dokumentiert. Der Index wurde um den entsprechenden Eintrag ergänzt.
+Integriert in: `wiki/netzzugangsrelevantes-regelwerk-2027-einleitung.md`, `index.md`.
