@@ -287,3 +287,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Information Sachstand Einführung TAF/TAP TSI im Fahrplan 2027](wiki/quellen/src-4aa651bd10d6b11247fd.md)
 
 - [492.0753V03](wiki/quellen/src-6407e0b660a305026011.md)
+
+- [Anlage 4.4.3: Fristen für die Anmeldung von Rahmenverträgen](wiki/quellen/src-7b874e1d7f0cbb55aebe.md)
