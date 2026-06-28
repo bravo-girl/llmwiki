@@ -857,3 +857,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [302.6203Z01](wiki/quellen/src-011006e15b514d9906e7.md)
 
 - [Benutzeranleitung für die „KiGbau im Internet“ (Gültig ab 01.01.2024)](wiki/quellen/src-5e4befb5a0047ced00da.md)
+
+- [483.0100Z12](wiki/quellen/src-273fea9e6900eff42e2e.md)
