@@ -813,3 +813,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [483.0101A03](wiki/quellen/src-3c3d56467cfacda7e6a5.md)
 
 - [302.4203Z01](wiki/quellen/src-d4358eb9561abac514a6.md)
+
+- [TAF/TAP Technische Beschreibung Bereitstellung von Meldungen zum Dispositionsfahrplan und Ausfall/Teilausfall _v5.5](wiki/quellen/src-0c4956f50b5981d8c718.md)
