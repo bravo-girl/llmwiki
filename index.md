@@ -607,3 +607,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [KOMBau FAQ](wiki/quellen/src-c7634ec4c798d2422aa6.md)
 
 - [302.2000V01](wiki/quellen/src-0fe40991081935b1db04.md)
+
+- [Unterlage zur Frage-Antwort-Runde zur Einführung TAF/TAP TSI – September 2024](wiki/quellen/src-ed1f581969031ac2f4ac.md)
