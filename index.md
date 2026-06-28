@@ -621,3 +621,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [481.0101](wiki/quellen/src-f213eb1f4577254a8726.md)
 
 - [Anlage 9: Fehlercodes der DB InfraGO](wiki/quellen/src-d7371e7423c9c6044875.md)
+
+- [302.2000V02](wiki/quellen/src-870c193d6c096176bad0.md)
