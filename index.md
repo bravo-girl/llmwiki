@@ -307,3 +307,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [492.0753V04](wiki/quellen/src-b3401ad6fec0bcdbd3d3.md)
 
 - [302.5003Z98](wiki/quellen/src-bd99a7240fc782aac14d.md)
+
+- [Welche Rolle spielt die KOMBau für den Annex VII?](wiki/quellen/src-46ba681475c621a7f887.md)
