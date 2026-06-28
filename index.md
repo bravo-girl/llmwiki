@@ -93,3 +93,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [423.8010Z99](wiki/quellen/src-702062919e323146414f.md)
 
 - [ETCS Level NTC PZB/LZB](wiki/quellen/src-8ccb26c33c5abeb79288.md)
+
+- [Digitale Baufahrplananordnung - Einleitung](wiki/quellen/src-1be470143c7ef196d589.md)
