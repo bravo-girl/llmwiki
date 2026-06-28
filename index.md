@@ -561,3 +561,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Changelog BauFplo API EVU 2.17.0](wiki/quellen/src-c557e3750b9fa9df282f.md)
 
 - [Anlage 4.2: Nutzungsbedingungen pathOS](wiki/quellen/src-2393586bd0f0cf21f03b.md)
+
+- [Ril 483 Zugbeeinflussungsanlagen bedienen](wiki/quellen/src-8d81a19f40f57c122308.md)
