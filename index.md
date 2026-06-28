@@ -12,6 +12,7 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Digitale Baufahrplananordnung](wiki/digitale-baufahrplananordnung.md) – Einleitung zur digitalen Baufahrplananordnung (basierend auf ../raw/baufplo-einleitung--src-1be470143c7ef196d589.md).
 - [FAQ BauFplo](wiki/baufplo-faq.md) – Fragenkatalog zur digitalen Baufahrplananordnung.
 - [Abkürzungen BauFplo](wiki/baufplo-abkurzungen.md) – Verzeichnis der verwendeten Fachabkürzungen.
+- [KiGbau Einleitung](wiki/kigbau-einleitung.md) – Vorteile der KiGbau für die Abstimmung und Auswertung.
 
 ## Eisenbahnsysteme (ETCS)
 
