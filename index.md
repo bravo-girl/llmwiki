@@ -157,3 +157,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [481.0201A01](wiki/quellen/src-1db53b758acba227e36a.md)
 
 - [481.0201A03](wiki/quellen/src-ed30d43bd06e53e1cbed.md)
+
+- [Anlage 5.4.2: Umrisslinie zur Preisbildung aT](wiki/quellen/src-a12e46cfc0e911874b65.md)
