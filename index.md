@@ -1003,3 +1003,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 10: Dokumentation zum ujBau Prozess](wiki/quellen/src-7f5f91e28bee32c6e347.md)
 
 - [302.4000](wiki/quellen/src-132b43edfde9647de11d.md)
+
+- [302.6000](wiki/quellen/src-3ca667fead872db916cf.md)
