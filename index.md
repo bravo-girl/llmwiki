@@ -629,3 +629,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Anlage 9: Fehlercodes der DB InfraGO](wiki/quellen/src-231dc086bb9279208c76.md)
 
 - [TAF/TAP TSI-Dialog – 22. April 2026 – Terminunterlage](wiki/quellen/src-2345701a98ba630b7716.md)
+
+- [483.0102A01](wiki/quellen/src-7615e4f7b08fc35dab07.md)
