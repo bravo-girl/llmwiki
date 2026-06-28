@@ -685,3 +685,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Informationsveranstaltung „Vertiefung ujBau“ am 25. Juni 2026](wiki/quellen/src-5ffa18b0533c040aa2e1.md)
 
 - [Anlage 2.3.12: GSM-R AGB](wiki/quellen/src-5945f3be3ea927fdba43.md)
+
+- [Anlage 2.6.1.5: Karte Trafonetz](wiki/quellen/src-221727ba61bc41c79199.md)
