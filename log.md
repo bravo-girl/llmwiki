@@ -324,3 +324,15 @@ Status: `completed`
 
 Integration der neuen Version Ril 437.0011V02 (Teil Triebfahrzeugführer) in das Wiki. Da die neue Quelle eine andere Version (V02 statt V01) und einen anderen inhaltlichen Fokus (Triebfahrzeugführer statt Zugleiter) hat, wird eine neue Wiki-Seite erstellt und der Index aktualisiert.
 Integriert in: `wiki/ril-437-0011v02.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/baufplo-eine-neue-baufplo-die-anderungen-auf-einen-blick--src-1686003d66bb00f74145.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/fahren_und_bauen/BauFplo-13377708#llmwiki-section=eine-neue-baufplo-die-anderungen-auf-einen-blick`
+Source-Key: `src-1686003d66bb00f74145`
+Chunk: `1/1`
+Chunk-Key: `chunk-eea544912f2fd56b54f4`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration des neuen Fachabschnitts 'Eine neue BauFplo – Die Änderungen auf einen Blick' in die Synthese zur digitalen Baufahrplananordnung und Aktualisierung des Wiki-Index.
+Integriert in: `wiki/digitale-baufahrplananordnung.md`, `index.md`.
