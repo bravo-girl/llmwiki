@@ -295,3 +295,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [402.0305A12](wiki/quellen/src-06457c739dee169326be.md)
 
 - [2. Anhängige Gerichtsverfahren zu Untersagungen einzelner Klauseln](wiki/quellen/src-553807de25f073cdfb79.md)
+
+- [5. Common Interface / Schnittstelle](wiki/quellen/src-ac31781076cd7390eb3b.md)
