@@ -319,3 +319,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [pathOS - TAF/TAP-konformes Bestellsystem](wiki/quellen/src-5bcb13e403dc83edc366.md)
 
 - [2. Identifikatoren und Objekte](wiki/quellen/src-bfdaa0123f24538379f9.md)
+
+- [Einführung der BauFplo – Ein mehrstufiger Ansatz](wiki/quellen/src-d415057bfcaf32b5f73e.md)
