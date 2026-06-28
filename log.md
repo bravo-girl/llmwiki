@@ -252,3 +252,15 @@ Status: `completed`
 
 Integration der ersten Seite des Fernsprechbuchs für den SZB-E (Teil Zugleiter) gemäß Ril 437.0011V01 in die Wiki-Struktur unter 'Regelwerke & Betrieb'.
 Integriert in: `wiki/ril-437-0011v01.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/allgemein-einheitlicher-kommunikationsweg-fur-trasseninforma--src-f48c26a3b527d7599e51.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/allgemein-11089206#llmwiki-section=einheitlicher-kommunikationsweg-fur-trasseninformationen`
+Source-Key: `src-f48c26a3b527d7599e51`
+Chunk: `1/1`
+Chunk-Key: `chunk-b6372c7d539aaa445a45`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration des neuen Fachabschnitts über den einheitlichen Kommunikationsweg für Trasseninformationen in die Synthese zur Wettbewerbsfähigkeit sowie Aktualisierung des Wiki-Index.
+Integriert in: `wiki/taf-tap-wettbewerbsfaehigkeit.md`, `index.md`.
