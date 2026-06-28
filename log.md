@@ -552,3 +552,15 @@ Status: `completed`
 
 Integration der Vorteile der Annex VII-Richtlinie in das Wiki. Da die Quelle die Prozessverbesserung und die laufwegbezogene Betrachtung zur frühzeitigen Erkennung von Mehrfachbetroffenheit (MFB) beschreibt, wurde eine neue Wiki-Seite 'wiki/annex-vii-vorteile.md' erstellt und der Index aktualisiert.
 Integriert in: `wiki/annex-vii-vorteile.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/allgemein-einleitung--src-2aa459e5ff562ab46fd1.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/allgemein-11089206#llmwiki-section=einleitung`
+Source-Key: `src-2aa459e5ff562ab46fd1`
+Chunk: `1/1`
+Chunk-Key: `chunk-3cf9d2ec2888ee2b0a13`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der Einleitung zu TAF/TAP TSI aus der Originalquelle. Die neuen Kennzahlen (Umsetzungsjahr 2027, Trassenvolumen, Länderbeteiligung) wurden in die Synthese aufgenommen und die Quellenangaben wurden um den neuen Teil ergänzt.
+Integriert in: `wiki/taf-tap-wettbewerbsfaehigkeit.md`, `index.md`.
