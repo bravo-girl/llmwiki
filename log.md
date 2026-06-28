@@ -156,3 +156,15 @@ Status: `completed`
 
 Integration des Fachabschnitts zur Wettbewerbsfähigkeit durch TAF/TAP in das Wiki. Erstellung der neuen Synthese-Seite 'wiki/taf-tap-wettbewerbsfaehigkeit.md' und Aktualisierung des 'index.md' unter der Kategorie 'Regelwerke & Betrieb (Ril)'.
 Integriert in: `wiki/taf-tap-wettbewerbsfaehigkeit.md`, `index.md`.
+
+## [2026-06-28] ingest-chunk | raw/allgemein-bessere-betriebliche-durchfuhrung--src-5712d0260327f84a00a4.md | 1/1
+
+Source-ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/allgemein-11089206#llmwiki-section=bessere-betriebliche-durchfuhrung`
+Source-Key: `src-5712d0260327f84a00a4`
+Chunk: `1/1`
+Chunk-Key: `chunk-3c2ddc59293fdcadb50b`
+Chunk-Status: `completed`
+Status: `completed`
+
+Integration der neuen Evidenz zur betrieblichen Durchführung (bessere Prognosequalität durch Echtzeitdaten und Informationslevel) in die bestehende Synthese zur TAF/TAP Wettbewerbsfähigkeit.
+Integriert in: `wiki/taf-tap-wettbewerbsfaehigkeit.md`, `index.md`.
