@@ -57,3 +57,7 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 ## Aktuelles & Events
 
 - [Aktuelle Informationen und Veranstaltungen](wiki/aktuelle-infos-und-veranstaltungen.md) – Newsletter-Format, Veranstaltungsübersicht und Informationen zum Kundenbeirat ZvF-Stafette sowie Baumaßnahmenkorridore.
+
+## Quellen
+
+- [Informationen für Tests der Schnittstelle zu pathOS (für IT-Partner)](wiki/quellen/src-4fdddca3fb585dd6eb8f.md)
