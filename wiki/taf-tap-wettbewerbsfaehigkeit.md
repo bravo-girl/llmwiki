@@ -44,6 +44,13 @@ Das neue Onlineportal bietet eine Entwurfsfunktion, die es ermöglicht, Vorlagen
 
 Prinzipiell kann aus jedem Vorgang innerhalb von Sekunden eine Vorlage erstellt werden.
 
+## Paradigmenwechsel: Entfall der Stamm- und Ergänzungsfahrplanlogik
+
+Im Zuge der TAF/TAP-Umsetzung findet eine grundlegende Änderung der Fahrplanstruktur statt:
+
+- **Bisheriges Modell**: Trennung in einen Stammfahrplan (z. B. unter der Woche) und einen Ergänzungsfahrplan (z. B. am Wochenende).
+- **Zukünftiges Modell**: Jeder Fahrplan ist komplett von Start bis Ziel durchgängig definiert, unabhängig vom Wochentag.
+
 ## Kundensupport pathOS
 
 Das fachliche Support-Team von pathOS ist zu folgenden Zeiten erreichbar:
@@ -62,3 +69,4 @@ Das fachliche Support-Team von pathOS ist zu folgenden Zeiten erreichbar:
 - [Originalquelle](../raw/taf-tap-tsi-faq-7-kundensupport--src-ceb70461e6d7fce10076.md) (ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/TAF-TAP-TSI-FAQ-13868920#llmwiki-section=7-kundensupport`)
 - [Originalquelle](../raw/taf-tap-tsi-faq-1-ubergreifende-themen-zu-den-evu-verordnungen--src-a725959f1aa08ae51f21.md) (ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/TAF-TAP-TSI-FAQ-13868920#llmwiki-section=1-ubergreifende-themen-zu-den-evu-verordnungen`)
 - [Originalquelle](../raw/taf-tap-tsi-faq-6-pathos-webportal--src-725f3be4171ba08522cd.md) (ID: `https://www.dbinfrago.com/web/schienennetz/netzzugang-und-regulierung/taf-tap-tsi/TAF-TAP-TSI-FAQ-13868920#llmwiki-section=6-pathos-webportal`)
+- [Vertiefung: Entfall der Stamm- und Ergänzungsfahrplanlogik](../raw/taf-tap-tsi-vertiefung-entfall-der-stamm-und-erganzungsfahrplanlogik--src-485e6cc7318de4c65698.pdf) (ID: `https://www.dbinfrago.com/resource/blob/13502062/b7d8c762f17daa28c5dba58cfc2638ea/Vertiefung-Entfall-der-Stamm-und-Ergaenzungsfahrplanlogik-data.pdf`)
