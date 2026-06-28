@@ -349,3 +349,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Antworten auf offene Punkte aus dem JF SST-Partner - Februar 2026](wiki/quellen/src-5cf7438dc5addafd2586.md)
 
 - [BauFplo – Beispieldateien](wiki/quellen/src-d50fd53c96123666fe8c.md)
+
+- [Informationen zur Umsetzung TAF/TAP TSI – Entwicklung und Fortführung Schnittstellentests](wiki/quellen/src-6c1f9fe40378cd6c90b7.md)
