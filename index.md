@@ -83,3 +83,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Annex VII – Der neue Prozess zur Baukommunikation - Einleitung](wiki/quellen/src-52c370cf432df89e4c3f.md)
 
 - [481.0101V03](wiki/quellen/src-7fe964f50fc338f1f7c4.md)
+
+- [Archiv Dokumentation (Vers. 4.6.2)](wiki/quellen/src-819e0c2870be3fef2656.md)
