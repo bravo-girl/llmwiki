@@ -10,3 +10,4 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 ## Infrastruktur & Bauplanung
 
 - [Digitale Baufahrplananordnung](wiki/digitale-baufahrplananordnung.md) – Einleitung zur digitalen Baufahrplananordnung (basierend auf ../raw/baufplo-einleitung--src-1be470143c7ef196d589.md).
+- [FAQ BauFplo](wiki/baufplo-faq.md) – Fragenkatalog zur digitalen Baufahrplananordnung.
