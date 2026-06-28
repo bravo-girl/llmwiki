@@ -23,6 +23,7 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 
 ## Regelwerke & Betrieb (Ril)
 
+- [Netzzugangsrelevantes Regelwerk (INB 2027)](wiki/netzzugangsrelevantes-regelwerk-2027-einleitung.md) – Einleitung und Status der Richtlinien als Bestandteil der INB.
 - [Ril 465.0001A01 (Betrieb auf Steilstrecken)](wiki/ril-465-0001a01.md) – Besondere Vorschriften über das Bremsen auf der Steilstrecke Linz - Kahlenborn.
 - [Ril 465.0001A04 (Betrieb auf Steilstrecken)](wiki/ril-465-0001a04.md) – Besondere Vorschriften über das Bremsen auf der Steilstrecke Baiersbronn - Freudenstadt Hbf.
 - [Ril 465.0001A05 (Betrieb auf Steilstrecken)](wiki/ril-465-0001a05.md) – Besondere Vorschriften über das Bremsen auf der Steilstrecke Stützerbach - Schleusingen.
