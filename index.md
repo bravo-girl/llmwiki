@@ -181,3 +181,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Welche Vorteile bringt die Einführung von Annex VII für die Kund:innen der DB InfraGO AG?](wiki/quellen/src-fe9df9f5ed8633c76a52.md)
 
 - [Über TAF/TAP TSI - Einleitung](wiki/quellen/src-2aa459e5ff562ab46fd1.md)
+
+- [Bahnübergänge: Verwendet die ETCS-Streckeneinrichtung die Level Crossing Procedure aus Subset 026 oder eine vergleichbare Lösung?](wiki/quellen/src-054c744bc35675803bec.md)
