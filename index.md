@@ -81,3 +81,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Infrastrukturnutzungsbedingungen der DB InfraGO AG (INB) 2027 - Einleitung](wiki/quellen/src-9bbe917af34716ba942a.md)
 
 - [Annex VII – Der neue Prozess zur Baukommunikation - Einleitung](wiki/quellen/src-52c370cf432df89e4c3f.md)
+
+- [481.0101V03](wiki/quellen/src-7fe964f50fc338f1f7c4.md)
