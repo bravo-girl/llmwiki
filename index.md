@@ -30,6 +30,7 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [Ril 481.0201A01 (Übersicht AEG)](wiki/ril-481-0201a01.md) – Übersicht über das analoge Zugfunksystem AEG.
 - [Ril 481.0201A02 (Streckenband analoger Zugfunk)](wiki/ril-481-0201a02.md) – Streckenband für analogen Zugfunk.
 - [Ril 481.0201A03 (Mitbenutzung in Überlappungsbereichen)](wiki/ril-481-0201a03.md) – Übersicht der Mitbenutzung des analogen Zugfunks in Überlappungsbereichen.
+- [Ril 481.0204A01 (Ausleuchtung VZF 95)](wiki/ril-481-0204a01.md) – Übersicht über die Ausleuchtung mit analogem Zugfunk der Bauform VZF 95.
 - [Ril 481.0301V01 (Rangierfunk-Teilnehmerverzeichnis)](wiki/ril-481-0301v01.md) – Verzeichnis der Teilnehmer am Rangierfunk.
 - [Ril 492.0753V01 (Anlage 2a VDV 753)](wiki/ril-492-0753v01.md) – Muster „Führerschein".
 - [Ril 492.0753V02 (Anlage 2b VDV 753)](wiki/ril-492-0753v02.md) – Muster „Beiblatt" gemäß KoRil 492.0753V02.
