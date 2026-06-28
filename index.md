@@ -375,3 +375,5 @@ Originalquellen liegen unveränderlich unter `raw/`; daraus gepflegte Synthesen 
 - [402.0206](wiki/quellen/src-6e38b2dc36fa537e1fb5.md)
 
 - [483.0202A03](wiki/quellen/src-c9968cc05313ac6e8300.md)
+
+- [Ril 482 Signalanlagen bedienen](wiki/quellen/src-c3ff1274406bfc132ec8.md)
