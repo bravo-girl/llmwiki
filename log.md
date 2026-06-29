@@ -1011,3 +1011,8 @@ Keine redundante Wissensseite erzeugt.
 
 Gelesen: [Handbuch pathOS Webportal (Version 1.01– Stand 13.03.2026)](https://www.dbinfrago.com/resource/blob/13716038/9e644d9152371922c4a5bb0282b61567/Handbuch-pathOS-Webportal-Version-1-01-Stand-13-Maerz-2026--data.pdf) (`wiki/quellen/src-726a6a6cad394fdc2fad.md`), [Handbuch pathOS Webportal (Version 1.01– Stand 13.03.2026)](https://www.dbinfrago.com/resource/blob/13716038/9e644d9152371922c4a5bb0282b61567/Handbuch-pathOS-Webportal-Version-1-01-Stand-13-Maerz-2026--data.pdf) (`wiki/quellen/src-726a6a6cad394fdc2fad.md`).
 Keine redundante Wissensseite erzeugt.
+
+## [2026-06-29] query | erkläre die zusammensetzung von pathid
+
+Gelesen: [TAF/TAP Technische Beschreibung Bereitstellung von Meldungen zum Dispositionsfahrplan und Ausfall/Teilausfall _v5.5](https://www.dbinfrago.com/resource/blob/12598318/e371ec965ed01ed7d6619ded0db170fc/Technische-Beschreibung-Bereitstellung-von-Meldungen-data.pdf) (`wiki/quellen/src-0c4956f50b5981d8c718.md`).
+Keine redundante Wissensseite erzeugt.
