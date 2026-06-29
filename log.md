@@ -1006,3 +1006,8 @@ Keine redundante Wissensseite erzeugt.
 
 Gelesen: [Kickoff: Ende-zu-Ende Kundentests TAF/TAP TSI mit Identifiern - 11. März - Terminunterlage](https://www.dbinfrago.com/resource/blob/13770144/ee4a14afd4c9eb49982b5f8543c91a1c/Kickoff-Ende-zu-Ende-Kundentests-TTT-mit-Identifiern-data.pdf) (`wiki/quellen/src-84eb8c48d5cb3c927693.md`), [TAF/TAP-Objekte und Identifikatoren](https://www.dbinfrago.com/resource/blob/11089294/6a4b5990c9ce96a7a1bb71efa5c48f16/Flyer-TAF-TAP-Identifikatoren-data.pdf) (`wiki/quellen/src-89a22ff47944d0df1115.md`), [TAF/TAP TSI-Dialog – 26. März 2026 – Terminunterlage](https://www.dbinfrago.com/resource/blob/13790868/f58d1f1ede86e13b4f38c77eeb495385/TAF-TAP-TSI-Dialog-26-Maerz-2026-Terminunterlage-data.pdf) (`wiki/quellen/src-05b1e09c87f657bfce47.md`), [TAF/TAP TSI-Dialog – 9. März 2026 – Terminunterlage](https://www.dbinfrago.com/resource/blob/13768936/cefab95ea544d761fea358396f8f29be/TAF-TAP-TSI-Dialog-9-Maerz-2026-Terminunterlage-data.pdf) (`wiki/quellen/src-138da20d109231c5536f.md`).
 Keine redundante Wissensseite erzeugt.
+
+## [2026-06-29] query | erkläre otn und pathid bei pathos
+
+Gelesen: [Handbuch pathOS Webportal (Version 1.01– Stand 13.03.2026)](https://www.dbinfrago.com/resource/blob/13716038/9e644d9152371922c4a5bb0282b61567/Handbuch-pathOS-Webportal-Version-1-01-Stand-13-Maerz-2026--data.pdf) (`wiki/quellen/src-726a6a6cad394fdc2fad.md`), [Handbuch pathOS Webportal (Version 1.01– Stand 13.03.2026)](https://www.dbinfrago.com/resource/blob/13716038/9e644d9152371922c4a5bb0282b61567/Handbuch-pathOS-Webportal-Version-1-01-Stand-13-Maerz-2026--data.pdf) (`wiki/quellen/src-726a6a6cad394fdc2fad.md`).
+Keine redundante Wissensseite erzeugt.
