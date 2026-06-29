@@ -996,3 +996,8 @@ Status: `completed`
 
 Definition und Funktionsweise des ETCS-Levels NTC (ehemals STM) zur Befahrung von Strecken mit nationalen Zugbeeinflussungssystemen (Klasse B).
 Integriert in: `wiki/quellen/src-8ccb26c33c5abeb79288.md`, `index.md`.
+
+## [2026-06-29] query | Erkläre die neuen TTT-Identifier.
+
+Gelesen: `wiki/quellen/src-a302529d2eaaba251c0a.md`.
+Keine redundante Wissensseite erzeugt.
