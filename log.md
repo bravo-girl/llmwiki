@@ -1016,3 +1016,8 @@ Keine redundante Wissensseite erzeugt.
 
 Gelesen: [TAF/TAP Technische Beschreibung Bereitstellung von Meldungen zum Dispositionsfahrplan und Ausfall/Teilausfall _v5.5](https://www.dbinfrago.com/resource/blob/12598318/e371ec965ed01ed7d6619ded0db170fc/Technische-Beschreibung-Bereitstellung-von-Meldungen-data.pdf) (`wiki/quellen/src-0c4956f50b5981d8c718.md`).
 Keine redundante Wissensseite erzeugt.
+
+## [2026-06-29] query | erkläre die zusammensetzung von pathid im detail, welche bereiche bedeuten was
+
+Keine vorhandene Wiki-Seite zitiert.
+Keine redundante Wissensseite erzeugt.
